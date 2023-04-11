@@ -13,6 +13,7 @@
     - 志願者 (shi-gan-sha) - applicant
     - を (o) - object marker particle
     - ふるいにかける (fu-ru-i-ni-ka-ke-ru) - to screen, to sift
+    - ことだった (ko-to-da-tta) - was
 
 ## **彼女には数人の友だちがいる。**
 
@@ -140,6 +141,17 @@
     - 投手 (tou-shu) - pitcher
     - だと (da-to) - as, that (particle indicating the content of what is being said)
     - 考えてる (kan-ga-e-te-ru) - think (present continuous form of the verb "kangaeru")
+
+
+## **フランス語で何か言ってみて**
+
+- Sentence Category: Request Sentence
+- English translation: "Say something in French."
+- Word Breakdown:
+    - フランス語で (fu-ran-su-go-de) - in French (using the locational particle "de")
+    - 何か (na-ni-ka) - something
+    - 言ってみて (i-tte-mi-te) - say and see (an idiomatic phrase meaning "try saying it")
+
 
 ## **え、そういうの一番困るんだけど。**
 
@@ -286,3 +298,55 @@
     - あおいで (ao-i-de) - with a blue (adverbial form of the adjective "aoi")
     - 火を (hi-wo) - fire (object marker particle)
     - おこした (o-ko-shi-ta) - started (past tense of the verb "okosu")
+
+
+## **メッセージがなぜか文字化けしていたので、修復して読みました。**
+
+- Sentence Category: Statement Sentence
+- English translation: "I fixed and read the message which was garbled for some reason."
+- Word Breakdown:
+    - メッセージ (mes-se-ji) - message
+    - が (ga) - particle indicating the subject
+    - なぜか (na-ze-ka) - for some reason
+    - 文字化け (mo-ji-ka-ke) - garbled characters
+    - していた (shi-te-i-ta) - was doing (past progressive tense of the verb "suru")
+    - ので (no-de) - because of, due to
+    - 修復して (shuu-fuku-shi-te) - fixed (present progressive tense of the verb "shuufuku suru")
+    - 読みました (yo-mi-ma-shi-ta) - read (past tense of the verb "yomu")
+
+## **右耳からうみが出ます。**
+
+- Sentence Category: Statement Sentence
+- English translation: "Water is coming out of my right ear."
+- Word Breakdown:
+    - 右耳 (mi-gi-mi-mi) - right ear
+    - から (ka-ra) - from
+    - うみ (u-mi) - water
+    - が (ga) - particle indicating the subject
+    - 出ます (de-ma-su) - come out (present tense of the verb "deru")
+
+## **あつしは病気だったかもしれない。**
+
+- Sentence Category: Statement Sentence
+- English translation: "Atsushi may have been sick."
+- Word Breakdown:
+    - あつし (a-tsu-shi) - Atsushi (a name)
+    - は (wa) - topic marking particle
+    - 病気 (byo-u-ki) - sick
+    - だった (da-tta) - past tense of the copula "da"
+    - かもしれない (ka-mo-shi-re-nai) - may have been (potential form of the verb "shiru" combined with "kamo shirenai," meaning "may not know for sure")
+
+## **おしゃべりの人は、いつも秘密を暴露して他人の利害を冒している。**
+
+- Sentence Category: Statement Sentence
+- English translation: "Talkative people always expose secrets and jeopardize the interests of others."
+- Word Breakdown:
+    - おしゃべり (o-sha-be-ri) - talkative
+    - の (no) - possessive particle
+    - 人は (hi-to-wa) - people (topic marking particle)
+    - いつも (i-tsu-mo) - always
+    - 秘密を (hi-mi-tsu-o) - secrets (object marking particle)
+    - 暴露して (bo-u-ro-shi-te) - expose
+    - 他人の (ta-nin-no) - other people's
+    - 利害を (ri-gai-o) - interests (object marking particle)
+    - 冒している (mo-u-shi-te-i-ru) - jeopardize (present progressive tense of the verb "moesu")
