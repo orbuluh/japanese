@@ -36,17 +36,17 @@
     - を (o) - object marker particle
     - 下さい (ku-da-sai) - please give (polite imperative form of the verb "kudasaru")
 
-## **おんがくにわたしは生きがいを持っています。**
+## **音楽に私は生きがいを持っています。**
 
-- Sentence Category: Statement Sentence
-- English translation: "I find my life's purpose in music."
-- Word Breakdown:
-    - おんがく (on-ga-ku) - music
-    - に (ni) - indicating the target of the sentence
-    - わたしは (wa-ta-shi-wa) - I
-    - 生きがい (i-ki-gai) - purpose in life, reason for living
-    - を (o) - object marker particle
-    - 持っています (mo-tte-i-ma-su) - to have (polite form of the verb "motsu")
+- Sentence category: Statement
+- English translation: I find my life purpose in music.
+- Breakdown:
+    - 音楽 (ongaku) - "music"
+    - に (ni) - particle indicating the subject of the sentence
+    - 私は (watashi wa) - "I" (subject with topic marker)
+    - 生きがい (ikigai) - "life purpose" or "reason for living"
+    - を (o) - object marker
+    - 持っています (motte imasu) - "have" or "possess" (verb in present tense)
 
 ## **連絡先をここに書いてください。**
 
@@ -142,6 +142,17 @@
     - だと (da-to) - as, that (particle indicating the content of what is being said)
     - 考えてる (kan-ga-e-te-ru) - think (present continuous form of the verb "kangaeru")
 
+
+## **彼を破滅させたのはばくちであった。**
+
+- Sentence Category: Statement Sentence
+- English translation: "What ruined him was gambling."
+- Word Breakdown:
+    - 彼を (ka-re-wo) - him (object marker particle)
+    - 破滅させた (ha-met-sa-she-ta) - ruined (past tense of the verb "hametsu suru," meaning "to ruin")
+    - のは (no-wa) - subject marker particle
+    - ばくち (ba-ku-chi) - gambling
+    - であった (de-at-ta) - was (past tense of the copula "da")
 
 ## **フランス語で何か言ってみて**
 
@@ -350,3 +361,149 @@
     - 他人の (ta-nin-no) - other people's
     - 利害を (ri-gai-o) - interests (object marking particle)
     - 冒している (mo-u-shi-te-i-ru) - jeopardize (present progressive tense of the verb "moesu")
+
+## **帯に短し、襷に長し。**
+
+- Sentence Category: Proverb
+- English Translation: "Short in the obi, long in the sleeve." This is a Japanese proverb that means "what is lacking on one hand is made up for on the other." It is often used to describe someone who may not excel in one area, but compensates with strength or skill in another area.
+- Word Breakdown:
+    - 帯に (obi-ni) - in the obi (a type of sash worn with traditional Japanese clothing)
+    - 短し (mijikashi) - short
+    - 襷に (tutugi-ni) - in the sleeve (a part of traditional Japanese clothing)
+    - 長し (nagashi) - long
+
+## **彼が他の女の子に話しかけると、彼女はやきもちを焼いた。**
+
+- Sentence Category: Statement Sentence
+- English translation: "When he talked to other girls, she became jealous."
+- Word Breakdown:
+    - 彼が (ka-re-ga) - he (subject marker particle)
+    - 他の女の子に (hi-ta-no-o-na-ko-ni) - to other girls (indirect object marker particle)
+    - 話しかけると (ha-na-shi-ka-ke-ru-to) - when talking to
+    - 彼女は (ka-no-jo-wa) - she (topic marker particle)
+    - やきもちを焼いた (ya-ki-mo-chi-wo-yai-ta) - became jealous (past tense of the verb "yakimochi wo yaku")
+
+## **その州は、五つか六つの地域に分かれている。**
+
+- Sentence Category: Statement Sentence
+- English translation: "The state is divided into five or six regions."
+- Word Breakdown:
+    - その (so-no) - that (adjective)
+    - 州 (shuu) - state
+    - は (wa) - topic marking particle
+    - 五つか六つの (go-tsu ka roku-tsu no) - five or six (counter word for things + the particle "ka" meaning "or" + six and its counter word)
+    - 地域に (chi-iki ni) - region (location + particle indicating location)
+    - 分かれている (waka-re-te-i-ru) - divided (present progressive tense of the verb "wakaru" meaning "to be divided")
+
+
+## **飛行機から見ると、これらの島が本当に美しいと思った。**
+
+- Sentence category: Statement
+- English translation: I thought these islands were really beautiful when viewed from the airplane.
+- Breakdown:
+    - 飛行機 (hikouki) - "airplane"
+    - から (kara) - "from"
+    - 見る (miru) - "see/view"
+    - と (to) - conjunction particle meaning "when"
+    - これら (korera) - "these" (plural)
+    - の (no) - possessive particle
+    - 島 (shima) - "island"
+    - が (ga) - subject marker
+    - 本当に (hontou ni) - "really/truly"
+    - 美しい (utsukushii) - "beautiful"
+    - と思った (to omotta) - "thought that"
+
+
+## **このミルクは少し古くなってしまいました。**
+
+- Sentence category: Statement
+- English translation: This milk has become a little bit old.
+- Breakdown:
+    - この (kono) - "this"
+    - ミルク (miruku) - "milk"
+    - は (wa) - topic marker
+    - 少し (sukoshi) - "a little bit"
+    - 古くなってしまいました (fukunatte shimaimashita) - "became old/has gone bad" (polite past tense)
+
+
+## **夜が明けるまで、こうしてさよならを言っていた。**
+
+- Sentence category: Statement
+- English translation: I said goodbye like this until the morning broke.
+- Breakdown:
+    - 夜 (yoru) - "night"
+    - が (ga) - subject marker
+    - 明ける (akeru) - "breaks/dawns" (intransitive verb indicating the beginning of a new day)
+    - まで (made) - particle indicating a time limit (in this case, "until")
+    - こうして (koushite) - "like this"
+    - さよなら (sayonara) - "goodbye"
+    - を (wo) - object marker
+    - 言っていた (itteita) - "was saying" (continuous past tense)
+
+## **サンドイッチは要りません。**
+
+- Sentence category: Statement
+- English translation: I don't need a sandwich.
+- Breakdown:
+    - サンドイッチ (sandoicchi) - "sandwich"
+    - は (wa) - topic marker
+    - 要りません (irimasen) - "do not need" (negative polite present tense)
+
+## **私たちは会話が少ない。**
+
+- Sentence category: Statement
+- English translation: We don't have much conversation.
+- Breakdown:
+    - 私たち (watashitachi) - "we"
+    - は (wa) - topic marker
+    - 会話 (kaiwa) - "conversation"
+    - が (ga) - subject marker
+    - 少ない (sukunai) - "little/few"
+
+## **彼は申し分なくよく働いている。**
+
+- Sentence category: Statement
+- English translation: He is working well without any faults.
+- Breakdown:
+    - 彼 (kare) - "he"
+    - は (wa) - topic marker
+    - 申し分なく (moushifun naku) - "without any faults"
+    - よく (yoku) - "well"
+    - 働いている (hataraiteiru) - "is working" (present continuous tense)
+
+## **君はそんな間違いを繰り返さない方がよい。**
+
+- Sentence category: Advice
+- English translation: You had better not repeat such a mistake.
+- Breakdown:
+    - 君は (kimi wa) - "you" (subject)
+    - そんな (sonna) - "such" (adjective modifying 間違い)
+    - 間違い (machigai) - "mistake"
+    - を (o) - object marker
+    - 繰り返さない (kurikaesanai) - "not repeat" (negative form of the verb "kurikaesu")
+    - 方がよい (hou ga yoi) - "had better" or "should" (expression of advice)
+
+## **向こうにいる少女をあなたは見たことがありますか。**
+
+- Sentence category: Question
+- English translation: Have you ever seen the girl over there?
+- Breakdown:
+    - 向こうに (mukou ni) - "over there" (referring to a place in the distance)
+    - いる (iru) - "is there" (verb indicating existence of a person)
+    - 少女 (shoujo) - "girl"
+    - を (o) - object marker
+    - あなたは (anata wa) - "you" (subject, with emphasis on "you")
+    - 見たことがありますか (mita koto ga arimasu ka) - "have you ever seen" (expression for asking about past experience)
+
+## **こんなことしそうなのは誰だと思う？**
+
+- Sentence category: Question
+- English translation: Who do you think would do such a thing?
+- Breakdown:
+    - こんなこと (konna koto) - "such a thing"
+    - しそうな (shi sou na) - "likely to do" (adjective form of the verb "suru" + "sou" indicating likelihood)
+    - のは (no wa) - particle indicating emphasis or contrast
+    - 誰 (dare) - "who"
+    - だと思う (da to omou) - "do you think" (expression for seeking opinion)
+
+
