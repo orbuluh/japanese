@@ -184,7 +184,7 @@
   - 書かないで (kakanaide) - "don't write" (using the negative form of the verb 書く, kaku)
   - ください (kudasai) - "please" (polite request)
 
-## 和 `と` (格助詞)
+## 和(格助詞) `と`
 
 和朋友打網球
 
@@ -199,6 +199,13 @@
   - を (wo) - object marker
   - やる (yaru) - "play/do"
   - んです (n desu) - contraction of のです, which adds emphasis or provides explanation.
+
+## ...和...等(格助詞) `や`
+
+- や比と的使用範圍更加廣泛。
+- ニュース`と`ドラマ　意思是僅限兩件事物　ニュース　和　ドラマ
+- 而　ニュース`や`ドラマ　表示除了這兩件事物之外可能還包括其他。
+
 
 
 ## 動詞/形容詞/名詞+助動詞です句的主詞　(格助詞)　`が`
@@ -237,6 +244,13 @@
   - ん (n) - explanatory sentence-ending particle
   - です (desu) - copula (polite form)
   - か (ka) - sentence-ending particle indicating a question
+
+## 表對聽話人所說內容的確認(終助詞)　(音調降低) `か`
+
+- そうですか。 (我明白了)
+- がっこうへ　いくんですか。(音調降低) (我知道你馬上去學校)
+- がっこうへ　いくんですか。(音調上升) (你要去學校嗎?)
+
 
 ## 表加強語氣(終助詞)　`よ`
 
