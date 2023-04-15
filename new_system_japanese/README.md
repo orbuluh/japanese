@@ -65,210 +65,46 @@
   - きのうはどこへ行ったんだすか。"Where did you go yesterday?"
     - 動物園へ行ったんです "I went to the zoo." =>　動物園です　"Zoo."
 
-## ぶん(句子)種類
+## [ぶん(句子)種類](about_sentence.md)
 
-- 動詞述語句
-- 名詞述語句
-- 形容詞述語句
+## [どうし(動詞)](about_verb.md)
 
-## どうし(動詞)
+## [じょし(助詞)](about_particle.md)
 
-- 動詞分三類: G-1, G-2 和不規則動詞
-- G-1, G-2的活用型變化不同
-- 不規則動詞只有兩個: くる(來)　する(做)
-- 所有G-1動詞都有自己的活用形
-- 各種形式裡的 ない ます ば　う　對於G-1是通用的
+## だいめいし(代名詞)
 
-||いく (去)(G-1)|くる (來)(不規則)|
-|-- |-- |--|
-|ない-形|いかない|こない|
-|ます-形|いきます|きます|
-|基本形|いく|くる|
-|假定形|いけば|くれば|
-|意志形|いこう|こよう|
-|て-形|いって|きて|
+- 我: わたし (女) / ぼく (男)
+  - 提到說話者 只有必要的時候才會加上 (一般大家都知道在講你自己的時候可以省略)
+  - 男性用語在很正式的情況也可以用わたし
 
-### Ｇ-１六種基本活用形公式
+## せつぞくし(接續詞)
 
-- 1. ない-形　＋んです
-- 2. ます-形　...ます/ません
-- 3. 基本形　＋んです
-- 4. 假定形　＋いいですか
-- 5. 意志形　＋とおもいます
-- 6. て-形　＋ください
-
-For example of 1-3:
-||いく (去)(G-1)|くる (來)(不規則)|
-|-- |-- |--|
-|ない-形|いかない`です`|こない`んです`|
-|ます-形|いき`ます`/いち`ません`|き`ます`/き`ません`|
-|基本形|いく`んです`|くる`んです`|
+- 但是: でも/しかし
+  - でも: 口語使用
+  - しかし: 正式場合或是書面用語
 
 
-## 現在 將來的句詞尾
+## [こそあど系列詞](about_cosoato.md)
 
-|||敬體 ます-形|簡體|敬體 んです-形|
-|--|--|--|--|--|
-|いく (去)(G-1)  |肯定|いきます (ます-形)|いき (基本形)    |いきんです|
-|               |否定|いきません       |いかない (ない-形)|いかないんです|
-|くる (來)(不規則)|肯定|きます (ます-形)  |くる (基本形)    |くるです|
-|               |否定|きません         |こない (ない-形) |こないんです|
+## [そのた (Misc)](about_misc.md)
 
-## くる (來)　的使用細節
+## Lesson notes
 
-- 說話者回到現在的位置 (但自己家不能用)
-- 聽話者/第三者來到說話者現在的位置
-- 聽話者/第三者來到說話者的家
-- 其他情形 用いく (去)
-
-## じょし(助詞)
-
-助詞接在名詞、代名詞或著某些副詞和形容詞後表明**這個詞在句中所起到的作用**
-
-助詞包含**格助詞**、**副助詞**和**終助詞**
-
-1. 表主題(副助詞) **は**
-   - おなまえ**は**　(請問你叫啥名子)
-     - お (o) - honorific prefix
-     - 名前 (na-mae) - name
-     - は (wa) - topic particle indicating the subject of the sentence
-   - ヂャンさん**は**　ちゅうごくじんですが。 (張先生是中國人嗎)
-     - 張さん (Zhang-san) - Mr. Zhang (in Japanese name order)
-     - は (wa) - topic particle
-     - 中国人 (chuugoku-jin) - Chinese person
-     - ですが (desu-ga) - conjunction meaning "but," "although," or "however" (polite form)
-2. 表移動方向(格助詞)　**へ**
-   - がっこう**へ**　いくんです (我去學校)
-     - 学校 (ga-kkou) - school
-     - へ (e) - directional particle indicating the destination
-     - 行く (i-ku) - go (dictionary form of the verb "iku")
-     - ん (n) - explanatory sentence-ending particle
-     - です (desu) - copula (polite form)
-3. 表目的(格助詞)　**に**
-   - かいもの**に**　いくんてす (我去買東西)
-     - 買い物 (ka-i-mo-no) - shopping
-     - に (ni) - directional particle indicating the purpose or destination
-     - 行く (i-ku) - go (dictionary form of the verb "iku")
-     - ん (n) - explanatory sentence-ending particle
-     - です (desu) - copula (polite form)
-4. 表否定(副助詞)　**は**
-   - かいしやへ**は**　いかないんです (我不去公司)
-     - 会社 (kai-sha) - office, workplace, company
-     - へ (e) - directional particle indicating the destination
-     - は (wa) - topic particle
-     - 行かない (i-ka-nai) - negative form of the verb "iku" (go)
-     - ん (n) - explanatory sentence-ending particle
-     - です (desu) - copula (polite form)
-5. 表疑問句句尾(終助詞)　**か**
-   - どこへ　いくんてっす**か**。(你去哪?)
-     - どこ (doko) - where
-     - へ (e) - directional particle indicating the destination
-     - 行く (i-ku) - to go
-     - ん (n) - explanatory sentence-ending particle
-     - です (desu) - copula (polite form)
-     - か (ka) - sentence-ending particle indicating a question
+- [だい1か：你要去哪裡 "どこへ　いくんですか。"](lesson_1.md)
+- [だい2か: 幾點去好呢 "なんじに　いけば　いいですか。"](lesson_2.md)
+- [だい3か: 你為什麼提早起床 "どうして　はやく　おきるんですか。"](lesson_3.md)
 
 
-## だい１か "どこへ　いくんですか。"
+------
 
-[**かいわ　(conversation) 1**](https://youtu.be/7H1meOG52YY?t=12)
+- 在日語文法中，述語（predicate）是用於表示主語（subject）的狀態或動作的單詞或詞組。日語的述語主要分為以下幾種類型：
 
-おはようございます  おはようございます
+- 動詞（verbs）：表示動作或狀態變化。日語動詞分為五個基本類型：一段動詞、五段動詞、サ変動詞、カ変動詞、および不規則動詞。
 
-お名前は ちゃんです
+形容詞（adjectives）：表示性質、狀態、或特徵。日語形容詞分為兩類：い形容詞（i-adjectives）和な形容詞（na-adjectives）。
 
-- English translation: "My name is Chan."
-- お名前は (o-na-mae-wa) - name (honorific prefix + subject marker particle)
-- ちゃんです (chan-desu) - Chan (a given name) + sentence-ending polite copula
+形容動詞（adjectival nouns）：這些詞通常具有名詞性質，但在句子中可以像形容詞一樣用於描述主語。形容動詞通常與「だ」或「です」連用，表示某種狀態。它們在某種程度上與な形容詞相似。
 
-初めまして どうぞよろしく
-
-- English Translation: "Nice to meet you. I look forward to working with you."
-- 初めまして (ha-ji-me-ma-shi-te) - Nice to meet you (polite expression used when meeting someone for the first time)
-- どうぞよろしく (dou-zo yo-ro-shi-ku) - I look forward to working with you (polite expression used to convey the speaker's readiness to establish a relationship with the listener)
-
-キャンさんは中国人ですか
-
-- English Translation: "Is Mr. Kyan Chinese?"
-- キャンさん (kyan-san) - Mr. Kyan (a name or a respectful way of addressing a person with the last name Kyan)
-- は (wa) - topic marker particle
-- 中国人ですか (chu-goku-jin desu-ka) - Chinese (nationality) + sentence-ending particle for questioning
+名詞（nouns）：在日語中，名詞也可以充當述語。當名詞作為述語時，它們通常與「だ」、「です」、「である」或其他表示狀態的助動詞連用。
 
 
-はい そうです
-
-- English Translation: "Yes, that's correct."
-- はい (hai) - yes (polite response)
-- そうです (sou desu) - that's correct (expression used to affirm a previous statement)
-
-さようなら さようなら
-
-- さようなら (sa-yo-u-na-ra) - goodbye (formal expression used when parting from someone)
-
-[**かいわ 2**](https://youtu.be/7H1meOG52YY?t=33)
-
-こんにちは
-
-こんにちは どこへ行くんですか
-
-- English Translation: "Hello, where are you going?"
-- こんにちは (ko-nni-chi-wa) - hello
-- 、(comma) - punctuation mark separating the words in a list
-- どこ (do-ko) - where
-- へ (e) - directional particle indicating the destination
-- 行く (i-ku) - go (dictionary form of the verb "iku")
-- ん (n) - explanatory sentence-ending particle
-- ですか (desu-ka) - sentence-ending particle for questioning (formal)
-
-学校へいくんです
-
-- English Translation: "I am going to school."
-- 学校 (ga-kou) - school
-- へ (e) - directional particle indicating the destination
-- いく (i-ku) - go (dictionary form of the verb "iku")
-- ん (n) - explanatory sentence-ending particle
-- です (desu) - copula (polite form)
-
-さとうさんは　かいしやへ　行くんですか
-
-- English Translation: "Is Mr. Sato going to the office?"
-- さとうさん (sa-tou-san) - Mr. Sato (a name or a respectful way of addressing a person with the last name Sato)
-- は (wa) - topic marker particle
-- かいしゃへ (ka-i-sha-e) - to the office (directional particle "e" used to indicate the destination, with "kaisha" meaning "office")
-- 行くん (i-ku-n) - go (present progressive tense of the verb "iku") (informal explanatory sentence ending particle)
-- ですか (desu-ka) - sentence-ending particle for questioning (formal)
-
-
-いいえ、かいしやへは　いかないんです。
-
-- English Translation: "No, I am not going to the office."
-- いいえ (iie) - No
-- 、(comma) - punctuation mark separating the words in a list
-- かいしゃへ (ka-i-sha-e) - to the office (directional particle "e" used to indicate the destination, with "kaisha" meaning "office")
-- は (wa) - topic marker particle
-- いかない (i-ka-nai) - not go (present negative form of the verb "iku")
-- ん (n) - explanatory sentence-ending particle
-- です (desu) - copula (polite form)
-
-
-買い物に行くんです
-
-- English Translation: "I am going for shopping."
-- 買い物 (ka-i-mo-no) - shopping
-- に (ni) - directional particle indicating the destination or purpose
-- 行く (i-ku) - go (dictionary form of the verb "iku")
-- ん (n) - explanatory sentence-ending particle
-- です (desu) - copula (polite form)
-
-それじゃ,また
-
-- English Translation: "Well then, see you again."
-- それじゃ (so-re-ja) - well then
-- 、(comma) - punctuation mark separating the words in a list
-- また (ma-ta) - again
-
-失礼します 失礼します
-
-- English Translation: "Excuse me" or "Sorry for interrupting."
-- 失礼 (shi-tsu-rei) - rudeness, discourtesy, impoliteness
-- します (shi-ma-su) - do (polite form of the verb "suru")
