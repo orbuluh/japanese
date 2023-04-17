@@ -1,5 +1,7 @@
 # N5 vocabulary
 
+
+
 ## **私の最初の務めは資格のない志願者をふるいにかけることだった。**
 
 - Sentence Category: Statement Sentence
@@ -14,6 +16,17 @@
     - を (o) - object marker particle
     - ふるいにかける (fu-ru-i-ni-ka-ke-ru) - to screen, to sift
     - ことだった (ko-to-da-tta) - was
+
+## **帯に短し、襷に長し。**
+
+- Sentence Category: Proverb
+- English Translation: "Short in the obi, long in the sleeve."
+- This is a Japanese proverb that means "what is lacking on one hand is made up for on the other." It is often used to describe someone who may not excel in one area, but compensates with strength or skill in another area.
+- Word Breakdown:
+    - 帯に (obi-ni) - in the obi (a type of sash worn with traditional Japanese clothing)
+    - 短し (mijikashi) - short
+    - 襷に (tutugi-ni) - in the sleeve (a part of traditional Japanese clothing)
+    - 長し (nagashi) - long
 
 ## **彼女には数人の友だちがいる。**
 
@@ -121,14 +134,7 @@
     - を (o) - object marker particle
     - 書きなさい (ka-ki-na-sai) - write (imperative form of the verb "kaku")
 
-## **明日の晩は、ひま?**
 
-- Sentence Category: Yes/No Question
-- English translation: "Are you free tomorrow evening?"
-- Word Breakdown:
-    - 明日の (a-shi-ta-no) - of tomorrow
-    - 晩は (ba-n-wa) - evening
-    - ひま (hi-ma) - free (i.e. available)
 
 ## **みんなが彼を偉大な投手だと考えてる。**
 
@@ -176,6 +182,15 @@
     - 困る (ko-ma-ru) - to have difficulty, to be troubled
     - ん (n) - contraction of "no," which explains or emphasizes the preceding clause
     - だけど (da-ke-do) - but, however
+
+## **明日の晩は、ひま?**
+
+- Sentence Category: Yes/No Question
+- English translation: "Are you free tomorrow evening?"
+- Word Breakdown:
+    - 明日の (a-shi-ta-no) - of tomorrow
+    - 晩は (ba-n-wa) - evening
+    - ひま (hi-ma) - free (i.e. available)
 
 ## **どんなに激しく雨が降ろうとも、私たちは明日出発します。**
 
@@ -362,16 +377,6 @@
     - 利害を (ri-gai-o) - interests (object marking particle)
     - 冒している (mo-u-shi-te-i-ru) - jeopardize (present progressive tense of the verb "moesu")
 
-## **帯に短し、襷に長し。**
-
-- Sentence Category: Proverb
-- English Translation: "Short in the obi, long in the sleeve." This is a Japanese proverb that means "what is lacking on one hand is made up for on the other." It is often used to describe someone who may not excel in one area, but compensates with strength or skill in another area.
-- Word Breakdown:
-    - 帯に (obi-ni) - in the obi (a type of sash worn with traditional Japanese clothing)
-    - 短し (mijikashi) - short
-    - 襷に (tutugi-ni) - in the sleeve (a part of traditional Japanese clothing)
-    - 長し (nagashi) - long
-
 ## **彼が他の女の子に話しかけると、彼女はやきもちを焼いた。**
 
 - Sentence Category: Statement Sentence
@@ -507,3 +512,145 @@
     - だと思う (da to omou) - "do you think" (expression for seeking opinion)
 
 
+## **先生にとって、彼女を教えるのは楽しみだった。**
+
+- Sentence Category: Statement Sentence
+- English Translation: "For the teacher, teaching her was a pleasure."
+- Word Breakdown:
+    - 先生にとって (sen-sei-ni-to-tte) - for the teacher
+    - 彼女を (ka-no-jo-o) - her (as an object)
+    - 教えるのは (o-shie-ru-no-wa) - to teach (as a subject)
+    - 楽しみだった (ta-no-shi-mi-da-tta) - was a pleasure.
+
+
+## **土曜の晩には、パリから、一晩泊りで彼女の夫が来るはずになっているのです。**
+
+- Sentence Category: Statement Sentence
+- English Translation: "Her husband is supposed to come from Paris for an overnight stay on Saturday night."
+- Word Breakdown:
+    - 土曜の晩には (do-yo-u-no-ba-n-ni-wa) - on Saturday night
+    - パリから (pa-ri-ka-ra) - from Paris
+    - 一晩泊りで (hi-tsu-ba-n-to-ma-ri-de) - for an overnight stay
+    - 彼女の (ka-no-jo-no) - her
+    - 夫が (o-tto-ga) - husband
+    - 来る (ku-ru) - to come
+    - はずになっている (ha-zu-ni-na-tte-i-ru) - is supposed to
+    - のです (no-de-su) - explanation/confirmation particle
+
+## **好事魔多し。**
+
+- Sentence Category: Proverb
+- English translation: "There are many pitfalls in good fortune."
+- Word Breakdown:
+    - 好事 (ko-u-ji) - good fortune
+    - 魔多し (ma-ta-shi) - many pitfalls, many troubles
+
+
+## **この問題に関しては三つの意見がある。**
+
+- Sentence Category: Statement Sentence
+- English Translation: "There are three opinions regarding this issue."
+- Word Breakdown:
+    - この (ko-no) - this
+    - 問題に (mon-da-i-ni) - regarding the issue
+    - 関しては (ka-n-shi-te-wa) - regarding, about
+    - 三つの (mit-su-no) - three
+    - 意見が (i-ken-ga) - opinions, views
+    - ある (a-ru) - exist, are.
+
+## **このように効率が悪いのは、熊の体が大きく、足が太いからである。**
+
+- Sentence Category: Statement Sentence
+- English translation: "The reason why the efficiency is low in this way is that the bear's body is large and its legs are thick."
+- Word Breakdown:
+    - このように (ko-no-yo-u-ni) - in this way
+    - 効率が (ko-ryo-ku-ga) - efficiency
+    - 悪いのは (wa-ra-i-no-wa) - is bad
+    - 熊の (ku-ma-no) - bear's
+    - 体が (tai-ga) - body is
+    - 大きく (oo-ki-ku) - large
+    - 足が (a-shi-ga) - legs are
+    - 太い (fu-tsu-i) - thick
+    - からである (ka-ra-de-a-ru) - because
+
+
+## **そこにすわろうよ。**
+
+- Sentence Category: Invitation Sentence
+- English translation: "Let's sit there."
+- Word Breakdown:
+    - そこ (so-ko) - there
+    - に (ni) - location particle
+    - すわろう (su-wa-ro-u) - let's sit
+    - よ (yo) - sentence ending particle to emphasize the invitation
+
+## **食べ物にお金を全部使うようなことはするな、と私は彼に忠告した。**
+
+- Sentence Category: Statement Sentence
+- English Translation: "I advised him not to spend all his money on food."
+- Word Breakdown:
+    - 食べ物に (ta-be-mo-no-ni) - on food
+    - お金を (o-ka-ne-o) - money
+    - 全部 (zen-bu) - all
+    - 使うような (tsu-ka-u-you-na) - to spend like
+    - ことは (ko-to-wa) - thing (emphatic particle)
+    - するな (su-ru-na) - do not
+    - 私は (wa-ta-shi-wa) - I (topic marker particle)
+    - 彼に (ka-re-ni) - to him
+    - 忠告した (chu-u-ko-shi-ta) - advised
+
+## **私は君に指輪を渡すつもりだ。**
+
+- Sentence Category: Statement Sentence
+- English translation: "I intend to give you a ring."
+- Word Breakdown:
+    - 私は (wa-ta-shi-wa) - I
+    - 君に (ki-mi-ni) - to you
+    - 指輪を (yo-ba-ne-o) - ring (object marker particle)
+    - 渡す (wa-ta-su) - to give
+    - つもりだ (t-su-mo-ri-da) - intend to
+
+
+## **へいにペンキを塗る必要はなかったのだが。**
+
+- Sentence Category: Stating a Regret
+- English Translation: "There was no need to paint it green after all."
+- Word Breakdown:
+    - へいに (hei-ni) - after all/in the end
+    - ペンキを塗る (pen-ki-o-nuru) - paint
+    - 必要は (hi-tsu-yo-wa) - there was no need
+    - なかった (na-ka-tta) - did not exist (past negative form of ある-a-ru: to exist)
+    - のだが (no-da-ga) - (emphasizes previous statement and implies regret)
+
+
+## **彼の奥さんは外国人らしい。**
+
+- Sentence Category: Stating an Impression
+- English Translation: "It seems that his wife is a foreigner."
+- Word Breakdown:
+    - 彼の (ka-re-no) - his
+    - 奥さんは (oku-san-wa) - wife (topic marker particle)
+    - 外国人 (ga-i-ko-ku-jin) - foreigner
+    - らしい (ra-shi-i) - seems/appears (to be the case)
+
+
+## **女房は婦人記者として、読売新聞へ勤める事になった。**
+
+- Sentence Category: Stating a Fact
+- English Translation: "My wife has become a journalist for Yomiuri Shimbun as a female reporter."
+- Word Breakdown:
+    - 女房は (nyo-bo-u-wa) - my wife (topic marker particle)
+    - 婦人記者として (fu-jin-ki-sha-to-shi-te) - as a female reporter
+    - 読売新聞へ (yo-mi-u-ri-shin-bun-e) - to Yomiuri Shimbun (a Japanese newspaper)
+    - 勤める (tsu-tome-ru) - work for
+    - 事になった (ko-to-ni-na-tta) - it has been decided/become the case (idiomatic expression)
+
+
+## **雨が降ろうと晴れようと関係がない。**
+
+- Sentence Category: Expressing Indifference
+- English Translation: "Whether it rains or shines, it doesn't matter."
+- Word Breakdown:
+    - 雨が降ろうと (a-me-ga-fu-ro-u-to) - Whether it rains (lit. even if it rains)
+    - 晴れようと (ha-re-yo-u-to) - or shines (lit. even if it clears up)
+    - 関係がない (kan-kei-ga-na-i) - doesn't matter (lit. there is no relation)
