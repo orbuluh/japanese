@@ -35,9 +35,6 @@
 - 不論肯定還是否定，也不論用言類型，在提示主詞時都使用`が`，想要將主詞作為話題時，就把`が`再加上`は`，然後省略掉原本的`が`。
 - 另外，在疑問句中對某個詞進行否定時，人們會將那個詞是為焦點提示句的主題，也因此否定回答的`は`即為話題的`は`。這與 `に` `で` `へ` + `は`是基本相同的原理!
 
-
-
-
 ## 表主題(副助詞) `は`
 
 - は一般放在句子的開頭部分 在一句話中可以多次使用
@@ -108,6 +105,18 @@
   - 行く (i-ku) - go (dictionary form of the verb "iku")
   - ん (n) - explanatory sentence-ending particle
   - です (desu) - copula (polite form)
+
+## 表存在的場所(格助詞) `に`
+
+- おそばは　どこ`に`　あるんですか。(蕎麥麵在哪)
+  - おそばは (o-so-ba-wa) - soba (Japanese noodles made from buckwheat flour) (topic marker particle)
+  - どこに (do-ko-ni) - where (location marker particle)
+  - あるんですか (a-ru-n-desu-ka) - is there? (ある-a-ru: to exist, んです-n-desu: contraction of のです-no-desu, used for emphasis/explanation, か-ka: question particle)
+- おおきい　はこの　なか`に`　あります。(在大盒子裡面)
+  - おおきい (o-o-ki-i) - big/large
+  - はこの (ha-ko-no) - this box (possessive particle)
+  - なかに (na-ka-ni) - inside (location marker particle)
+  - あります (a-ri-mas-u) - exists/is present (used as a polite form of ある-a-ru: to exist/be present)
 
 
 ## 表行為/動作的時間(格助詞)　`に`
@@ -205,6 +214,18 @@
 - や比と的使用範圍更加廣泛。
 - ニュース`と`ドラマ　意思是僅限兩件事物　ニュース　和　ドラマ
 - 而　ニュース`や`ドラマ　表示除了這兩件事物之外可能還包括其他。
+
+
+## 可能行動詞的受詞(格助詞): `が`
+
+- にほんごを　はなす。 (我說日語。)
+  - を是動詞的受詞。
+- にほんごが　はなせる。(我會說日語。)
+  - が是可能態動詞的受詞。
+
+- 當加 は 或 も 時，が省略
+  - にほんりょうり~~が~~は　たべられないんです。 (我不能吃日本料理)
+  - にほんご~~が~~も　はなせます。 (我也會說日語)
 
 
 

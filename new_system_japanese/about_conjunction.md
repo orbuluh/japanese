@@ -14,7 +14,7 @@
   - そらから (so-ra-ka-ra) - after that
   - テレビをみます (te-re-bi-o-mi-ma-su) - will watch TV
 
-## 然後、於是: そして 
+## 然後、於是: そして
 
 - そして　主要用連連接句子。
 - そして　なんじごろ　ねるんですか。(然後你甚麼時候睡覺。)
@@ -23,3 +23,7 @@
   - ごろ (go-ro) - around, about
   - ねる (ne-ru) - to go to bed
   - んですか (n-desu-ka) - questioning particle to seek explanation or clarification.
+
+## 因此: だから/ですから
+
+- だから　だいじょうぶですよ。(因此，沒關係的。)
