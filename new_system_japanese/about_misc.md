@@ -50,3 +50,15 @@
 - 女性使用 あら
 - 男性使用 あれ
 
+## 只，僅僅: しか + 否定形
+
+- 和述語的否定形一起使用。
+- かんたんな　ことば`しか`　わからないんです。 (他只懂一些簡單的詞)
+  - 簡単な言葉 (kan-ta-na ko-to-ba) - simple words
+  - しか (shi-ka) - only
+  - わからないんです (wa-ka-ra-na-i-n-de-su) - don't understand (present continuous form of the verb "to understand" in a polite expression)
+- すこし`しか`　ありません。(只有一點點)
+  - 少し (suko-shi) - a little
+  - しか (shi-ka) - only
+  - ありません (a-ri-ma-se-n) - there is not (negative form of the verb "to be" in a polite expression)
+

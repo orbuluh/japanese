@@ -118,6 +118,11 @@
   - なかに (na-ka-ni) - inside (location marker particle)
   - あります (a-ri-mas-u) - exists/is present (used as a polite form of ある-a-ru: to exist/be present)
 
+## 表狀態的場所(格助詞)　`に`
+
+- めぐろに　すんでいます。(我住在目黑)
+  - 目黒に (me-gu-ro-ni) - in Meguro (a neighborhood in Tokyo, Japan)
+  - 住んでいます (su-n-de-i-ma-su) - live (present continuous form of the verb "to live" in a polite expression)
 
 ## 表行為/動作的時間(格助詞)　`に`
 
