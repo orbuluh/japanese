@@ -4,100 +4,164 @@
 
 おはようございます  おはようございます
 
-お名前は ちゃんです
+## **お名前は。**
 
-- English translation: "My name is Chan."
-- お名前は (o-na-mae-wa) - name (honorific prefix + subject marker particle)
-- ちゃんです (chan-desu) - Chan (a given name) + sentence-ending polite copula
+Eng: "What is your name?"
 
-初めまして どうぞよろしく
-
-- English Translation: "Nice to meet you. I look forward to working with you."
-- 初めまして (ha-ji-me-ma-shi-te) - Nice to meet you (polite expression used when meeting someone for the first time)
-- どうぞよろしく (dou-zo yo-ro-shi-ku) - I look forward to working with you (polite expression used to convey the speaker's readiness to establish a relationship with the listener)
-
-キャンさんは中国人ですか
-
-- English Translation: "Is Mr. Kyan Chinese?"
-- キャンさん (kyan-san) - Mr. Kyan (a name or a respectful way of addressing a person with the last name Kyan)
-- は (wa) - topic marker particle
-- 中国人ですか (chu-goku-jin desu-ka) - Chinese (nationality) + sentence-ending particle for questioning
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| お | o | Prefix | honorific prefix, shows politeness |
+| 名前 | na-ma-e | Noun | "name" |
+| は | wa | Particle | marks the topic of the sentence |
 
 
-はい そうです
+### **ちゃんです。**
 
-- English Translation: "Yes, that's correct."
-- はい (hai) - yes (polite response)
-- そうです (sou desu) - that's correct (expression used to affirm a previous statement)
+Eng:　"I am (called) Chan" or "My name is Chan".
 
-さようなら さようなら
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ちゃん | chan | Noun | "Chan", a suffix used for endearment or familiarity |
+| です | desu | Copula | "am", "is", "are" (polite form) |
 
-- さようなら (sa-yo-u-na-ra) - goodbye (formal expression used when parting from someone)
+### **初めまして、どうぞよろしく。**
+
+Eng: "Nice to meet you, please be kind to me"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 初めまして | ha-ji-me-ma-shi-te | Greeting | "for the first time" |
+| 、 | 、 | Punctuation | comma |
+| どうぞ | dou-zo | Adverb | please, here you are |
+| よろしく | yo-ro-shi-ku | Adverb | nicely, properly, favorably |
+| 。 | 。 | Punctuation | period (optional in casual speech) |
+
+### **キャンさんは中国人ですか**
+
+Eng: "Is Kyann Chinese?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| キャンさん | kya-n san | Subject | "Kyann" (a name, followed by "san" for respect) |
+| は | wa | Particle | topic particle |
+| 中国人 | chu-goku-jin | Predicate | "Chinese person" |
+| です | de-su | Copula | polite copula indicating the subject of the sentence |
+| か | ka | Particle | question particle indicating a yes/no question |
+
+
+### **はい、そうです**
+
+Eng: "Yes, that's correct"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はい | ha-i | Interjection | "Yes" |
+| 、 | 、 | Punctuation | comma (optional in casual speech) |
+| そうです | so-u de-su | Predicate | "that's right", "that's correct" |
+
+さようなら
+
+### **さようなら**
+
+Eng: "Goodbye"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| さようなら | sa-yo-u-na-ra | - | "Goodbye", "farewell", "see you later" |
+
 
 ## [**かいわ 2**](https://youtu.be/7H1meOG52YY?t=33)
 
 こんにちは
 
-こんにちは どこへ行くんですか
+### **こんにちは、どこへ行くんですか。**
 
-- English Translation: "Hello, where are you going?"
-- こんにちは (ko-nni-chi-wa) - hello
-- 、(comma) - punctuation mark separating the words in a list
-- どこ (do-ko) - where
-- へ (e) - directional particle indicating the destination
-- 行く (i-ku) - go (dictionary form of the verb "iku")
-- ん (n) - explanatory sentence-ending particle
-- ですか (desu-ka) - sentence-ending particle for questioning (formal)
+Eng: "Hello, where are you going?"
 
-学校へいくんです
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| こんにちは | ko-n-ni-chi-wa | - | "Hello", "Good afternoon" |
+| 、 | 、 | Punctuation | comma |
+| どこ | do-ko | Subject | "where" |
+| へ | e | Particle | marks direction of motion |
+| 行く | i-ku | Predicate | "go" |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | de-su | Copula | formal equivalent of "to be" |
+| か | ka | Particle | marks a question |
 
-- English Translation: "I am going to school."
-- 学校 (ga-kou) - school
-- へ (e) - directional particle indicating the destination
-- いく (i-ku) - go (dictionary form of the verb "iku")
-- ん (n) - explanatory sentence-ending particle
-- です (desu) - copula (polite form)
+### **学校へ行くんです**
 
-さとうさんは　かいしやへ　行くんですか
+Eng: "I am going to school"
 
-- English Translation: "Is Mr. Sato going to the office?"
-- さとうさん (sa-tou-san) - Mr. Sato (a name or a respectful way of addressing a person with the last name Sato)
-- は (wa) - topic marker particle
-- かいしゃへ (ka-i-sha-e) - to the office (directional particle "e" used to indicate the destination, with "kaisha" meaning "office")
-- 行くん (i-ku-n) - go (present progressive tense of the verb "iku") (informal explanatory sentence ending particle)
-- ですか (desu-ka) - sentence-ending particle for questioning (formal)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 学校 | ga-kou | Object | "school" |
+| へ | e | Particle | marks direction of motion |
+| 行く | i-ku | Predicate | "go" |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | de-su | Copula | formal equivalent of "to be" |
 
+### **さとうさんは会社へ行くんですか**
 
-いいえ、かいしやへは　いかないんです。
+Eng: "Is Mr./Ms. Sato going to the office?"
 
-- English Translation: "No, I am not going to the office."
-- いいえ (iie) - No
-- 、(comma) - punctuation mark separating the words in a list
-- かいしゃへ (ka-i-sha-e) - to the office (directional particle "e" used to indicate the destination, with "kaisha" meaning "office")
-- は (wa) - topic marker particle
-- いかない (i-ka-nai) - not go (present negative form of the verb "iku")
-- ん (n) - explanatory sentence-ending particle
-- です (desu) - copula (polite form)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| さとうさん | sa-to-u-san | Subject | "Mr./Ms. Sato" |
+| は | wa | Particle | topic marker |
+| 会社 | kai-sha | Object | "office" |
+| へ | e | Particle | marks direction of motion |
+| 行く | i-ku | Predicate | "go" |
+| ん | n | Auxiliary | contraction of の (no) |
+| ですか | de-su-ka | Sentence Ending | formal equivalent of a question mark |
 
 
-買い物に行くんです
+### **いいえ、会社へは行かないんです**
 
-- English Translation: "I am going for shopping."
-- 買い物 (ka-i-mo-no) - shopping
-- に (ni) - directional particle indicating the destination or purpose
-- 行く (i-ku) - go (dictionary form of the verb "iku")
-- ん (n) - explanatory sentence-ending particle
-- です (desu) - copula (polite form)
+Eng: "No, I'm not going to the office"
 
-それじゃ,また
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いいえ | ii-e | Interjection | "no" |
+| 、 | 、 | Symbol | comma |
+| 会社 | kai-sha | Object | "office" |
+| へ | e | Particle | marks direction of motion |
+| は | wa | Particle | topic marker |
+| 行かない | i-ka-nai | Predicate | negative form of the verb "to go" |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | de-su | Copula | polite form of the copula "to be" |
 
-- English Translation: "Well then, see you again."
-- それじゃ (so-re-ja) - well then
-- 、(comma) - punctuation mark separating the words in a list
-- また (ma-ta) - again
 
-失礼します 失礼します
+### **買い物に行くんです**
 
-- English Translation: "Excuse me" or "Sorry for interrupting."
-- 失礼 (shi-tsu-rei) - rudeness, discourtesy, impoliteness
-- します (shi-ma-su) - do (polite form of the verb "suru")
+Eng: "I'm going shopping"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 買い物 | ka-i-mo-no | Object | "shopping" |
+| に | ni | Particle | marks the purpose of the action |
+| 行く | i-ku | Predicate | verb "to go" |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | de-su | Copula | polite form of the copula "to be" |
+
+### **それじゃ、また**
+
+Eng: "Well then, see you"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| それ | so-re | Pronoun | "that" |
+| じゃ | ja | Contraction | contraction of それでは (so-re-de-wa) |
+| 、 | - | Punctuation | comma |
+| また | ma-ta | Adverb | "see you", "goodbye" |
+
+### **失礼します**
+
+Eng: "Excuse me"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 失礼 | shi-tsu-rei | Noun | "discourtesy", "impoliteness" |
+| します | shi-ma-su | Verb | polite form of the verb する (su-ru, "to do") |
+
+失礼します
