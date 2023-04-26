@@ -132,7 +132,6 @@ Eng: "I have a headache."
 | 痛い | i-tai | Predicate | "painful" or "hurt" |
 | ん | n | Auxiliary verb | contraction of の (no) |
 | です | de-su | Auxiliary verb | "to be" (polite) |
-Here's the analysis in the format you provided:
 
 ### **この薬を飲んでください**
 

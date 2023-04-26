@@ -3,162 +3,230 @@
 
 ## [**かいわ 1**](https://youtu.be/6DSWJtL7ysA?t=64)
 
-のどが　からきました。
+### **喉が乾きました。**
 
-- English Translation: "My throat feels dry."
-- のどが (no-do-ga) - throat + subject marker particle "ga"
-- からきました (ka-ra-ki-ma-shi-ta) - feels dry (past tense of the verb "to be dry" in a polite expression)
+Eng: "My throat is dry."
 
-何か　飲みませんか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 喉 | nodo | Subject | throat |
+| が | ga | Particle | marks the subject of the sentence |
+| 乾きました | kawa-ki-ma-shi-ta | Predicate | became dry (polite past tense of the verb 乾く, ka-waku) |
 
-- English Translation: "Would you like to drink something?"
-- 何か (na-ni-ka) - something
-- 飲みませんか (no-mi-ma-se-n-ka) - wouldn't you like to drink? (polite form)
+### **何か飲みませんか。**
+
+Eng: "Would you like something to drink?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 何か | nan-ka | Object | something |
+| 飲みませんか | no-mi-ma-sen-ka | Predicate | will you drink? (polite question form of the verb 飲む, no-mu) |
+
+### **僕はお腹が空きました。**
+
+Eng: "I am hungry."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 僕は | boku-wa | Topic | I |
+| お腹 | o-naka | Subject | stomach |
+| が | ga | Particle | marks the subject of the sentence |
+| 空きました | su-ki-ma-shi-ta | Predicate | became empty, became hungry (polite past tense of the verb 空く, su-ku) |
+
+### **今朝、朝ごはんを食べなかったんです。**
+
+Eng: "I didn't have breakfast this morning."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 今朝 | kesa | Time Adverbial | this morning |
+| 、 | 、 | Punctuation | comma |
+| 朝ごはん | asa-go-han | Object | breakfast |
+| を | o | Particle | marks the object of the sentence |
+| 食べなかったんです | ta-be-na-ka-tta-n-desu | Predicate | didn't eat (casual past tense of the verb 食べる, ta-beru) + explanatory particle ん (n) + polite sentence ending particle です (desu) |
+
+### **どうして食べなかったんですか。**
+
+Eng: "Why didn't you eat?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| どうして | dou-shi-te | Adverb | why |
+| 食べなかったんですか | ta-be-na-ka-tta-n-desu-ka | Predicate | didn't eat (past tense of the verb 食べる, ta-beru) + explanatory particle ん (n) + polite sentence ending particle ですか (desu ka) used to ask a question |
+
+### **時間がなかったんです。**
+
+Eng: "I didn't have time."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 時間 | ji-kan | Subject | time |
+| が | ga | Particle | marks the subject of the sentence |
+| なかったんです | na-ka-tta-n-desu | Predicate | did not exist, didn't have (past tense of the verb ない, na-i) + explanatory particle ん (n) + polite sentence ending particle です (desu) |
+
+### **とにかくマクドナルドに入りましょう。**
+
+Eng: "Anyway, let's go into McDonald's."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| とにかく | to-ni-ka-ku | Adverb | anyway, anyhow |
+| マクドナルド | ma-ku-do-na-ru-do | Object | McDonald's |
+| に | ni | Particle | indicates the destination of an action |
+| 入りましょう | hai-ri-ma-shou | Predicate | let's enter (volitional form of the verb 入る, hai-ru) |
+
+### **いらっしゃいませ。**
+
+Eng: "Welcome (to our store)."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いらっしゃいませ | i-ra-sshai-ma-se | Greeting | a polite expression to welcome someone to a store, restaurant or any other business |
 
 
-僕は　おなかが　すききました。
+### **ハンバーガーを一つとフライドポテトをお願いします。**
 
-- English Translation: "I got hungry."
-- 僕は (bo-ku-wa) - I + topic marker particle "wa"
-- おなかが (o-na-ka-ga) - stomach + subject marker particle "ga"
-- すきました (su-ki-ma-shi-ta) - got hungry (past tense of the verb "su-ku" in polite expression)
+Eng: "One hamburger and a serving of French fries, please."
 
-今朝　朝ごはんを　食べなかったんです。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ハンバーガー | han-baa-gaa | Object | hamburger |
+| を | o | Particle | marks the object of the sentence |
+| 一つ | hito-tsu | Quantifier | one (counter for things) |
+| と | to | Particle | and |
+| フライドポテト | fu-ra-i-do po-te-to | Object | French fries |
+| を | o | Particle | marks the object of the sentence |
+| お願いします | o-ne-gai-shi-mas | Polite expression | please (polite expression used to make a request) |
 
-- English Translation: "I didn't eat breakfast this morning."
-- 今朝 (ke-sa) - this morning
-- 朝ごはんを (a-sa-go-ha-n-wo) - breakfast + object particle "wo"
-- 食べなかった (ta-be-na-ka-tta) - didn't eat (past negative form of the verb "to eat" in a plain expression)
-- んです (n-desu) - a sentence ending particle used to add a soft emphasis and provide background explanation
+### **お飲み物は。**
 
+Eng: "What would you like to drink?"
 
-どうして　たべなかったんですか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| お | o | Prefix | a polite prefix used to show respect |
+| 飲み物 | no-mi-mo-no | Subject | beverage, drink |
+| は | wa | Particle | marks the subject of the sentence |
 
-- English Translation: "Why didn't you eat?"
-- どうして (dou-shi-te) - why
-- たべなかった (ta-be-na-ka-tta) - did not eat (past negative form of the verb "to eat" in a polite expression)
-- んですか (n-desu-ka) - seeking for explanation, a polite expression of questioning
+### **コーラと7アップをください。**
 
-じかんが　なかったんです。
+Eng: "Please give me a Coke and a 7-Up."
 
-- English Translation: "I didn't have time."
-- じかんが (ji-kan-ga) - time + subject marker particle "ga"
-- なかった (na-ka-ta) - didn't have (past negative form of the verb "to have" in a polite expression)
-- んです (n-desu) - indicates emphasis/explanation (shortened form of "no desu")
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| コーラ | ko-ra | Object | Coke |
+| と | to | Particle | and |
+| 7アップ | se-ven a-ppu | Object | 7-Up |
+| を | o | Particle | marks the object of the sentence |
+| ください | ku-da-sai | Polite expression | please give (polite expression used to make a request) |
 
-とにかく　マクドナルドに　はいりましょう。
+### **お持ち帰りですか。**
 
-- English Translation: "Anyway, let's enter McDonald's."
-- とにかく (to-ni-ka-ku) - anyway, anyhow
-- マクドナルドに (ma-ku-do-na-ru-do-ni) - to McDonald's (location marker particle "ni" indicates the destination)
-- はいりましょう (ha-i-ri-ma-sho-u) - let's enter (polite expression of the verb "to enter")
+Eng: "Is it for takeout?"
 
-
-いらっしゃいませ。
-
-- English Translation: "Welcome (to our store/restaurant)."
-- いらっしゃいませ (i-ra-ssha-i-ma-se) - An honorific expression used to welcome someone, often used by customer service staff in stores or restaurants.
-
-
-ハンバーガーを　ふたっと　フライド　ポテトを　お願いします。
-
-- English Translation: "I'll have a hamburger, a large order of french fries please."
-- ハンバーガーを (han-baa-gaa-wa) - hamburger + object marker particle "wo"
-- ふたっと (fu-ta-tto) - a large amount, usually used for french fries
-- フライド (fu-ra-i-do) - fried
-- ポテトを (po-te-to-wa) - potato + object marker particle "wo"
-- お願いします (o-negai-shi-masu) - please
-
-
-おのみものは。
-
-- English Translation: "What about drinks?"
-- お (o) - honorific prefix
-- のみもの (no-mi-mo-no) - drink
-- は (wa) - topic marker particle "wa"
-
-コーラと　7アップを　ください。
-
-- English Translation: "Can I have a Coke and a 7-Up, please?"
-- コーラ (ko-ra) - Coke
-- と (to) - and
-- 7アップ (se-ven ap-pu) - 7-Up
-- を (wo) - object marker particle
-- ください (ku-da-sai) - please give me
-
-おもちかえりですか。
-
-- English Translation: "Would you like it to go?"
-- おもちかえり (o-mo-chi-ka-e-ri) - takeaway
-- ですか (de-su-ka) - question marker particle
-
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| お | o | Prefix | a polite prefix used to show respect |
+| 持ち帰り | mo-chi-kae-ri | Object | takeout, to take home |
+| です | desu | Copula | is |
+| か | ka | Particle | marks the sentence as a question |
 いいえ。
 
 ## [**かいわ 2**](https://youtu.be/6DSWJtL7ysA?t=97)
 
+### **あら、こんにちは。早いですね。**
 
-あら、こんにちは。はやいですね。
+Eng: "Oh, hello. You're early, aren't you?"
 
-- English Translation: "Oh, hello. It's early, isn't it?"
-- あら (a-ra) - oh (an interjection expressing surprise or admiration)
-- こんにちは (ko-n-ni-chi-wa) - hello (a common greeting used during the day)
-- はやいですね (ha-ya-i-de-su-ne) - It's early, isn't it? (an observation about the time of day, followed by a question-seeking confirmation)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| あら | a-ra | Interjection | Oh! (an exclamation used to express surprise or admiration) |
+| こんにちは | kon-ni-chi-wa | Greeting | hello (a greeting used during the day) |
+| 早い | ha-ya-i | Adjective | early |
+| です | desu | Copula | is |
+| ね | ne | Particle | used to seek confirmation or agreement |
 
+### **仕事が早く終わったんです。**
 
-しごとが　はやく　おわったんです。
+Eng: "I finished work early."
 
-- English Translation: "Work ended early."
-- しごとが (shi-go-to-ga) - work + subject marker particle "ga"
-- はやく (ha-ya-ku) - early
-- おわったん (o-wat-tan) - ended (past tense of the verb "to end" in a casual expression) + sentence-ending particle "n"
-- です (desu) - a polite sentence-ending copula
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 仕事 | shi-goto | Subject | work, job |
+| が | ga | Particle | marks the subject of the sentence |
+| 早く | ha-ya-ku | Adverb | early |
+| 終わった | o-wa-tta | Predicate | past tense of the verb 終わる (o-wa-ru, "to finish") |
+| んです | n-desu | Sentence ending particle | used to provide an explanation or add emphasis |
 
+### **おとといはどうしてレッスンに来なかったんですか。**
 
-おとといは　どうして　レッスンに　こなかったんですか。
+Eng: "Why didn't you come to the lesson the day before yesterday?"
 
-- English translation: "Why didn't you come to the lesson the day before yesterday?"
-- おとといは (o-to-to-i-wa) - the day before yesterday + topic marker particle "wa"
-- どうして (do-u-shi-te) - why
-- レッスンに (re-ssun-ni) - to the lesson
-- こなかったんですか (ko-na-ka-tta-n-desu-ka) - didn't come (past negative form of the verb "to come" in a polite expression) + sentence ending particle "ka" for a question
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| おととい | o-to-to-i | Subject | the day before yesterday |
+| は | wa | Particle | marks the topic of the sentence |
+| どうして | dou-shi-te | Adverb | why |
+| レッスン | re-ssun | Object | lesson |
+| に | ni | Particle | indicates the direction or destination of an action |
+| 来なかった | ko-na-ka-tta | Predicate | past tense of the verb 来る (ku-ru, "to come") + negative particle ない (na-i) |
+| んです | n-desu | Sentence ending particle | used to provide an explanation or add emphasis |
 
+### **熱があったからです。**
 
-熱が　あったからです。
+Eng: "It's because I had a fever."
 
-- English Translation: "Because I had a fever."
-- 熱が (ne-tsu-ga) - fever + subject marker particle "ga"
-- あった (at-ta) - had (past tense of the verb "to have")
-- から (ka-ra) - because
-- です (de-su) - is (polite sentence-ending copula)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 熱 | ne-tsu | Subject | fever |
+| が | ga | Particle | marks the subject of the sentence |
+| あった | a-tta | Predicate | past tense of the verb ある (a-ru, "to have") |
+| から | ka-ra | Conjunction | because | 
+| です | desu | Copula | is |
 
+### **風邪を引いたんです。**
 
-かぜを　ひいたんです。
+Eng: "I caught a cold."
 
-- English Translation: "I caught a cold."
-- かぜを (ka-ze-o) - cold + object particle "o"
-- ひいた (hi-i-ta) - caught (past tense of the verb "to catch a cold")
-- んです (n-desu) - a colloquial expression used to give an explanation or reason, often used in conversation.
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 風邪 | ka-ze | Object | cold |
+| を | o | Particle | marks the object of the sentence |
+| 引いた | hi-i-ta | Predicate | past tense of the verb 引く (hi-ku, "to catch") |
+| んです | n-desu | Sentence ending particle | used to provide an explanation or add emphasis |
 
-だいじょぶですか。
+### **大丈夫ですか。**
 
-- English Translation: "Are you okay?"
-- だいじょぶ (dai-jo-bu) - okay, all right
-- ですか (desu ka) - polite expression used to make a question
+Eng: "Are you okay?"
 
-もう　ねつはないんですか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 大丈夫 | dai-jo-bu | Subject | okay, all right |
+| です | desu | Copula | is |
+| か | ka | Particle | marks the sentence as a question |
 
-- English Translation: "Do you no longer have a fever?"
-- もう (mou) - already, yet
-- ねつ (netsu) - fever
-- は (wa) - topic marker particle "wa"
-- ない (nai) - negation of the verb "to be" in its present tense form
-- ん (n) - colloquial contraction of the particle "no"
-- ですか (desu ka) - polite expression for asking a question
+### **もう熱はないんですか。**
 
-ええ、もう　だいじょうぶです。ありがとう。
+Eng: "Is the fever gone already?"
 
-- English Translation: "Yes, I'm okay now. Thank you."
-- ええ (e-e) - yes
-- もう (mou) - already
-- だいじょうぶ (dai-jo-u-bu) - okay, safe, all right
-- ありがとう (a-ri-ga-to-u) - thank you
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| もう | mou | Adverb | already |
+| 熱 | ne-tsu | Subject | fever |
+| は | wa | Particle | marks the topic of the sentence |
+| ない | na-i | Negative | not |
+| んです | n-desu | Sentence ending particle | used to provide an explanation or add emphasis |
+| か | ka | Particle | marks the sentence as a question |
+
+### **ええ、もう大丈夫です。ありがとう。**
+
+Eng: "Yes, I'm okay now. Thank you."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ええ | ee | Interjection | Yes |
+| もう | mou | Adverb | already |
+| 大丈夫 | dai-jo-bu | Subject | okay, all right |
+| です | desu | Copula | is |
+| ありがとう | a-ri-ga-to-u | Object | thank you |
+| 。 | 。| Punctuation | period |
