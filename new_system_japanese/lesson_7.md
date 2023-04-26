@@ -2,47 +2,67 @@
 
 [**かいわ 1**](https://youtu.be/Iuzz98Ay1_k?t=66)
 
-ごめんください。
+### **ごめんください**
 
-- English translation: "Excuse me."
-- ごめん (go-men) - excuse me, I'm sorry
-- ください (ku-da-sai) - please give me, please do for me
+Eng: "Excuse me."
 
-はい、どなたですか
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ごめん | go-men | Expression | Excuse me; I'm sorry |
+| ください | ku-da-sai | Auxiliary verb | "please do" |
 
-- English Translation: "Hello, who is this?"
-- はい (ha-i) - Hello
-- どなた (do-na-ta) - who (polite form)
-- です (de-su) - is (polite form)
+### **はい、どなたですか**
 
-石川です。
+Eng: "Yes, who is this?"
 
-- English translation: "This is Ishikawa."
-- 石川 (いしかわ)(i-shi-ka-wa) - Ishikawa
-- です (de-su) - is (copula)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はい | hai | Interjection | "Yes" |
+| どなた | do-na-ta | Pronoun | "who" (polite form) |
+| ですか | de-su-ka | Auxiliary verb | interrogative form of the copula です (de-su) |
 
-どうぞ、お入りください。
+### **石川です**
 
-- English translation: "Please come in."
-- どうぞ (do-u-zo) - please
-- お (o) - honorific prefix
-- 入り (hai-ri) - entering
-- ください (ku-da-sa-i) - please
+Eng: "This is Ishikawa."
 
-川上さん、こちらは　スミス先生です。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 石川 | ishi-ka-wa | Noun | Ishikawa (a name) |
+| です | de-su | Auxiliary verb | "to be" |
 
-- English Translation: "Kawakami-san, this is Professor Smith."
-- 川上さん (ka-wa-ka-mi-san) - Mr./Ms. Kawakami
-- こちら (ko-chi-ra) - this person (polite)
-- は (wa) - topic marker particle
-- スミス先生 (su-mi-su-se-n-sei) - Professor Smith
-- です (de-su) - copula (polite)
 
-英語の先生です。
+### **どうぞ、お入りください。**
 
-- English translation: "This is an English teacher."
-- 英語の (ei-go-no) - English
-- 先生 (sen-sei) - teacher
+Eng: "Please come in."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| どうぞ | dou-zo | Adverb | Please / Here you are |
+| お入りください | o-hai-ri-kudasai | Phrase | Please come in |
+
+
+### **川上さん、こちらはスミス先生です。**
+
+Eng: "Kawakami-san, this is Smith-sensei."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 川上 | ka-wa-ka-mi | Noun | Kawakami |
+| さん | san | Suffix | polite honorific for a person's name |
+| こちら | ko-chi-ra | Pronoun | this person |
+| は | wa | Particle | topic marker |
+| スミス | su-mi-su | Noun | Smith |
+| 先生 | sen-sei | Suffix | teacher/professor/doctor |
+
+### **英語の先生です。**
+
+Eng: "He/She is an English teacher."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 英語 | e-i-go | Noun | English language |
+| の | no | Particle | indicates possession |
+| 先生 | sen-sei | Noun | teacher |
 
 スミスです。
 
@@ -53,108 +73,169 @@
 - どうぞ (do-u-zo) - please, here you are (used to offer something to someone)
 - よろしく (yo-ro-shi-ku) - please treat me kindly (used to express one's desire to have a good relationship with someone)
 
-川上です。どうぞ　よろしく。
 
-川上せんせいは　にほんごは　ほたせますが。
+### **初めまして、どうぞよろしく。**
 
-- English translation: "As for Mr. Kawakami, he can speak Japanese."
-- 川上 (ka-wa-ka-mi) - Kawakami (surname)
-- せんせい (sen-sei) - teacher
-- は (wa) - topic marker particle
-- にほんご (ni-hon-go) - Japanese language
-- は (wa) - topic marker particle
-- ほたせます (ho-ta-se-masu) - can speak, able to speak
+Eng: "Nice to meet you, please treat me kindly."
 
-はい、少し　話せます。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 初めまして | ha-ji-me-ma-shi-te | Greeting | "Nice to meet you" |
+| 、 | 、 | Punctuation | comma |
+| どうぞ | do-u-zo | Auxiliary verb | "please" |
+| よろしく | yo-ro-shi-ku | Noun | "favorably", "kindly" |
+| 。 | 。 | Punctuation | period |
 
-- English translation: "Yes, I can speak a little."
-- はい (ha-i) - Yes
-- 少し (su-ko-shi) - a little
-- 話せます (ha-na-se-ma-su) - can speak
+### **川上せんせいは　にほんごは　ほたせますが。**
+
+Eng: "Kawakami-sensei can speak Japanese."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 川上 | ka-wa-ka-mi | Noun | Kawakami (surname) |
+| せんせい | sen-sei | Noun | teacher |
+| は | wa | Particle | topic particle |
+| にほんご | ni-hon-go | Noun | Japanese language |
+| は | wa | Particle | topic particle |
+| ほたせます | ho-ta-se-ma-su | Predicate | present/future tense of the verb ほたす (ho-ta-su, "to speak fluently") |
+| が | ga | Particle | conjunction particle (used to express a contrast or a concession) |
+
+### **はい、少し話せます。**
+
+Eng: "Yes, I can speak a little."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はい | hai | Interjection | yes |
+| 少し | su-ko-shi | Adverb | a little |
+| 話せます | ha-na-se-masu | Predicate | potential form of the verb 話す (ha-na-su, "to speak") |
 
 [**かいわ 2**](https://youtu.be/Iuzz98Ay1_k?t=93)
 
-マイケルさんは 日本料理は 食べられますか。
 
-- English translation: "Can Michael eat Japanese cuisine?"
-- マイケルさんは (mai-ke-ru-san-wa) - Michael
-- 日本料理は (ni-hon-ryou-ri-wa) - Japanese cuisine
-- 食べられますか (ta-be-ra-re-ma-su-ka) - can eat?
+### **マイケルさんは日本料理を食べられますか。**
 
+Eng: "Can Michael eat Japanese cuisine?"
 
-ええ、すこし。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| マイケルさん | ma-i-ke-ru-san | Subject | Michael (polite honorific added) |
+| は | wa | Particle | topic marker |
+| 日本料理 | ni-hon-ryou-ri | Object | Japanese cuisine |
+| を | wo | Particle | object marker |
+| 食べられますか | ta-be-ra-re-ma-su-ka | Predicate | potential form of the verb 食べる (ta-beru, "to eat"), asking if Michael can eat Japanese cuisine |
 
-- English translation: "Yes, a little bit."
-- ええ (e-e) - Yes
-- すこし (su-ko-shi) - a little bit
+### **ええ、すこし。**
 
+Eng: "Yes, a little."
 
-でも、刺身や　寿司は　ぜんぜん　食べられません。
-
-- English translation: "However, I cannot eat sashimi or sushi at all."
-- でも (de-mo) - however, but
-- 刺身や (sa-shi-mi-ya) - sashimi and
-- 寿司は (su-shi-wa) - sushi (topic marker particle)
-- ぜんぜん (zen-zen) - at all, completely
-- 食べられません (ta-be-ra-re-ma-se-n) - cannot eat (passive form of 食べる - ta-beru)
-
-あさって　うちて　五目寿司を 作るんです。
-
-- English Translation: "I'm making Gomokuzushi at home the day after tomorrow."
-- あさって (a-sa-tte) - day after tomorrow
-- うちて (u-chi-te) - at home
-- 五目寿司 (go-mo-ku-zu-shi) - Gomokuzushi, a type of sushi
-- を (o) - object marker particle
-- 作る (tsu-ku-ru) - to make
-- んです (n-desu) - (explanatory sentence ending particle)
-
-来ませんか。
-
-- English translation: "Would you like to come?"
-- 来ませんか (ki-ma-se-n-ka) - Would you like to come?
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ええ | e-e | Interjection | yes |
+| すこし | su-ko-shi | Adverb | a little |
 
 
-五目寿司って　何ですか。
+Sure! Here's the breakdown:
 
-- English translation: "What is gomoku sushi?"
-- 五目寿司 (go-mo-ku-su-shi) - gomoku sushi (a type of sushi with five ingredients)
-- って (t-te) - casual quotation marker
-- 何 (na-ni) - what, which
+### **でも、刺身や寿司は全然食べられません。**
+
+Eng: "But I can't eat raw fish or sushi at all."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| でも | de-mo | Conjunction | but |
+| 刺身 | sa-shi-mi | Noun | raw fish, sashimi |
+| や | ya | Particle | and (used to indicate a non-exhaustive list) |
+| 寿司 | su-shi | Noun | sushi |
+| は | wa | Particle | marks the topic of the sentence |
+| 全然 | zen-zen | Adverb | not at all |
+| 食べられません | ta-be-ra-re-ma-sen | Predicate | negative potential form of the verb 食べる (ta-beru, "to eat") in the present tense polite negative form |
 
 
-お寿司です。でも、なまじゃありませんよ。
+### **あさってうちで五目寿司を作るんです**
 
-- English translation: "It's sushi, but not raw."
-- お寿司 (o-su-shi) - sushi
-- です (desu) - is
-- でも (demo) - but
-- なま (na-ma) - raw
-- じゃありません (ja-a-ri-ma-sen) - is not
-- よ (yo) - sentence-ending particle expressing emphasis or appeal.
+Eng: "I'm going to make 'goukou sushi' at home the day after tomorrow."
 
-だから、大丈夫です。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| あさって | a-sa-tte | Noun | the day after tomorrow |
+| うち | u-chi | Noun | home |
+| で | de | Particle | indicates the location where an action takes place |
+| 五目寿司 | go-mo-ku-su-shi | Noun | "goukou sushi", a type of sushi made with five ingredients |
+| を | o | Particle | marks the direct object of the sentence |
+| 作る | t-su-ku-ru | Predicate | present tense of the verb 作る (tsu-ku-ru, "to make") |
+| んです | n-desu | Auxiliary verb | expresses explanation or emphasis |
 
-- English Translation: "That's why it's okay."
-- だから (da-ka-ra) - therefore, so, that's why
-- 大丈夫 (dai-jo-u-bu) - alright, okay
 
-そうですか。
+### **来ませんか**
 
-- English translation: "Is that so?"
-- そう (so-u) - so, that way
-- です (de-su) - polite copula
-- か (ka) - question particle
+Eng: "Won't you come?"
 
-7時頃 うちへ　来られますか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 来ませんか | ki-ma-se-n ka | Predicate | negative present tense of the verb 来る (ku-ru, "to come") + question particle か (ka) |
 
-- English translation: "Can you come to my house around 7 o'clock?"
-- 7時 (shichi-ji) - 7 o'clock
-- 頃 (koro) - around, about
-- うちへ (uchi-e) - to my house
-- 来られますか (kora-rare-masu-ka) - can you come (polite)
 
-はい、行けます。
+### **五目寿司って何ですか**
 
-- English translation: "Yes, I can go."
-- はい (ha-i) - Yes
-- 行けます (i-ke-ma-su) - can go
+Eng: "What is gomoku sushi?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 五目寿司 | go-mo-ku-su-shi | Noun | a type of sushi that contains five ingredients, such as sweetened egg, shrimp, and mushrooms |
+| って | t-te | Particle | casual conjunction meaning "speaking of" or "regarding" |
+| 何 | nan | Pronoun | what |
+| ですか | de-su-ka | Auxiliary verb | polite question form of the copula です (de-su) |
+
+### **お寿司です。でも、なまじゃありませんよ。**
+
+Eng: "It's sushi. But it's not raw."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| お寿司 | o-su-shi | Noun | sushi (polite form) |
+| です | de-su | Auxiliary verb | "is" |
+| でも | de-mo | Conjunction | but |
+| なま | na-ma | Adjective | raw |
+| じゃ | ja | Particle | contraction of では (de-wa) |
+| ありません | a-ri-ma-sen | Predicate | negative present tense of the verb ある (a-ru, "to exist") |
+| よ | yo | Particle | sentence ending particle expressing emphasis or assertion |
+
+### **だから、大丈夫です。**
+
+Eng: "So, it's okay."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| だから | da-kara | Conjunction | therefore, so |
+| 大丈夫 | dai-jou-bu | Adjective | okay, all right |
+| です | de-su | Auxiliary verb | polite copula |
+
+### **そうですか。**
+
+Eng: "Is that so?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| そう | so-u | Adverb | that way, so |
+| です | de-su | Auxiliary verb | to be (polite) |
+| か | ka | Particle | indicates a question |
+
+### **7時頃 うちへ来られますか**
+
+Eng: "Can you come to my house around 7 o'clock?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 7時頃 | shichi-ji-goro | Noun | around 7 o'clock |
+| うちへ | uchi-e | Noun | to my house |
+| 来られますか | ki-ra-re-ma-su-ka | Predicate | polite form of the verb 来る (ku-ru, "to come") in potential form |
+
+### **はい、行けます。**
+
+Eng: "Yes, I can go."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はい | hai | Interjection | Yes |
+| 行けます | i-ke-masu | Predicate | polite form of the verb 行く (i-ku, "to go") |
