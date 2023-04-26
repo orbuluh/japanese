@@ -2,161 +2,258 @@
 
 ## [**かいわ 1**](https://youtu.be/Iuzz98Ay1_k?t=220)
 
-うちに あたらしい ビデオが あるんです。
+### **うちにあたらしいビデオがあるんです。**
 
-- English Translation: "There is a new video at home."
-- うちに (u-chi-ni) - at home
-- あたらしい (a-ta-ra-shi-i) - new
-- ビデオが (bi-de-o-ga) - video + subject marker particle "ga"
-- ある (a-ru) - exists (present tense of the verb "to be" in a plain form)
-- んです (n-desu) - is (a colloquial way to express a statement and give explanation or reasoning)
+Eng: "We have a new video at home."
 
-一緒に みませんか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| うちに | u-chi-ni | Noun | at home |
+| あたらしい | a-ta-ra-shi-i | Adjective | new |
+| ビデオ | bi-de-o | Noun | video |
+| が | ga | Particle | marks the subject of the sentence |
+| ある | a-ru | Predicate | present tense of the verb ある (a-ru, "to exist") |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | desu | Copula | to be (polite) |
 
-- 一緒に (i-ssho-ni) - together (adverbial phrase)
-- 見ませんか (mi-ma-se-n-ka) - would you like to watch (polite question form, negative form "masen" for suggestion)
+### **一緒に見ませんか。**
 
-- 何の　ビデオですか。
+Eng: "Would you like to watch it together?"
 
-紅白歌合戦です。　(こうはく　うたがっせんです。)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 一緒に | is-sho-ni | Adverbial phrase | together |
+| 見ませんか | mi-ma-se-n-ka | Predicate | negative present tense of the verb 見る (mi-ru, "to watch/see") in the interrogative form, followed by the question particle か (ka) |
 
-- English Translation: "It's the Kouhaku Uta Gassen."
-- 紅白歌合戦 (kou-ha-ku-u-ta-gas-sen) - Kouhaku Uta Gassen (a popular annual Japanese music show)
-- です (de-su) - (it) is (polite form to indicate statement of fact or politeness)
+### **何のビデオですか。**
 
-こんや　ひまですか。
+Eng: "What kind of video is it?"
 
-- English Translation: "Are you free tonight?"
-- 今夜 (kon-ya) - tonight (noun)
-- ひまですか (hi-ma-de-su-ka) - are you free? (polite question form, "desu" to indicate politeness)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 何 | na-ni | Pronoun | what |
+| の | no | Particle | indicates possession or description |
+| ビデオ | bi-de-o | Noun | video |
+| です | desu | Copula | to be (polite) |
+| か | ka | Particle | indicates a question |
 
-こにやは　つごうが　わるいんです。
+### **紅白歌合戦です。**
 
-- English Translation: "I'm afraid I'm not available."
-- こちら (ko-chi-ra) - here/this (polite reference to oneself)
-- 都合が悪い (tsu-gou-ga-wa-ru-i) - inconvenient/not available
-- です (de-su) - (it) is (polite form to indicate statement of fact or politeness)
+Eng: "It's the Red and White Song Battle."
 
-じゃ、あ明日は　どうですか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 紅白 | ko-u-ha-ku | Noun | Red and White (referring to the colors of the Japanese flag) |
+| 歌合戦 | u-ta-ga-se-n | Noun | Song Battle |
+| です | desu | Copula | to be (polite) |
 
-- English Translation: "How about tomorrow then?"
-- じゃ (ja) - then/in that case (casual form of "ja" to indicate a suggestion or proposal)
-- 明日は (a-shi-ta-wa) - tomorrow
-- どうですか (dou-de-su-ka) - how about it? (polite question form, "desu" to indicate politeness)
+### **今夜暇ですか。**
 
-あしたの　よるは　ひまです。
+Eng: "Are you free tonight?"
 
-- English Translation: "I am free tomorrow night."
-- あした (a-shi-ta) - tomorrow
-- の (no) - possessive particle
-- よる (yo-ru) - night
-- は (wa) - topic marker particle
-- ひま (hi-ma) - free, available
-- です (de-su) - is (polite expression of the copula "to be")
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 今夜 | kon-ya | Noun | tonight |
+| 暇 | hi-ma | Noun | free time |
+| です | desu | Copula | to be (polite) |
+| か | ka | Particle | indicates a question |
 
-じゃ、うちへ　きてください。
+### **ここにやは都合が悪いんです。**
 
-- English Translation: "Then, please come to my place."
-- じゃ (ja) - then/in that case (casual form of "ja" to indicate a suggestion or proposal)
-- うちへ (u-chi-e) - to my place (literally "to my home")
-- 来てください (ki-te-ku-da-sai) - please come (polite request form, "kudasai" to indicate politeness)
+Eng: "It's inconvenient for me to go there."
 
-何時に　行けば　いいですか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ここにや | ko-ko-ni-ya | Noun | a place name (could be a specific location or a general area) |
+| は | wa | Particle | marks the topic of the sentence |
+| 都合 | tsu-go-u | Noun | convenience; circumstances |
+| が | ga | Particle | marks the subject of the sentence |
+| 悪い | wa-ru-i | Adjective | bad; inconvenient |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | desu | Copula | to be (polite) |
 
-- English Translation: "What time should I go?"
-- 何時に (nan-ji-ni) - at what time
-- 行けば (i-ke-ba) - should go (conditional form of "iku" to indicate "should go")
-- いいですか (ii-de-su-ka) - is good? (polite question form, "desu" to indicate politeness)
 
-はちじごろ　きてください。
+### **じゃ、あしたはどうですか。**
 
-- English Translation: "Please come around 8 o'clock."
-- はちじごろ (hachi-ji-go-ro) - around 8 o'clock
-- 来てください (ki-te-ku-da-sai) - please come (polite request form, "kudasai" to indicate politeness)
+Eng: "Well, how about tomorrow?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| じゃ | ja | Interjection | Well... |
+| 、 | 、 | Punctuation | comma |
+| あした | a-shi-ta | Noun | tomorrow |
+| は | wa | Particle | marks the topic of the sentence |
+| どうですか | do-u-de-su-ka | Predicate | interrogative phrase that means "how about?" |
+
+
+### **明日の夜は暇です。**
+
+Eng: "I'm free tomorrow night."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 明日 | a-shi-ta | Noun | tomorrow |
+| の | no | Particle | indicates possession |
+| 夜 | yo-ru | Noun | night |
+| は | wa | Particle | marks the topic of the sentence |
+| 暇 | hi-ma | Noun | free time |
+| です | desu | Copula | to be (polite) |
+
+### **じゃ、うちへ来てください。**
+
+Eng: "Well, please come to my house."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| じゃ | ja | Interjection | Well... |
+| 、 | 、 | Punctuation | comma |
+| うちへ | u-chi-e | Noun | to my house |
+| 来て | ki-te | Verb | te-form of the verb 来る (ku-ru, "to come") |
+| ください | ku-da-sai | Auxiliary verb | polite imperative form of the verb くれる (ku-re-ru, "to give/receive") |
+
+### **何時に行けばいいですか**?
+
+Eng: "What time should I go?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 何時 | nan-ji | Subject | what time |
+| に | ni | Particle | indicates the time at which an action takes place |
+| 行けば | i-ke-ba | Predicate | conditional form of the verb 行く (i-ku, "to go") |
+| いい | i-i | Adjective | good, fine |
+| です | desu | Copula | to be (polite) |
+| か | ka | Particle | marks the sentence as a question |
+
+### **はちじごろ来てください。**
+
+Eng: "Please come around 8 o'clock."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はちじごろ | ha-chi-ji-go-ro | Time Adverbial | around 8 o'clock |
+| 来て | ki-te | Predicate | te-form of the verb 来る (ku-ru, "to come") |
+| ください | ku-da-sai | Auxiliary verb | please (polite) |
 
 
 ## [**かいわ 2**](https://youtu.be/Iuzz98Ay1_k?t=244)
 
-リンダさん　日本語は　むすかしいですか。
+### **リンダさん日本語は難しいですか。**
 
-- English Translation: "Linda, is Japanese difficult?"
-- リンダさん (rin-da-san) - Linda (honorific "san" added to name)
-- 日本語は (ni-hon-go-wa) - Japanese language (topic marker "wa" used to indicate "Japanese language" as the topic of discussion)
-- 難しいですか (muzukashii-de-su-ka) - is it difficult? (polite question form, "desu" to indicate politeness)
+Eng: "Linda, is Japanese difficult?"
 
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| リンダさん | rin-da-san | Vocative | Linda (polite) |
+| 日本語 | ni-hon-go | Subject | Japanese language |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| 難しい | muzukashii | Predicate | difficult |
+| です | desu | Copula | to be (polite) |
+| か | ka | Particle | marks the sentence as a question |
 
-いいえ、あまり　むすかしくありません。
+### **いいえ、あまり難しくありません。**
 
-- English Translation: "No, it's not very difficult."
-- いいえ (ii-e) - No (polite form)
-- あまり (a-ma-ri) - not very
-- 難しくありません (muzukashiku-a-ri-ma-sen) - not difficult (polite negative form)
+Eng: "No, it's not very difficult."
 
-とても　おもしろいです。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いいえ | ii-e | Interjection | no |
+| あまり | a-ma-ri | Adverb | not very, not much |
+| 難しく | muzuka-shi-ku | Adverb | difficult (adverbial form) |
+| ありません | a-ri-ma-sen | Negative Copula | negative form of the copula ある (a-ru, "to be") |
 
-- English Translation: "It's very interesting."
-- とても (to-te-mo) - very
-- おもしろい (o-mo-shi-ro-i) - interesting (polite form)
-- です (de-su) - copula (polite form)
+### **とてもおもしろいです。**
 
-でも　文字が　たくさん　ありますね。
+Eng: "It's very interesting."
 
-- English Translation: "But there are a lot of characters, aren't there?"
-- でも (de-mo) - but
-- 文字 (mo-ji) - characters
-- が (ga) - particle indicating subject
-- たくさん (ta-ku-san) - a lot, many
-- あります (a-ri-ma-su) - to exist, to be (polite form)
-- ね (ne) - sentence-ending particle used for seeking agreement or confirmation
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| とても | to-te-mo | Adverb | very |
+| おもしろい | o-mo-shi-ro-i | Predicate | interesting |
+| です | desu | Copula | to be (polite) |
 
-ひらがなは　かけますか。
+### **でも文字がたくさんありますね。**
 
-- English Translation: "Can you write in hiragana?"
-- ひらがな (hi-ra-ga-na) - hiragana (Japanese syllabic script)
-- は (wa) - particle indicating the subject
-- かけます (ka-ke-ma-su) - to write (polite form)
+Eng: "But there are a lot of characters, aren't there?"
 
-はい、ぜんぶ　かけます。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| でも | de-mo | Conjunctive particle | but |
+| 文字 | mo-ji | Subject | characters, letters |
+| が | ga | Particle | marks the subject of the sentence |
+| たくさん | ta-ku-san | Adverb | a lot |
+| あります | a-ri-ma-su | Predicate | there is, there are |
+| ね | ne | Sentence-ending particle | indicates seeking agreement or confirmation |
 
-- English Translation: "Yes, I can write all of it."
-- はい (ha-i) - Yes
-- ぜんぶ (zen-bu) - all of it
-- かけます (ka-ke-ma-su) - can write (polite form)
-　
-カタカナや　漢字は　どうですか。
+### **ひらがなは書けますか。**
 
-- English Translation: "What about Katakana and Kanji?"
-- カタカナ (ka-ta-ka-na) - Katakana (one of the three Japanese writing systems)
-- や (ya) - and
-- 漢字 (kan-ji) - Kanji (Chinese characters used in Japanese)
-- は (wa) - topic marking particle
-- どう (dou) - how
-- ですか (desu-ka) - is it? (polite question marker)
+Eng: "Can you write in hiragana?"
 
-まだ　全然　書けません。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ひらがな | hi-ra-ga-na | Object | hiragana |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| 書けます | ka-ke-ma-su | Predicate | can write (potential form of the verb 書く, ka-ku) |
+| か | ka | Particle | marks the sentence as a question |
 
-- English translation: "I still can't write at all."
-- まだ (ma-da) - still
-- 全然 (zen-zen) - not at all
-- 書けません (ka-ke-ma-sen) - cannot write
+### **はい、全部書けます。**
 
-でも　もうすぐ　ならうんです。
+Eng: "Yes, I can write all of it."
 
-- English Translation: "But I'll learn it soon."
-- でも (de-mo) - But
-- もうすぐ (mo-u-su-gu) - soon
-- ならうん (na-ra-un) - Learn (casual form)
-- です (de-su) - Copula
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はい | ha-i | Interjection | Yes |
+| ぜんぶ | zen-bu | Object | all |
+| 書けます | ka-ke-ma-su | Predicate | can write (potential form of the verb 書く, ka-ku) |
 
-そうですか。
+### **カタカナや漢字はどうですか。**
 
-- English Translation: "Is that so?" or "I see" (polite response to show acknowledgement or confirmation)
-- そう (sou) - so, that way
-- です (desu) - copula (polite)
-- か (ka) - question particle
+Eng: "How about katakana and kanji?"
 
-がんばってください。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| カタカナ | ka-ta-ka-na | Object | katakana |
+| や | ya | Particle | and |
+| 漢字 | kan-ji | Object | kanji |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| どうですか | dou-de-su-ka | Predicate | how about? (polite) |
 
-- English translation: "Please do your best."
-- がんばって (gan-ba-tte) - do your best
-- ください (ku-da-sai) - please
+### **まだ全然書けません。**
+
+Eng: "I still can't write it at all."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| まだ | ma-da | Adverb | still |
+| 全然 | zen-zen | Adverb | at all |
+| 書けません | ka-ke-ma-sen | Predicate | can't write (negative potential form of the verb 書く, ka-ku) |
+
+### **でももうすぐ習うんです。**
+
+Eng: "But I'll learn it soon."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| でも | de-mo | Conjunctive particle | but |
+| もうすぐ | mou-su-gu | Adverb | soon |
+| 習う | na-ra-u | Predicate | to learn |
+| ん | n | Auxiliary verb | contraction of の (no) |
+| です | desu | Copula | to be (polite) |
+
+### **そうですか。**
+
+Eng: "Is that so?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| そう | sou | Adverb | that way, so |
+| です | desu | Copula | to be (polite) |
+| か | ka | Particle | marks the sentence as a question |
+
+### **がんばってください。**
+
+Eng: "Please do your best."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| がんばって | gan-bat-te | Predicate | do one's best |
+| ください | ku-da-sai | Auxiliary verb | please (polite) |
