@@ -2,206 +2,283 @@
 
 ## [**かいわ 1**](https://youtu.be/7H1meOG52YY?t=136)
 
-うみで　およごうと　おもいます。　
+### **うみでおよごうとおもいます。**
 
-- English translation: "I am thinking of swimming in the ocean."
-- うみ (u-mi) - ocean
-- で (de) - particle indicating the location of the action
-- およごう (o-yo-go-u) - swim (potential form of the verb "oyogu," meaning "to swim")
-- と (to) - conjunction meaning "and"
-- おもいます (o-moi-masu) - think (present tense of the verb "omou," meaning "to think")
+Eng: "I'm thinking of swimming in the sea."
 
-いいですか。
+| Word  | Romaji      | Role      | Meaning                                                   |
+|-------|-------------|-----------|-----------------------------------------------------------|
+| うみ    | u-mi        | Object    | sea                                                       |
+| で     | de          | Particle  | indicates location where an action takes place            |
+| およごう  | o-yo-go-u   | Predicate | volitional form of the verb 泳ぐ (oya-gu, "to swim")       |
+| と     | to          | Particle  | indicates the speaker's intention or thought              |
+| おもいます | o-mo-i-masu | Predicate | present/future tense of the verb 思う (o-mo-u, "to think") |
 
-- English translation: "Is it okay?"
-- いい (ii) - good, okay
-- です (desu) - copula
-- か (ka) - question particle
+### **いいですか。**
 
-うみでは　およがないでづださい。
+Eng: "Is that okay?"
 
-- English translation: Please don't swim in the sea.
-- うみ (umi) - "sea"
-- では (dewa) - particle indicating location of an action
-- およがないで (oyoganai de) - "don't swim" (negative verb in te-form)
-- づださい (zudasanai) - "please do not" (polite imperative form)
+| Word | Romaji | Role      | Meaning           |
+|------|--------|-----------|-------------------|
+| いい   | i-i    | Adjective | good              |
+| です   | desu   | Copula    | to be (polite)    |
+| か    | ka     | Particle  | question particle |
 
-どうしてですか
+### **うみではおよがないでください**
 
-- English translation: Why is that?
-- どうして (doushite) - "why"
-- です (desu) - copula indicating politeness
-- か (ka) - question particle indicating a question
+Eng: "Please don't swim in the sea."
+
+| Word   | Romaji          | Role      | Meaning                                                                                             |
+|--------|-----------------|-----------|-----------------------------------------------------------------------------------------------------|
+| うみ     | u-mi            | Object    | sea                                                                                                 |
+| では     | de-wa           | Particle  | indicates a location                                                                                |
+| およがないで | o-yo-ga-na-i-de | Predicate | negative command of the verb 泳ぐ (o-yo-gu, "to swim") in the -te form with auxiliary verb ない (na-i) |
+| ください   | ku-da-sai       | Suffix    | polite request for action                                                                           |
 
 
-きょうは　かぜが　つよいからです。
+### **どうしてですか**
 
-- English translation: It's because the wind is strong today.
-- きょう (kyou) - "today"
-- は (wa) - topic marker
-- かぜ (kaze) - "wind"
-- が (ga) - subject marker
-- つよい (tsuyoi) - "strong"
-- から (kara) - "because"
-- です (desu) - copula indicating politeness
+Eng: "Why is that?"
 
-じゃ、どこで　およがば　いいですか。
+| Word | Romaji     | Role           | Meaning                          |
+|------|------------|----------------|----------------------------------|
+| どうして | dou-shi-te | Adverb         | why                              |
+| です   | desu       | Auxiliary verb | to be (polite)                   |
+| か    | ka         | Particle       | marks the sentence as a question |
 
-- English translation: Well, where is it okay to swim then?
-- じゃ (ja) - casual contraction of "では" (particle indicating location of an action)
-- どこで (doko de) - "where" (particle indicating location of an action)
-- およがば (oyogaba) - "is it okay to swim?" (conditional form of the verb "oyogu")
-- いい (ii) - "good, okay"
-- です (desu) - copula indicating politeness
-- か (ka) - question particle indicating a question
 
-ホテルの プールで 泳いでください。
 
-- English translation: Please swim in the hotel pool.
-- ホテル (hoteru) - "hotel"
-- の (no) - possessive particle
-- プール (puuru) - "pool"
-- で (de) - location particle
-- 泳いで (oyoide) - "swim" (verb in te-form)
-- ください (kudasai) - "please" (polite imperative form)
+### **きょうは　かぜが　つよいからです。**
 
-わかりました。
+Eng: "It's because I have a strong cold today."
 
-- English translation: Understood.
-- わかりました (wakarimashita) - "understood" (polite past tense of the verb "wakaru" which means "to understand")
+| Word | Romaji   | Role            | Meaning                           |
+|------|----------|-----------------|-----------------------------------|
+| きょう  | kyou     | Subject         | today                             |
+| は    | wa       | Particle        | topic marker                      |
+| かぜ   | ka-ze    | Subject         | cold                              |
+| が    | ga       | Particle        | marks the subject of the sentence |
+| つよい  | tsu-yo-i | Predicate       | strong                            |
+| から   | ka-ra    | Conjunction     | because                           |
+| です   | desu     | Sentence ending | polite form of copula "to be"     |
 
-どうも　すみません。
 
-- English translation: I'm sorry.
-- どうも (doumo) - an expression of gratitude, apology, or greeting
-- すみません (sumimasen) - "I'm sorry" (polite expression of apology)
+### **じゃ、どこで　およげば　いいですか。**
+
+Eng: "Where should I swim?"
+
+| Word  | Romaji      | Role                     | Meaning                                              |
+|-------|-------------|--------------------------|------------------------------------------------------|
+| じゃ    | ja          | Conjunction              | informal way of saying では (de wa)                    |
+| どこで   | do-ko-de    | Adverbial phrase         | "where" + particle で (de)                            |
+| およげば  | o-yo-ge-ba  | Predicate                | conditional form of the verb 泳ぐ (oyo-gu, "to swim") |
+| いいですか | i-i-desu-ka | Sentence-ending particle | seeking confirmation or agreement                    |
+
+### **ホテルのプールで泳いでください**
+
+Eng: "Please swim at the hotel pool."
+
+| Word | Romaji    | Role      | Meaning                                             |
+|------|-----------|-----------|-----------------------------------------------------|
+| ホテル  | ho-te-ru  | Noun      | hotel                                               |
+| の    | no        | Particle  | indicates possession                                |
+| プール  | pu-ru     | Noun      | pool                                                |
+| で    | de        | Particle  | indicates the location where the action takes place |
+| 泳いで | oyoi-de   | Predicate | te-form of the verb 泳ぐ (o-yo-gu, "to swim")        |
+| ください | ku-da-sai | Suffix    | polite imperative form of a verb, meaning "please"  |
+
+
+### **わかりました。**
+
+Eng: "I understand."
+
+| Word   | Romaji             | Role      | Meaning                                                 |
+|--------|--------------------|-----------|---------------------------------------------------------|
+| わかりました | wa-ka-ri-ma-shi-ta | Predicate | past tense of the verb 分かる (wa-ka-ru, "to understand") |
+
+
+### **どうも　すみません。**
+
+Eng: "I'm sorry."
+
+| Word  | Romaji       | Role   | Meaning                         |
+|-------|--------------|--------|---------------------------------|
+| どうも   | dou-mo       | Adverb | very, quite, greatly, extremely |
+| すみません | su-mi-ma-sen | Phrase | I'm sorry                       |
+
 
 
 ## [**かいわ 2**](https://youtu.be/7H1meOG52YY?t=156)
 
 
-今日は9日ですか。
+### **今日は9日ですか。**
 
-- English translation: Is today the 9th?
-- 今日 (kyou) - "today"
-- は (wa) - topic marker
-- 9日 (kokonoka) - "9th" (literally "9 days")
-- です (desu) - copula indicating politeness
-- か (ka) - question particle indicating a question
+Eng: "Is today the 9th?"
 
-
-違います。10日です。
-
-- English translation: That's wrong. Today is the 10th.
-- 違います (chigaimasu) - "that's wrong" (polite negative form of the verb "chigau" which means "to be wrong")
-- 10日 (tooka) - "10th" (literally "10 days")
-- です (desu) - copula indicating politeness.
-
-明日は　建国記念日です。
-
-- English translation: Tomorrow is National Foundation Day.
-- 明日 (ashita) - "tomorrow"
-- は (wa) - topic marker
-- 建国記念日 (kenkoku kinenbi) - "National Foundation Day"
-- です (desu) - copula indicating politeness.
+| Word | Romaji   | Role      | Meaning                  |
+|------|----------|-----------|--------------------------|
+| 今日 | kyoo     | Subject   | today                    |
+| は    | wa       | Particle  | topic marker             |
+| 9日  | kokonoka | Object    | the 9th day of the month |
+| です   | desu     | Predicate | to be (polite)           |
+| か    | ka       | Particle  | question marker          |
 
 
-休みですよ。
 
-- English translation: It's a day off, you know.
-- 休み (yasumi) - "day off"
-- です (desu) - copula indicating politeness
-- よ (yo) - sentence-ending particle used for emphasis or assertion
+### **違います。10日です。**
 
-それは　何ですか。
+Eng: "No, it's the 10th."
 
-- English translation: What is that?
-- それ (sore) - "that"
-- は (wa) - topic marker
-- 何 (nani) - "what"
-- です (desu) - copula indicating politeness
-- か (ka) - question particle indicating a question
+| Word  | Romaji      | Role      | Meaning                                                                  |
+|-------|-------------|-----------|--------------------------------------------------------------------------|
+| 違います | chiga-imasu | Predicate | present tense of the verb 違う (chigau, "to be different") in polite form |
+| 10日  | to-ka       | Subject   | the 10th day of the month                                                |
+| です    | desu        | Copula    | polite form of the copula "to be"                                        |
 
 
-きっぷです。
+### **明日は　建国記念日です。**
 
-- English translation: It's a ticket.
-- きっぷ (kippu) - "ticket"
-- です (desu) - copula indicating politeness
+Eng: "Tomorrow is National Foundation Day."
 
-明日　スキーに　いくんです。
-
-- English translation: I'm going skiing tomorrow.
-- 明日 (ashita) - "tomorrow"
-- スキー (sukii) - "skiing"
-- に (ni) - direction particle indicating the destination or purpose of an action
-- 行く (iku) - "go" (verb stem)
-- ん (n) - contraction of "の" (explanatory particle)
-- です (desu) - copula indicating politeness.
+| Word       | Romaji             | Role      | Meaning                           |
+|------------|--------------------|-----------|-----------------------------------|
+| 明日       | ashita             | Subject   | tomorrow                          |
+| は          | wa                 | Particle  | marks the subject of the sentence |
+| 建国記念日 | ken-koku-ki-nen-bi | Predicate | National Foundation Day           |
+| です         | desu               | Copula    | to be                             |
 
 
-いまから　ここで　ラジオを　きこうと　おもいます。
 
-- English translation: I'm going to listen to the radio here from now on.
-- いまから (ima kara) - "from now on"
-- ここで (koko de) - "here" (location particle)
-- ラジオ (rajio) - "radio"
-- を (wo) - object particle
-- きこう (kikou) - "listen" (verb in volitional form indicating intent or plan)
-- と (to) - conjunction particle
-- おもいます (omoimasu) - "think" (polite present tense)
+### **休みですよ。**
 
-いいですか。
+Eng: "It's a holiday."
 
-- English translation: Is that okay?
-- いい (ii) - "good, okay"
-- です (desu) - copula indicating politeness
-- か (ka) - question particle indicating a question
+| Word | Romaji | Role     | Meaning                               |
+|------|--------|----------|---------------------------------------|
+| 休み  | yasumi | Subject  | holiday, day off                      |
+| です   | desu   | Copula   | to be                                 |
+| よ    | yo     | Particle | sentence-ending particle for emphasis |
 
 
-どうぞ　聞いてください。
+### **それは　何ですか。**
 
-- English translation: Please go ahead and listen.
-- どうぞ (douzo) - "go ahead, please"
-- 聞いて (kiite) - "listen" (verb in te-form)
-- ください (kudasai) - "please" (polite imperative form)
+Eng: "What is that?"
 
-何を聞くんですか。
-
-- English translation: What are you going to listen to?kdown:
-- 何 (nani) - "what"
-- を (wo) - object particle
-- 聞く (kiku) - "listen"
-- ん (n) - contraction of "の" (explanatory particle)
-- です (desu) - copula indicating politeness
-- か (ka) - question particle indicating a question
-
-ニュースと　天気予報を　聞くんです。
-
-- English translation: I'm going to listen to the news and weather forecast.
-- ニュース (nyuusu) - "news"
-- と (to) - conjunction particle meaning "and"
-- 天気予報 (tenki yohou) - "weather forecast"
-- を (wo) - object particle
-- 聞く (kiku) - "listen"
-- ん (n) - contraction of "の" (explanatory particle)
-- です (desu) - copula indicating politeness.
+| Word | Romaji | Role     | Meaning         |
+|------|--------|----------|-----------------|
+| それ   | so-re  | Pronoun  | that            |
+| は    | wa     | Particle | topic marker    |
+| 何   | nan    | Pronoun  | what            |
+| です   | desu   | Verb     | to be (polite)  |
+| か    | ka     | Particle | question marker |
 
 
-良かった　明日は晴れです。
 
-- English translation: That's good. Tomorrow will be sunny.
-- 良かった (yokatta) - "that's good" (expression of relief or satisfaction)
-- 明日 (ashita) - "tomorrow"
-- は (wa) - topic marker
-- 晴れ (hare) - "sunny"
-- です (desu) - copula indicating politeness.
+### **きっぷです。**
+
+Eng: "It's a ticket."
+
+| Word | Romaji | Role    | Meaning |
+|------|--------|---------|---------|
+| きっぷ  | ki-ppu | Subject | ticket  |
+| です   | desu   | Copula  | to be   |
 
 
-良かったですね。
+### **明日　スキーに　いくんです。**
 
-- English translation: That's great, isn't it?
-- 良かった (yokatta) - "that's great" (expression of relief or satisfaction)
-- です (desu) - copula indicating politeness
-- ね (ne) - sentence-ending particle used to seek agreement or confirmation from the listener.
+Eng: "I'm going skiing tomorrow."
+
+| Word | Romaji   | Role                 | Meaning                                                   |
+|------|----------|----------------------|-----------------------------------------------------------|
+| 明日 | a-shi-ta | Adverb               | tomorrow                                                  |
+| スキー  | su-ki-   | Object of the action | skiing                                                    |
+| に    | ni       | Particle             | indicates the destination or direction                    |
+| いく   | i-ku     | Predicate            | verb meaning "to go"                                      |
+| んです  | n-desu   | Sentence ender       | casual form of "です" used for explanation or clarification |
+
+
+### **いまから　ここで　ラジオを　きこうと　おもいます。**
+
+Eng: "I'm going to listen to the radio here from now on."
+
+| Word  | Romaji      | Role      | Meaning                                            |
+|-------|-------------|-----------|----------------------------------------------------|
+| いまから  | i-ma-ka-ra  | Adverb    | from now on                                        |
+| ここで   | ko-ko-de    | Adverbial | at here                                            |
+| ラジオを  | ra-ji-o-o   | Object    | the radio                                          |
+| きこうと  | ki-ko-u-to  | Verb      | intend to listen                                   |
+| おもいます | o-mo-i-masu | Predicate | present tense of the verb 思う (o-mo-u, "to think") |
+
+### **いいですか。**
+
+Eng: Is that okay?
+
+| Word | Romaji | Role      | Meaning              |
+|------|--------|-----------|----------------------|
+| いい   | i-i    | Adjective | good, fine           |
+| です   | de-su  | Copula    | to be                |
+| か    | ka     | Particle  | indicates a question |
+
+### **どうぞ　聞いてください。**
+
+Eng: "Please listen."
+
+| Word | Romaji    | Role      | Meaning                                                  |
+|------|-----------|-----------|----------------------------------------------------------|
+| どうぞ  | dou-zo    | Adverb    | please, go ahead                                         |
+| 聞いて | ki-i-te   | Predicate | present progressive of the verb 聞く (ki-ku, "to listen") |
+| ください | ku-da-sai | Suffix    | please                                                   |
+
+
+### **何を聞くんですか。**
+
+Eng: "What are you going to listen to?"
+
+| Word | Romaji  | Role            | Meaning                                 |
+|------|---------|-----------------|-----------------------------------------|
+| 何   | nan     | Pronoun         | what                                    |
+| を    | o       | Particle        | marks the direct object of the verb     |
+| 聞く  | ki-ku   | Predicate       | verb meaning "to listen"                |
+| ん    | n       | Auxiliary       | short for の (no), indicates explanation |
+| ですか  | desu ka | Sentence ending | polite question marker                  |
+
+
+### **ニュースと天気予報を聞くんです**
+
+Eng: "I'm going to listen to the news and weather forecast."
+
+| Word     | Romaji        | Role            | Meaning                          |
+|----------|---------------|-----------------|----------------------------------|
+| ニュース     | nyu-su        | Object          | news                             |
+| と        | to            | Particle        | indicates a list of items        |
+| 天気予報 | ten-ki-yo-hou | Object          | weather forecast                 |
+| を        | wo            | Particle        | marks the object of the sentence |
+| 聞く      | ki-ku         | Predicate       | verb "to listen"                 |
+| ん        | n             | Auxiliary verb  | casual contraction of の (no)     |
+| です       | desu          | Sentence ending | polite sentence ending           |
+
+
+
+### **良かった　明日は晴れです。**
+
+Eng: "That's good. Tomorrow will be sunny."
+
+| Word  | Romaji    | Role      | Meaning                                        |
+|-------|-----------|-----------|------------------------------------------------|
+| 良かった | yo-ka-tta | Predicate | past tense of the adjective 良い (yo-i, "good") |
+| 明日  | a-shi-ta  | Subject   | tomorrow                                       |
+| は     | wa        | Particle  | topic particle                                 |
+| 晴れ   | ha-re     | Predicate | noun meaning "sunny"                           |
+| です    | de-su     | Copula    | polite form of the copula "to be"              |
+
+### **良かったですね。**
+
+Eng: "That's great, isn't it?"
+
+| Word  | Romaji    | Role      | Meaning                                        |
+|-------|-----------|-----------|------------------------------------------------|
+| 良かった | yo-ka-tta | Predicate | past tense of the adjective 良い (yo-i, "good") |
+| です    | desu      | Copula    | to be (polite)                                 |
+| ね     | ne        | Particle  | indicates agreement or seeking confirmation    |
+
 
