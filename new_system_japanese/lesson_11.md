@@ -2,153 +2,225 @@
 
 ## [**かいわ 1**](https://youtu.be/6DSWJtL7ysA?t=13)
 
-きのうは　なには　したんですか。
 
-- English Translation: "What did you do yesterday?"
-- きのうは (ki-no-u-wa) - yesterday + topic marker particle "wa"
-- なにを (na-ni-o) - what + object marker particle "o"
-- したんですか (shi-ta-n-de-su-ka) - did (past tense) + question particle "ka"
+### **昨日は何をしたんですか。**
+
+Eng: "What did you do yesterday?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 昨日 | kinou | Adverb | yesterday |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| 何を | nani-o | Object | what |
+| したんですか | shi-ta-n-desu-ka | Predicate | did (casual past tense of the verb する, shi-ru) + explanatory particle ん (n) + polite sentence ending particle ですか (desu ka) |
+
+### **午前中は掃除と洗濯をしました。**
+
+Eng: "I did cleaning and laundry in the morning."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 午前中 | go-zen-chuu | Time Adverbial | in the morning |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| 掃除 | sou-ji | Object | cleaning |
+| と | to | Particle | and |
+| 洗濯 | sen-ta-ku | Object | laundry |
+| を | wo | Particle | marks the direct object of the sentence |
+| しました | shi-ma-shi-ta | Predicate | did (polite past tense of the verb する, shi-ru) |
+
+### **午後は病院へ行ったんです。**
+
+Eng: "I went to the hospital in the afternoon."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 午後 | go-go | Time Adverbial | in the afternoon |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| 病院 | byou-in | Object | hospital |
+| へ | e | Particle | indicates the destination of an action |
+| 行ったんです | i-tta-n-desu | Predicate | went (casual past tense of the verb 行く, i-ku) + explanatory particle ん (n) + polite sentence ending particle です (desu) |
+
+### **それから。**
+
+Eng: "And then."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| それから | sore-kara | Adverb | and then |
+
+### **友達に電話をかけました。**
+
+Eng: "I called my friend on the phone."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 友達 | to-mo-da-chi | Indirect Object | friend |
+| に | ni | Particle | indicates the recipient of an action |
+| 電話 | den-wa | Object | phone |
+| を | wo | Particle | marks the direct object of the sentence |
+| かけました | ka-ke-ma-shi-ta | Predicate | called (polite past tense of the verb かける, ka-keru) |
+
+### **そして、6時に家を出ました。**
+
+Eng: "And then, I left home at 6 o'clock."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| そして | so-shi-te | Conjunctive particle | and then |
+| 6時 | roku-ji | Time Adverbial | 6 o'clock |
+| に | ni | Particle | indicates the time at which an action takes place |
+| 家 | ie | Object | home |
+| を | wo | Particle | marks the direct object of the sentence |
+| 出ました | de-ma-shi-ta | Predicate | left (polite past tense of the verb 出る, de-ru) |
+
+### **どこへ行ったんですか。**
+
+Eng: "Where did you go?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| どこへ | doko-e | Object | where |
+| 行ったんですか | i-tta-n-desu-ka | Predicate | went (casual past tense of the verb 行く, i-ku) + explanatory particle ん (n) + polite sentence ending particle ですか (desu ka) |
+
+### **新宿の喫茶店へ行きました。**
+
+Eng: "I went to a coffee shop in Shinjuku."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 新宿 | shin-ju-ku | Adjectival Noun | Shinjuku (a district in Tokyo) |
+| の | no | Particle | indicates possession or association |
+| 喫茶店 | kissa-ten | Object | coffee shop |
+| へ | e | Particle | indicates the destination of an action |
+| 行きました | i-ki-ma-shi-ta | Predicate | went (polite past tense of the verb 行く, i-ku) |
 
 
-ごぜんちょうは　そうじと　せんたくを　しました。
+### **何時に帰ったんですか。**
 
-- English Translation: "The manager cleaned and did laundry."
-- ごぜんちょうは (go-zen-chou-wa) - "the manager" + topic marker particle "wa"
-- そうじ (so-u-ji) - cleaning
-- と (to) - and
-- せんたく (sen-ta-ku) - laundry
-- を (wo) - object marker particle
-- しました (shi-ma-shi-ta) - did (past tense of the verb "to do" in a polite expression)
+Eng: "What time did you come back?"
 
-ごごは　びよういんへ　いったんです。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 何時に | nan-ji-ni | Time Adverbial | at what time |
+| 帰ったんですか | ka-et-ta-n-desu-ka | Predicate | came back (casual past tense of the verb 帰る, ka-eru) + explanatory particle ん (n) + polite sentence ending particle ですか (desu ka) |
 
-- English Translation: "He/She went to the beauty salon in the afternoon."
-- ごごは (go-go-wa) - in the afternoon + topic marker particle "wa"
-- びよういんへ (bi-you-in-e) - to the beauty salon + direction marker particle "e"
-- いった (i-tta) - went (past tense of the verb "to go" in a polite expression)
+### **10時半ごろ帰りました。**
 
+Eng: "I came back around 10:30."
 
-それから。
-
-- English Translation: "And then."
-- それから (so-re-kara) - and then
-
-
-ともだちに　でんわを　かけました。
-
-- English Translation: "I called my friend on the phone."
-- ともだちに (to-mo-da-chi-ni) - to my friend
-- でんわを (den-wa-o) - phone + object marker particle "o"
-- かけました (ka-ke-ma-shi-ta) - called (past tense polite expression of the verb "to call")
-
-そして　ろくじに　うちを　でました。
-
-- English Translation: "And then I left home at 6 o'clock."
-- そして (so-shi-te) - and then
-- ろくじに (ro-ku-ji-ni) - at 6 o'clock
-- うちを (u-chi-wo) - home + direct object marker particle "wo"
-- でました (de-ma-shi-ta) - left (past tense of the verb "deru" in a polite expression)
-
-
-どこへ　いったんですか。
-
-- English Translation: "Where did you go?"
-- どこへ (do-ko-e) - where + direction particle "e"
-- いったんですか (it-ta-n-de-su-ka) - did go (past tense of the verb "to go" in a polite expression) + sentence-ending question particle "ka"
-
-
-しんじゅくの　きっさてんへ　いきました。
-
-- English Translation: "I went to a coffee shop in Shinjuku."
-- しんじゅく (shin-ju-ku) - Shinjuku (a district in Tokyo)
-- の (no) - particle indicating possession (in this case, the coffee shop belongs to or is located in Shinjuku)
-- きっさてんへ (ki-ssa-te-n-e) - to a coffee shop (using the directional particle "e" to indicate movement towards)
-- いきました (i-ki-ma-shi-ta) - went (past tense of the verb "to go" in a polite expression)
-
-
-なんじに　かえったんですか。
-
-- English Translation: "What time did you come back?"
-- なんじに (nan-ji-ni) - at what time
-- かえった (ka-e-tta) - came back (past tense of the verb "kaeru" in a casual expression)
-- んですか (n-desu-ka) - used for asking a question in a polite manner
-
-
-じゅうじはんごろ　かえりました。
-
-- English Translation: "I returned home around 10:30."
-- じゅうじはんごろ (juu-ji-han-goro) - around 10:30 (literally "10 and a half o'clock")
-- かえりました (kae-ri-ma-shi-ta) - returned (past tense of the verb "to return" in a polite expression)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 10時半 | juu-ji-han | Time Adverbial | around 10:30 |
+| ごろ | go-ro | Particle | around |
+| 帰りました | ka-e-ri-ma-shi-ta | Predicate | came back (polite past tense of the verb 帰る, ka-eru) |
 
 
 ## [**かいわ 2**](https://youtu.be/6DSWJtL7ysA?t=39)
 
-ビーターさんは　いつ　にほんへ　いらっしゃったんですか。
 
-- English Translation: "When did Mr./Ms. Beater come to Japan?"
-- ビーターさんは (bi-ta-san-wa) - Mr./Ms. Beater + topic marker particle "wa"
-- いつ (i-tsu) - when
-- にほんへ (ni-hon-e) - to Japan
-- いらっしゃったんですか (i-ra-ssh-at-ta-n desu ka) - did come (polite past tense of the verb "to come" in the honorific expression)
+### **ビーターさんはいつ日本へいらっしゃったんですか。**
+
+Eng: "When did Mr. Bitter come to Japan?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ビーターさんは | bi-ta-san-wa | Topic | Mr. Bitter |
+| いつ | itsu | Time Adverbial | when |
+| 日本へ | ni-hon-e | Object | to Japan |
+| いらっしゃったんですか | i-ra-ssha-tta-n-desu-ka | Predicate | came (honorific past tense of the verb 行く, i-ku) + explanatory particle ん (n) + polite sentence ending particle ですか (desu ka) |
+
+### **先週の月曜日に来たんです。**
+
+Eng: "I came last Monday."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 先週 | sen-shuu | Time Adverbial | last week |
+| の | no | Particle | indicates possession or association |
+| 月曜日 | getsu-youbi | Object | Monday |
+| に | ni | Particle | indicates the time at which an action takes place |
+| 来たんです | ki-ta-n-desu | Predicate | came (past tense of the verb 来る, ku-ru) + explanatory particle ん (n) + polite sentence ending particle です (desu) |
 
 
-せんしゅうの　げつようびに　きたんです。
+### **日本はどうですか。**
 
-- English Translation: "He came on last Monday."
-- せんしゅうの (sen-shuu-no) - last week's + possessive particle "no"
-- げつようびに (getsu-you-bi-ni) - on Monday
-- きたんです (ki-ta-n-de-su) - came (past tense of the verb "to come" in a polite expression)
+Eng: "How is Japan?"
 
-にほんは　どうですか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 日本 | ni-hon | Topic | Japan |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| どうですか | dou-desu-ka | Predicate | how is it? (polite) |
 
-- English Translation: "How is Japan?"
-- にほん (ni-hon) - Japan
-- は (wa) - topic marker particle "wa"
-- どう (dou) - how
-- ですか (desu-ka) - is (polite question form of the copula verb "to be")
+### **日本の冬は寒いですね。**
+
+Eng: "Japan's winter is cold, isn't it?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 日本 | ni-hon | Adjectival Noun | Japan |
+| の | no | Particle | indicates possession or association |
+| 冬 | fuyu | Object | winter |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| 寒いですね | sa-mui-desu-ne | Predicate | is cold (polite) + sentence ending particle ね (ne) used to seek confirmation or agreement |
+
+### **北海道はもっと寒いですよ。**
+
+Eng: "Hokkaido is even colder."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 北海道 | hok-kai-dou | Topic | Hokkaido (a northernmost prefecture in Japan) |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| もっと | mot-to | Adverb | even more |
+| 寒いです | sa-mui-desu | Predicate | is cold (polite) |
+| よ | yo | Sentence Ending Particle | used to emphasize the statement or add strong conviction to the sentence |
 
 
-にほんの　ふよは　さむいですね。
+### **先週、スキーに行ってんです。**
 
-- English Translation: "Winter in Japan is cold, isn't it?"
-- にほんの (ni-hon-no) - Japan's
-- ふゆは (fu-yu-wa) - winter + topic marker particle "wa"
-- さむいですね (sa-mu-i-de-su-ne) - is cold, isn't it? (polite expression)
+Eng: "I went skiing last week."
 
-ほっかいどうは　もっとさむいですよ。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 先週 | sen-shuu | Time Adverbial | last week |
+| 、 | 、 | Punctuation | comma |
+| スキー | su-ki- | Object | skiing |
+| に | ni | Particle | indicates the destination of an action |
+| 行ってんです | i-tte-n-desu | Predicate | went (casual past tense of the verb 行く, i-ku) + explanatory particle ん (n) + polite sentence ending particle です (desu) |
 
-- English Translation: "Hokkaido is even colder."
-- ほっかいどうは (ho-kka-i-do-u-wa) - as for Hokkaido + topic marker particle "wa"
-- もっと (mo-tto) - even more
-- さむい (sa-mu-i) - cold (adjective)
-- です (de-su) - is (polite form of the copula)
-- よ (yo) - sentence ending particle, used to emphasize/assert something
+### **東京でも雪は降りますか。**
 
-せんしょう　スキーに　いってんです。
+Eng: "Does it snow in Tokyo as well?"
 
-- English Translation: "Sensho went skiing."
-- せんしょう (sen-sho-u) - Sesho (name of the person)
-- スキーに (su-ki-i-ni) - to skiing
-- いってん (i-tte-n) - contraction of the verb "iku" (to go) in the present progressive form, indicating an ongoing action
-- です (de-su) - polite copula, indicating the sentence is a statement.
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 東京 | tou-kyou | Topic | Tokyo |
+| でも | de-mo | Particle | also, as well |
+| 雪 | yu-ki | Subject | snow |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| 降りますか | fu-ri-masu-ka | Predicate | snows (polite) + sentence ending particle か (ka) used to ask a question |
 
-とうきょうでも　よきは　ふりますか。
 
-- English Translation: "Does it snow in Tokyo as well?"
-- とうきょうでも (to-u-kyo-u-de-mo) - even in Tokyo
-- ゆきは (yu-ki-wa) - snow + topic marker particle "wa"
-- ふりますか (fu-ri-ma-su-ka) - snows? (present tense, polite form of the verb "to snow")
+### **ええ、時々降ります。**
 
-ええ、ときどき　ふります。
+Eng: "Yes, it snows sometimes."
 
-- English Translation: "Yes, sometimes it snows."
-- ええ (ee) - yes
-- ときどき (toki-doki) - sometimes
-- ふります (fu-ri-masu) - snows (present/future tense polite form of the verb "to snow")
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ええ | ee | Interjection | yes |
+| 、 | 、 | Punctuation | comma |
+| 時々 | to-ki-do-ki | Adverb | sometimes |
+| 降ります | fu-ri-masu | Predicate | snows (polite) |
 
-きょねんは　よく　ふりました。
 
-- English Translation: "It snowed frequently last year."
-- きょねんは (kyo-nen-wa) - last year + topic marker particle "wa"
-- よく (yo-ku) - frequently, well
-- ふりました (fu-ri-ma-shi-ta) - snowed (past tense of the verb "to snow" in a polite expression)
+### **去年はよく降りました。**
+
+Eng: "It snowed a lot last year."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 去年 | kyo-nen | Time Adverbial | last year |
+| は | wa | Particle | topic marker (indicates what the sentence is about) |
+| よく | yoku | Adverb | a lot, frequently |
+| 降りました | fu-ri-ma-shi-ta | Predicate | snowed (polite past tense of the verb 降る, fu-ru) |
