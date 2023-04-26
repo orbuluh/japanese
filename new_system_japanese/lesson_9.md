@@ -2,145 +2,231 @@
 
 [**かいわ 1**](https://youtu.be/Iuzz98Ay1_k?t=172)
 
-これは何ですか。
+### **これは何ですか。**
 
-- English Translation: "What is this?"
-- これは (ko-re-wa) - this (topic marker particle)
-- 何 (na-ni) - what
-- ですか (de-su-ka) - is it? (question marker used to indicate a polite question)
+Eng: "What is this?"
 
-それはマグロです。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| これ | ko-re | Pronoun | this |
+| は | wa | Particle | indicates the topic of the sentence |
+| 何 | na-ni | Pronoun | what |
+| です | desu | Auxiliary verb | To be |
 
-- English Translation: "That is a tuna."
-- それは (so-re-wa) - that (topic marker particle)
-- マグロ (ma-gu-ro) - tuna
-- です (de-su) - is (used as a polite copula to indicate a statement of fact)
+### **それはマグロです。**
 
+Eng: "That is tuna."
 
-その　赤いのも　魚ですか。
-
-- English Translation: "Is that red thing also a fish?"
-- その (so-no) - that
-- 赤いの (a-ka-i-no) - red one (referring to an object, in this case, a fish)
-- も (mo) - also
-- 魚 (sa-ka-na) - fish
-- ですか (de-su-ka) - is it? (question marker used to indicate a polite question)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| それ | so-re | Pronoun | that |
+| は | wa | Particle | marks the topic of the sentence |
+| マグロ | ma-gu-ro | Noun | tuna |
+| です | desu | Auxiliary verb | To be |
 
 
-いいえ、これは 魚じゃないんです。かいです。
+### **その赤いのも魚ですか。**
 
-- English Translation: "No, this is not a fish. It is a shellfish."
-- いいえ (ii-e) - no
-- これは (ko-re-wa) - this (topic marker particle)
-- 魚じゃないんです (sa-ka-na-ja-na-i-n-de-su) - is not a fish (negative form of "is" with emphasis)
-- 貝です (kai-de-su) - it is a shellfish.
+Eng: "Is that red one also a fish?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| その | so-no | Pronoun | that |
+| 赤い | a-ka-i | Adjective | red |
+| の | no | Particle | indicates possession or connection |
+| も | mo | Particle | also |
+| 魚 | sa-ka-na | Noun | fish |
+| です | desu | Auxiliary verb | to be |
+| か | ka | Particle | indicates a question |
+
+### **いいえ、これは 魚じゃないんです。かいです。**
+
+Eng: "No, this is not a fish. It's a shellfish."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いいえ | ii-e | Expression | No |
+| これ | ko-re | Subject | This |
+| は | wa | Particle | Topic marker |
+| 魚 | sa-ka-na | Noun | Fish |
+| じゃない | ja-nai | Negative auxiliary verb | Negative form of です (desu) |
+| ん | n | Auxiliary verb | Contraction of の (no) |
+| です | desu | Auxiliary verb | To be |
+| かい | ka-i | Noun | Shellfish |
 
 
-その　しろいのは　何ですか。
+### **そのしろいのは何ですか。**
 
-- English Translation: "What is that white thing?"
-- その (so-no) - that
-- 白いの (shiro-i-no) - white one (referring to an object)
-- は (wa) - topic marker particle
-- 何 (na-ni) - what
-- ですか (de-su-ka) - is it? (question marker used to indicate a polite question)
+Eng: "What is that white thing?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| その | so-no | Pronoun | that |
+| 白い | shi-ro-i | Adjective | white |
+| の | no | Particle | indicates possession or subject |
+| は | wa | Particle | marks the topic of the sentence |
+| 何 | na-ni | Pronoun | what |
+| ですか | de-su-ka | Auxiliary verb | forms a question |
+
+### **いかです。**
+
+Eng: "It's squid."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いか | i-ka | Noun | squid |
+| です | desu | Auxiliary verb | To be |
 
 
-いかです。
+### **みんな　なまなんですか**
 
-- English Translation: "It is squid."
-- イカ (i-ka) - squid
-- です (de-su) - is (used as a polite copula to indicate a statement of fact)
+Eng: "Are they all raw?"
 
-みんな　なまなんですか。
-
-- English Translation: "Are all of them raw?"
-- みんな (mi-nna) - all/everyone
-- なまなん (na-ma-na-n) - raw (used in a casual speech)
-- ですか (de-su-ka) - is it? (question marker used to indicate a polite question)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| みんな | min-na | Noun | everyone, all |
+| なま | na-ma | Adjective | raw, uncooked |
+| なん | nan | Auxiliary verb | forms a question |
+| です | desu | Auxiliary verb | to be, forms a polite sentence |
 
 はい、そうです。
 
-ごちそうさまでした。
+### **ごちそうさまでした**
 
-- English Translation: "Thank you for the meal."
-- ごちそう (go-chi-so-u) - feast/meal/treat
-- さま (sa-ma) - added to ごちそう to make it a polite expression
-- でした (de-shi-ta) - past tense of です(de-su: is/are/am) used to indicate a polite expression.
+Eng: "Thank you for the meal."
 
-ありがとうございました。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ごちそう | go-chi-so-u | Noun | a feast, a treat, a meal |
+| さま | sa-ma | Suffix | Respectful suffix used after a noun or a name |
+| でした | de-shi-ta | Auxiliary
 
-- English Translation: "Thank you very much."
-- ありがとう (a-ri-ga-to-u) - thank you
-- ございました (go-za-i-ma-shi-ta) - past tense of ございます (go-za-i-ma-su: to exist, to have) used to indicate a polite expression.
+### **ありがとうございました。**
 
-また　どうぞ。
+Eng: "Thank you very much."
 
-- English Translation: "Please come again."
-- また (ma-ta) - again
-- どうぞ (do-u-zo) - please (used to show politeness or courtesy in making an offer)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ありがとうございました | a-ri-ga-tou go-za-i-ma-shi-ta | Phrase | Thank you very much |
+
+### **また　どうぞ。**
+
+- Eng: "Please come again."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| また | ma-ta | Adverb | again |
+| どうぞ | dou-zo | Expression | Please (used when offering something) |
 
 
 
 [**かいわ ２**](https://youtu.be/Iuzz98Ay1_k?t=195)
 
-どこに　すんでいるんですか。
+### **どこにすんでいるんですか。**
 
-- English Translation: "Where do you live?"
-- どこに (do-ko-ni) - where
-- 住んでいる (su-n-de-i-ru) - living/residing (present continuous form of the verb "to live")
-- んですか (n-de-su-ka) - is it? (question marker used to indicate a polite question)
+Eng: "Where do you live?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| どこ | do-ko | Adverbial pronoun | where |
+| に | ni | Particle | indicates the location where the verb takes place |
+| すんでいる | sun-de-i-ru | Predicate | present continuous tense of the verb 住む (su-mu, "to live") |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | desu | Copula | to be (polite) |
+| か | ka | Particle | indicates a question | 
+
 
 目黒です。
 
-目黒は　しっていますか。
+### **目黒はしっていますか。**
 
-- English Translation: "Do you know about Meguro?"
-- 目黒 (me-gu-ro) - Meguro (a neighborhood in Tokyo, Japan)
-- は (wa) - topic marker particle
-- 知っていますか (shi-t-te-i-ma-su-ka) - know (present tense of the verb "to know" in a polite form)
+Eng: "Do you know Meguro?"
 
-はい、友達の　コーさんが　目黒に　すんでいるんです。
-
-- English Translation: "Yes, my friend Mr./Ms. Ko lives in Meguro."
-- はい (ha-i) - yes (used to indicate agreement or affirmation)
-- 友達の (to-mo-da-chi-no) - my friend's
-- コーさんが (ko-o-sa-n-ga) - Mr./Ms. Ko (referring to the name of the person)
-- 目黒に (me-gu-ro-ni) - in Meguro (a neighborhood in Tokyo, Japan)
--  住んでいるんです (su-n-de-i-ru-n-de-su) - is living (present continuous form of the verb "to live" used in a polite expression)
-
-しずかな　ところですね。
-
-- English Translation: "It's a quiet place, isn't it?"
-- 静かな (shi-zu-ka-na) - quiet
-- ところ (to-ko-ro) - place
-- ですね (de-su-ne) - isn't it? (used to seek agreement or confirmation from the listener)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 目黒 | me-gu-ro | Subject | Meguro (a neighborhood in Tokyo) |
+| は | wa | Particle | marks the subject of the sentence |
+| 知っています | shi-tte-i-masu | Predicate | present tense of the verb 知る (shi-ru, "to know") in the polite form |
+| か | ka | Particle | indicates a question |
 
 
-コーさんを　知っていますか。
+### **はい、友達のコーさんが目黒にすんでいるんです。**
 
-- English Translation: "Do you know Mr./Ms. Ko?"
-- コーさん (ko-o-sa-n) - Mr./Ms. Ko (referring to the name of the person)
-- を (wo) - object marker particle
-- 知っていますか (shi-t-te-i-ma-su-ka) - know (present tense of the verb "to know" in a polite form)
+Eng: "Yes, my friend Mr. Koo lives in Meguro."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はい | ha-i | Interjection | yes |
+| 、 | 、 | Punctuation | comma |
+| 友達 | to-mo-da-chi | Noun | friend |
+| の | no | Particle | indicates possession |
+| コーさん | ko-o-san | Noun | Mr. Koo |
+| が | ga | Particle | marks the subject of the sentence |
+| 目黒 | me-gu-ro | Location | Meguro (a neighborhood in Tokyo) |
+| に | ni | Particle | indicates the location where the verb takes place |
+| すんでいる | sun-de-i-ru | Predicate | present continuous tense of the verb 住む (su-mu, "to live") |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | desu | Copula | to be (polite) |
 
 
-知りません。
+### **しずかなところですね。**
 
-- English Translation: "I don't know."
-- 知りません (shi-ri-ma-se-n) - don't know (negative form of - the verb "to know" in a polite expression)
+Eng: "It's a quiet place, isn't it?"
 
-そのひとも　日本ごが　はなせるんですか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| しずかな | shi-zu-ka-na | Adjective | quiet |
+| ところ | to-ko-ro | Noun | place |
+| です | desu | Copula | to be (polite) |
+| ね | ne | Particle | seeking confirmation or agreement |
 
-- English Translation: "Can that person also speak Japanese?"
-- その人も (so-no-hi-to-mo) - that person also
-- 日本語が (ni-hon-go-ga) - Japanese (language) + particle "ga" (subject marker)
-- 話せるんですか (ha-na-se-ru-n-de-su-ka) - can speak (present continuous form of the verb "to speak" in a polite expression) + question marker.
+### **コーさんを知っていますか。**
 
-いいえ、かんたんな　ことばしか わからないんです。
+Eng: "Do you know Mr. Koo?"
 
-- English Translation: "No, I only understand simple words."
-- いいえ (i-i-e) - no (used to indicate disagreement or negative response)
-- 簡単な言葉 (kan-ta-na ko-to-ba) - simple words
-- しか (shi-ka) - only
-- わからないんです (wa-ka-ra-na-i-n-de-su) - don't understand (present continuous form of the verb "to understand" in a polite expression)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| コーさん | ko-o-san | Noun | Mr. Koo |
+| を | wo | Particle | marks the direct object of the verb |
+| 知っています | shi-tte-i-masu | Predicate | present tense of the verb 知る (shi-ru, "to know") in the polite form |
+| か | ka | Particle | indicates a question |
+
+### **知りません。**
+
+Eng: "I don't know."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 知りません | shi-ri-ma-sen | Predicate | negative present tense of the verb 知る (shi-ru, "to know") in the polite form |
+
+
+### **そのひとも日本語が話せるんですか。**
+
+Eng: "Can that person also speak Japanese?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| その | so-no | Pronoun | that |
+| ひと | hi-to | Noun | person |
+| も | mo | Particle | also |
+| 日本語 | ni-hon-go | Noun | Japanese (language) |
+| が | ga | Particle | marks the subject of the sentence |
+| 話せる | ha-na-se-ru | Predicate | potential form of the verb 話す (ha-na-su, "to speak") |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | desu | Copula | to be (polite) |
+| か | ka | Particle | indicates a question |
+
+### **いいえ、かんたんなことばしかわからないんです。**
+
+Eng: "No, I only understand simple words."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いいえ | i-i-e | Interjection | no |
+| 、 | 、 | Punctuation | comma |
+| かんたんな | kan-tan-na | Adjective | simple |
+| ことば | ko-to-ba | Noun | language; word |
+| しか | shi-ka | Particle | only |
+| わからない | wa-ka-ra-nai | Predicate | negative present tense of the verb 分かる (wa-ka-ru, "to understand") |
+| ん | n | Auxiliary | contraction of の (no) |
+| です | desu | Copula | to be (polite) |
