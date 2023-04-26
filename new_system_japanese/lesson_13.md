@@ -2,142 +2,190 @@
 
 ## [**かいわ**](https://youtu.be/6DSWJtL7ysA?t=120)
 
-いらっしゃいませ。
+### **いらっしゃいませ。**
 
-- English Translation: "Welcome."
-- いらっしゃいませ (i-ra-ssha-i-ma-se) - welcome (a polite greeting often used by store clerks or staff in public places)
+Eng: "Welcome."
 
-- ご注文は。
-- English Translation: "May I take your order?"
-- ご注文 (go-chuumon) - order (polite form)
-- は (wa) - topic marker particle
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いらっしゃいませ | i-ra-sshai-ma-se | Greeting | welcome, used by service workers when welcoming customers or guests |
 
-わたしは　やきとりに　します。
+### **私は焼き鳥にします。**
 
-- English Translation: "I will have grilled chicken skewers."
-- わたしは (wa-ta-shi-wa) - I + topic marker particle "wa"
-- やきとり (ya-ki-to-ri) - grilled chicken skewers
-- に (ni) - particle indicating the target or destination of an action
-- します (shi-ma-su) - will do/have (polite form of the verb "to do")
+Eng: "I'll have grilled chicken skewers."
 
-わたしは　かまめしに　します。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 私 | wa-ta-shi | Subject | I |
+| は | wa | Particle | marks the topic of the sentence |
+| 焼き鳥 | ya-ki-to-ri | Object | grilled chicken skewers |
+| に | ni | Particle | indicates the target of an action |
+| します | shi-ma-su | Predicate | present tense of the verb する (su-ru, "to do") |
 
-- English Translation: "I'll have (order) kamameshi."
-- わたしは (wa-ta-shi-wa) - I + topic marker particle "wa"
-- かまめしに (ka-ma-me-shi-ni) - kamameshi + particle "ni" (used to indicate the target of an action)
-- します (shi-ma-su) - will do, will have (polite form of the verb "suru")
+### **私は釜飯にします。**
 
+Eng: "I'll have kama-meshi (rice cooked in an iron pot)."
 
-やきとりと　かまめしですね。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 私 | wa-ta-shi | Subject | I |
+| は | wa | Particle | marks the topic of the sentence |
+| 釜飯 | ka-ma-me-shi | Object | kama-meshi, rice cooked in an iron pot |
+| に | ni | Particle | indicates the target of an action |
+| します | shi-ma-su | Predicate | present tense of the verb する (su-ru, "to do") |
 
-- やきとり (ya-ki-to-ri) - grilled chicken skewers
-- と (to) - and
-- かまめし (ka-ma-me-shi) - rice cooked with chicken and vegetables in a small pot, also known as "kamameshi"
+### **焼き鳥と釜飯ですね。**
 
+Eng: "Grilled chicken skewers and kama-meshi (rice cooked in an iron pot), right?"
 
-おのみものは。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 焼き鳥 | ya-ki-to-ri | Object | grilled chicken skewers |
+| と | to | Particle | indicates a list of items |
+| 釜飯 | ka-ma-me-shi | Object | kama-meshi, rice cooked in an iron pot |
+| です | desu | Copula | is |
+| ね | ne | Sentence ending particle | seeking agreement or confirmation |
 
-- English Translation: "And for drinks?"
-- おのみもの (o-no-mi-mo-no) - drinks
-- は (wa) - topic marker particle
+### **お飲み物は。**
 
+Eng: "What would you like to drink?"
 
-ビールを　いっぽん　ください。
-
-- English Translation: "One beer, please."
-- ビールを (bi-ru-o) - beer + object particle "o"
-- いっぽん (ip-pon) - one (counter for long, narrow objects)
-- ください (ku-da-sai) - please give me (polite expression for request)
-
-
-はい。おまちどうさまでした。
-
-- English Translation: "Here you go. Thank you for waiting."
-- はい (ha-i) - Here you go/yes
-- おまちどうさまでした (o-ma-chi-do-u-sa-ma-de-shi-ta) - Thank you for waiting (polite expression)
-
-いただきます。
-
-- English Translation: "I humbly receive (this meal)."
-- いただきます (i-ta-da-ki-ma-su) - a humble expression used before meals to express gratitude for the food being received. It comes from the verb "itadaku," which means "to receive humbly."
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| お | o | Prefix | honorific prefix |
+| 飲み物 | no-mi-mo-no | Subject | drink |
+| は | wa | Particle | marks the topic of the sentence |
 
 
-ウイリアムさんは　わしょくは　好きですか。
-- English Translation: "Do you like Japanese food, William?"
-- ウイリアムさんは (u-i-ri-a-mu-san-wa) - Mr. William + topic marker particle "wa"
-- わしょくは (wa-sho-ku-wa) - Japanese food + topic marker particle "wa"
-- 好きですか (suki-desu-ka) - do you like (polite form of the verb "to like" in a question form)
+### **ビールを一本ください。**
 
-だいすきです。
+Eng: "One beer, please."
 
-- English Translation: "I really like it."
-- だいすき (da-i-su-ki) - really like it (adverbial expression meaning "favorite")
-- です (de-su) - polite copula (to be)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ビール | bi-ru | Object | beer |
+| を | o | Particle | indicates the direct object of a verb |
+| 一本 | i-ppon | Object | one (long, cylindrical object) |
+| ください | ku-da-sai | Request | please give me |
 
-とくに　やきとりと　さしみが　すきなんです。
+### **はい。お待ちどうさまでした。**
 
-- English Translation: "Especially, I like yakitori and sashimi."
-- とくに (to-ku-ni) - especially
-- やきとり (ya-ki-to-ri) - grilled chicken skewers
-- と (to) - and
-- さしみ (sa-shi-mi) - sliced raw fish
-- が (ga) - subject marker particle
-- すき (su-ki) - like
-- なんです (nan-de-su) - a sentence-ending expression used to explain the reason behind one's statement.
+Eng: "Here you are. Thank you for waiting."
 
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はい | hai | Interjection | Here you are |
+| お待ちどうさまでした | o-ma-tchi-do-u-sa-ma-de-shi-ta | Greeting | Thank you for waiting, used by service workers to express gratitude to customers or guests for their patience |
 
-ほんとうですか。
+### **いただきます。**
 
-- English Translation: "Is that true?"
-- ほんとう (hon-to-u) - truth
-- ですか (de-su-ka) - question form of the copula "desu" (polite expression for "to be")
+Eng: "Thank you for the meal." or "Let's eat." (said before eating)
 
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いただきます | i-ta-da-ki-ma-su | Expression | a polite expression used before eating to give thanks for the food and to show appreciation to those who prepared it |
 
-わたしは　おさしみは　あまり　すきじゃないんです。
+### **ウィリアムさんは和食は好きですか。**
 
-- English Translation: "I'm not very fond of sashimi."
-- わたしは (wa-ta-shi-wa) - I + topic marker particle "wa"
-- おさしみは (o-sa-shi-mi-wa) - sashimi + topic marker particle "wa"
-- あまり (a-ma-ri) - not very; not much
-- すきじゃないんです (su-ki-ja-na-i-n-de-su) - not fond of; don't like (polite expression)
+Eng: "Do you like Japanese food, William?"
 
-
-ごちそうさまでした。
-
-- English Translation: "Thank you for the meal."
-- ごちそうさまでした (go-chi-so-u-sa-ma-de-shi-ta) - (literally) "It was a feast (thank you for the meal)"
-- ご (go) - a prefix used to indicate politeness or respect
-- ちそう (chi-sou) - a feast, a treat, a meal (in honor of someone)
-- さま (sa-ma) - a word used to show respect or honor to the listener or the person who prepared the meal
-- でした (de-shi-ta) - past tense of the copula "desu" (to be)
-
-ごちさうさま。おかんじょう　おねがいします。
-
-- English Translation: "Thank you for the meal. Can I have the bill, please?"
-- ごちさうさま (go-chi-sou-sa-ma) - Thank you for the meal
-- おかんじょう (o-kan-jou) - bill (in a restaurant setting)
-- おねがいします (o-ne-gai-shi-mas) - Please (polite expression used when making a request)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ウィリアムさん | wi-ri-a-mu-san | Subject | William |
+| は | wa | Particle | marks the topic of the sentence |
+| 和食 | wa-shoku | Object | Japanese food |
+| は | wa | Particle | topic marker |
+| 好きです | su-ki-de-su | Predicate | like |
+| か | ka | Particle | question marker |
 
 
-わりかんに　しましょう。
+### **大好きです。**
 
-- English Translation: "Let's split the bill."
-- わりかん (wa-ri-kan) - splitting the bill
-- に (ni) - particle indicating the target of the action
-- しましょう (shi-ma-sho-u) - let's do (polite volitional form of the verb "suru")
+Eng: "I love it."
 
-いくらでしたか。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 大好きです | daisuki desu | Predicate | love/like very much, fond of |
 
-- English Translation: "How much was it?"
-- いくら (i-ku-ra) - how much
-- でした (de-shi-ta) - past tense polite form of the verb "to be" ("desu") in the indicative mood
-- か (ka) - question particle
+### **特に焼き鳥と刺身が好きなんです。**
+
+Eng: "I especially like yakitori (grilled chicken skewers) and sashimi (raw fish)."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 特に | toku-ni | Adverb | especially |
+| 焼き鳥 | ya-ki-to-ri | Object | grilled chicken skewers |
+| と | to | Particle | and |
+| 刺身 | sa-shi-mi | Object | sashimi, raw fish |
+| が | ga | Particle | subject marker |
+| 好きなんです | suki-na-n-desu | Predicate | like |
+
+### **本当ですか。**
+
+Eng: "Is that true?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 本当ですか | hon-to-u-de-su-ka | Question | Is that true? |
 
 
-にせん　ろっぴゃく　よんじゅうえんでした。
+### **私はお刺身はあまり好きじゃないんです。**
 
-- English Translation: "It was 2,640 yen."
-- にせん (ni-sen) - 2,000
-- ろっぴゃく (roppyaku) - 600
-- よんじゅうえん (yonjyu-en) - 40 yen
-- でした (deshita) - past tense polite expression of the verb "to be"
+Eng: "I don't really like sashimi."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 私は | wa-ta-shi-wa | Subject | I |
+| お刺身は | o-sa-shi-mi-wa | Object | sashimi |
+| あまり | a-ma-ri | Adverb | not really |
+| 好きじゃないんです | su-ki-ja-na-i-n-desu | Predicate | don't like |
+
+
+### **ごちそうさまでした。**
+
+Eng: "Thank you for the meal." (said after finishing the meal)
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ごちそうさまでした | go-chi-so-u-sa-ma-de-shi-ta | Expression | a polite expression used after finishing a meal to thank the host or the cook for the meal |
+
+### **ごちそうさま。お勘定お願いします。**
+
+Eng: "Thank you for the meal. Could we have the bill/check, please?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| ごちそうさま | go-chi-so-u-sa-ma | Expression | a polite expression used after finishing a meal to thank the host or the cook for the meal |
+| お勘定 | o-kan-jo-u | Object | bill/check |
+| お願いします | o-ne-gai-shi-ma-su | Request | please |
+
+### **割り勘にしましょう。**
+
+Eng: "Let's split the bill."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 割り勘に | wa-ri-kan-ni | Object | split bill |
+| しましょう | shi-ma-sho-u | Suggestion | let's do |
+
+### **いくらでしたか。**
+
+Eng: "How much was it?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いくら | i-ku-ra | Pronoun | how much |
+| でしたか | de-shi-ta-ka | Question | was it? |
+
+### **にせんろっぴゃくよんじゅうえんでした。**
+
+Eng: "It was 2,640 yen."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| に | ni | Numeral | 2 |
+| せん | sen | Numeral | 1,000 |
+| ろっぴゃく | ro-ppyaku | Numeral | 600 |
+| よんじゅう | yon-juu | Numeral | 40 |
+| えん | en | Noun | yen |
+| でした | de-shi-ta | Verb | past tense of です (desu) |
