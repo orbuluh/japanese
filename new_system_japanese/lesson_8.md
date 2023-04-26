@@ -2,132 +2,211 @@
 
 [**かいわ 1**](https://youtu.be/Iuzz98Ay1_k?t=124)
 
-もしもし、日本貿易さんですか。
+### **もしもし、日本貿易さんですか。**
 
-- English Translation: "Hello, is this Japan Trade?"
-- もしもし (mo-shi-mo-shi) - Hello (used when answering the phone)
-- 日本貿易 (ni-hon-bo-o-e-ki) - Japan Trade
-- さん (san) - honorific suffix indicating respect
+Eng: "Hello, is this Japan Trading?"
 
-はい、そうです。
-
-- English Translation: "Yes, that's right."
-- はい (ha-i) - Yes
-- そうです (so-u-desu) - That's right (そう-sou: like that/that way, です-desu: be verb for politeness)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| もしもし | mo-shi-mo-shi | Expression | Hello (on the phone) |
+| 日本貿易 | ni-hon-bo-u-e-ki | Noun | Japan Trading |
+| さん | sa-n | Suffix | Polite suffix used after a person's name |
+| ですか | desu-ka | Auxiliary verb | Forms a question |
 
 
-チャンと 申しますが、田中さんは　いらっしゃいますか。
+### **はい、そうです。**
 
-- English Translation: "I'm sorry to bother you, but is Mr. Tanaka here?"
+Eng: "Yes, that's right."
 
-- ちゃんと (cha-n-to) - properly (i.e. polite introduction)
-- 申しますが (mo-u-shi-mas-u-ga) - excuse me/allow me to introduce myself (used as a polite opening phrase)
-- 田中さん (ta-na-ka-san) - Mr. Tanaka
-- は (wa) - topic marker particle
-- いらっしゃいますか (i-ra-ssha-i-mas-u-ka) - Is (he/she/they) here? (used as a polite form of います-ima-su: to be)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はい | hai | Particle | yes |
+| そうです | so-u desu | Predicate | that's right |
 
-すみません、いま　おりません。
 
--  English Translation: "I'm sorry, he/she/they are not here right now."
+### **張と申しますが、田中さんはいらっしゃいますか。**
 
-- すみません (su-mi-ma-sen) - I'm sorry/excuse me
-- いま (i-ma) - now
-- おりません (o-ri-ma-sen) - (he/she/they) are not here (used as a polite form of いる-i-ru: to be)
+Eng: "My name is Chang. Is Mr. Tanaka there?"
 
-じゃ、おりかえし　でんわを　おねがいします。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 張 | cha-ngu | Noun | Chang (Chinese surname) |
+| と | to | Particle | used to connect the speaker's name with the verb 申す |
+| 申します | mo-oshi-masu | Verb | Humble expression of 言う (i-u, "to say"), used to introduce oneself politely |
+| が | ga | Particle | indicates a subject change or contrast |
+| 田中さん | ta-na-ka-san | Noun | Mr. Tanaka |
+| は | wa | Particle | topic marker |
+| いらっしゃいます | i-ra-sshai-masu | Verb | Honorific expression of いる (i-ru, "to be"), used to show respect towards the listener |
+| か | ka | Particle | Forms a question |
 
-- English Translation: "Okay, I'll call again later. Thank you."
-- じゃ (ja) - well/then (casual contraction of では-de-wa)
-- おりかえし (o-ri-ka-e-shi) - again/return call
-- でんわを (den-wa-o) - phone (direct object marker)
-- おねがいします (o-ne-ga-i-shi-mas-u) - please (used as a polite form of 頼む-ta-no-mu: to request)
+### **すみません、いまおりません。**
 
-おでんわばんごうは　何ばんですか。
+Eng: "I'm sorry, I'm not here right now."
 
-- English Translation: "What is the phone number?"
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| すみません | su-mi-ma-sen | Expression | I'm sorry; Excuse me |
+| いま | i-ma | Noun | now |
+| おりません | o-ri-ma-sen | Verb | negative polite form of the verb おりる (o-ri-ru, "to be here") |
 
-- おでんわばんごう (o-den-wa-ban-go-u) - phone number (お- o: honorific prefix, でんわ-den-wa: phone, ばんごう-ban-go-u: number)
-- は (wa) - topic marker particle
-- 何ばんですか (na-n-ban-de-su-ka) - What number is it? (何-na-n: what, ばん-ban: number, です-desu: be verb for politeness, か-ka: question particle)
 
-737の3601です。
+"じゃ、おりかえし電話をお願いします。" 
 
-- English Translation: "This is 3601 of phone number 737."
-- 737 (nana-san-nana) - Phone number "737" (usually pronounced "shichi-san-shichi" for official announcements)
-- の (no) - possessive particle
-- 3601 (san-roku-zero-ichi) - "3601"
-- です (desu) - be verb used for politeness.
+(Eng: "Please call back later.") 
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| じゃ | ja | Expression | Well/So/Then |
+| おりかえし | o-ri-ka-e-shi | Noun | Return/Callback |
+| 電話 | den-wa | Noun | Telephone |
+| を | o | Particle | Object marker |
+| お願いします | o-ne-ga-i-shi-ma-su | Verb phrase | "Please" or "I request" |
+
+### **お電話番号は何番ですか。**
+
+Eng: "What is your phone number?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| お | o | Prefix | Polite prefix |
+| 電話 | den-wa | Noun | Phone |
+| 番号 | ban-go-u | Noun | Number |
+| は | wa | Particle | Topic marker |
+| 何 | nan | Pronoun | What |
+| 番 | ban | Counter | Used for counting numbers |
+| ですか | desu-ka | Auxiliary verb | Forms a question |
+
+### **737の3601です。**
+
+Eng: "This is 737-3601."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 737 | nanahyaku sanjuu shichi | Noun | 737 |
+| の | no | Particle | indicates the possessive |
+| 3601 | san roku maru ichi | Noun | 3601 |
+| です | desu | Auxiliary verb | To be |
+
 
 [**かいわ 2**](https://youtu.be/Iuzz98Ay1_k?t=145)
 
-さあ、おひるをを　食べましょう。
+### **さあ、おひるを食べましょう**
 
-- English Translation: "Well then, let's have lunch."
-- さあ (sa-a) - well/now/come on
-- おひるを (o-hi-ru-o) - lunch (direct object marker)
-- 食べましょう (ta-be-ma-sho-u) - let's eat (used as a polite form of 食べる-ta-be-ru: to eat, and ましょう-ma-sho-u: let's)
+Eng: "Let's have lunch."
 
-今日は パンが ないんです。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| さあ | saa | Expression | Come on, Let's |
+| おひる | o-hiru | Noun | Lunch |
+| を | wo | Particle | indicates the direct object |
+| 食べましょう | ta-be-ma-shou | Verb | volitional form of the verb 食べる (ta-beru, "to eat") used to make a suggestion or invitation |
 
-- English Translation: "There is no bread today."
-- 今日は (kyoo-wa) - today (topic marker particle)
-- パンが (pan-ga) - bread (subject marker particle)
-- ない (na-i) - negative form of ある-a-ru: to exist/be present
-- んです (n-desu) - contraction of のです-no-desu, used for emphasis/explanation.
+### **今日はパンがないんです。**
 
-じゃ、おそばを　食べましょう。
+Eng: "There is no bread today."
 
-- English Translation: "Well then, let's have soba."
-- じゃ (ja) - well/then (casual contraction of では-de-wa)
-- おそばを (o-so-ba-o) - soba (Japanese noodles made from buckwheat flour) (direct object marker)
-- 食べましょう (ta-be-ma-sho-u) - let's eat (used as a polite form of 食べる-ta-be-ru: to eat, and ましょう-ma-sho-u: let's)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 今日 | kyoo | Noun | today |
+| は | wa | Particle | topic marker |
+| パン | pan | Noun | bread |
+| が | ga | Particle | subject marker |
+| ない | nai | Adjective | negative form of the verb "to exist/not have" |
+| ん | n | Auxiliary | contraction of "no" |
+| です | desu | Auxiliary verb | polite copula |
+
+### **じゃ、おそばを　食べましょう。**
+
+Eng: "Let's eat soba then."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| じゃ | ja | Expression | Well, then |
+| おそば | o-so-ba | Noun | Buckwheat noodles |
+| を | wo | Particle | indicates the direct object |
+| 食べましょう | ta-be-ma-shou | Verb | Let's eat |
+
+### **お蕎麦はどこにあるんですか。**
+
+Eng: "Where is the soba located?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| お蕎麦 | o-soba | Noun | Soba noodles |
+| は | wa | Particle | Topic marker |
+| どこ | doko | Pronoun | Where |
+| に | ni | Particle | Location marker |
+| ある | aru | Verb | To exist |
+| んです | n desu | Auxiliary verb | Contraction of "no desu" to add explanation or emphasis |
+| か | ka | Particle | Forms a question |
+
+### **大きい　箱の　中に　ありますよ。**
+
+Eng: "It's inside the big box."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 大きい | ookii | Adjective | big, large |
+| 箱 | hako | Noun | box |
+| の | no | Particle | indicates the possessive |
+| 中に | naka ni | Expression | inside |
+| あります | arimasu | Verb | exist, be located |
+| よ | yo | Particle | sentence-ending particle for emphasis or assertion |
 
 
-お蕎麦は　どこに　あるんですか。
+I apologize for the confusion. It seems there was a mistake in my previous response. Here is the correct format for the phrase "大きい箱の中にありますよ。"
 
-- English Translation: "Where can I find soba?"
-- お蕎麦は (o-so-ba-wa) - soba (Japanese noodles made from buckwheat flour) (topic marker particle)
-- どこに (do-ko-ni) - where (location marker particle)
-- あるんですか (a-ru-n-desu-ka) - is there? (ある-a-ru: to exist, んです-n-desu: contraction of のです-no-desu, used for emphasis/explanation, か-ka: question particle)
+### **大きい箱の中にありますよ。**
 
-大きい　箱の　中に　ありますよ。
+Eng: "It's inside a big box."
 
-- English Translation: "It's inside a big box."
-- 大きい (o-ki-i) - big/large
-- 箱の (ha-ko-no) - box (possessive particle)
-- 中に (na-ka-ni) - inside (location marker particle)
-- あります (a-ri-mas-u) - exists/is present (used as a polite form of ある-a-ru: to exist/be present)
-- よ (yo) - sentence-ending particle for emphasis or assertion.
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 大きい | ookii | Adjective | big |
+| 箱 | hako | Noun | box |
+| の | no | Particle | indicates the possessive |
+| 中 | naka | Noun | inside |
+| に | ni | Particle | indicates location |
+| あります | arimasu | Verb | To exist |
+| よ | yo | Particle | Sentence ending particle for emphasis |
 
-大きい　箱の　どこに　あるんですか。
 
-- English Translation: "Where inside the big box is it?"
-- 大きい (o-ki-i) - big/large
-- 箱の (ha-ko-no) - box (possessive particle)
-- どこに (do-ko-ni) - where (location marker particle)
-- あるんですか (a-ru-n-desu-ka) - is there? (ある-a-ru: to exist, んです-n-desu: contraction of のです-no-desu, used for emphasis/explanation, か-ka: question particle)
+### **たなの上にあります。**
 
-たなの　上に　あります。
+Eng: "It's on the shelf."
 
-- English Translation: "It's on the shelf."
-- たなの (ta-na-no) - shelf (possessive particle)
-- 上に (ue-ni) - on top of (location marker particle)
-- あります (a-ri-mas-u) - exists/is present (used as a polite form of ある-a-ru: to exist/be present)
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| たな | tana | Noun | shelf |
+| の | no | Particle | indicates the possessive |
+| 上に | ue ni | Particle | on top of |
+| あります | arimasu | Verb | to exist; to be (inanimate objects) |
 
-あら、はこの　中には　何も　ありませんよ。
+### **あら、はこの中には何もありませんよ。**
 
-- English Translation: "Oh, there's nothing inside this box."
-- あら (a-ra) - oh (interjection expressing surprise or admiration)
-- はこの (ha-ko-no) - this box (possessive particle)
-- 中には (na-ka-ni-wa) - inside (location marker particle + topic marker particle)
-- 何も (na-ni-mo) - nothing (used with negative verbs)
-- ありません (a-ri-ma-sen) - does not exist (used as a polite form of ある-a-ru: to exist/be present in negative form)
-- よ (yo) - sentence-ending particle for emphasis or assertion.
+Eng: "Oh, there's nothing in this box."
 
-へんですね。じゃ、そとで　食べましょう。
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| あら | a-ra | Interjection | Oh |
+| 、 |   | Symbol | Comma |
+| はこの | wa-ko-no | Pronoun + Particle | This |
+| 中に | na-ka-ni | Noun + Particle | Inside |
+| は | wa | Particle | Topic Marker |
+| 何も | nan-mo | Pronoun + Adverb | Nothing |
+| ありません | a-ri-ma-se-n | Verb | To not exist |
+| よ | yo | Suffix | Emphasis, assertiveness |
 
-- English Translation: "That's strange. Well then, let's eat outside."
-- へんですね (hen-desu-ne) - That's strange (used to express surprise or confusion)
-- じゃ (ja) - well/then (casual contraction of では-de-wa)
-- そとで (so-to-de) - outside (location marker particle)
-- 食べましょう (ta-be-ma-sho-u) - let's eat (used as a polite form of 食べる-ta-be-ru: to eat, and ましょう-ma-sho-u: let's)
+### **へんですね。じゃ、そとで　食べましょう。**
+
+Eng: "That's unexpected. Let's eat outside."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| へん | hen | Adjective | Strange; unexpected |
+| です | desu | Auxiliary verb | To be |
+| ね | ne | Particle | Seeking agreement or confirmation |
+| じゃ | ja | Conjunction | Well; then |
+| そと | soto | Noun | Outside |
+| で | de | Particle | Indicates location where an action takes place |
+| 食べましょう | tabemashou | Verb | Let's eat |
