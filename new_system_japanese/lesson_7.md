@@ -134,9 +134,6 @@ Eng: "Yes, a little."
 | ええ | e-e | Interjection | yes |
 | すこし | su-ko-shi | Adverb | a little |
 
-
-Sure! Here's the breakdown:
-
 ### **でも、刺身や寿司は全然食べられません。**
 
 Eng: "But I can't eat raw fish or sushi at all."
