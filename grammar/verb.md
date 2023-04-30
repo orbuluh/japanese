@@ -1,5 +1,11 @@
 # Verb
 
+Notes from:
+
+- [看圖表學日語文法](https://www.books.com.tw/products/0010881639)
+- [alan 日語](https://youtu.be/bxOD6nLH8rY)
+- [小一语言教室](https://youtu.be/rMQuYBBuqrM)
+
 ## Overview
 
 表示人、事、物的行為、動作或存在的詞
@@ -58,34 +64,10 @@ Eng: "Sometimes, to lose is to win."
 
 </summary></details>
 
-:yellow_square:**活用變化**
 
-(日本人小學文法: 國文法 / 日本教外國人的文法: 日本與文法 有對應的關係 from [alan 日語video](https://youtu.be/bxOD6nLH8rY))
+## [動詞種類](verb_types.md)
 
-![](imgs/verb_catogorize.JPG)
-
-
-- **未然形**是五段動詞的一種活用形式，表示“未然”，即表示動作還沒有發生，或表示尚未確定的狀態。未然形可以用於各種文法結構中，例如用於否定、命令、條件等等。
-
-- **連用形**是指動詞、形容詞、形容動詞等詞彙的一種變形形式，也叫做“連用形态”。 具體來說，連用形常常用來表示動作或狀態的連續或頻繁發生。此外，連用形也可以用來構成動詞的派生形式，例如連用形加上助詞“て”可以構成“て形”，表示動作的進行。
-
-- **終止形**是動詞、形容詞、形容動詞等詞彙的一種變形形式，也稱為“終止态”。具體來說，終止形指的是動詞等詞彙在句子中作為謂語時的基本形式，表示動作或狀態的結束或定睛。在日語的句子中，通常最後一個詞是終止形。
-
-- **連體形**指的是動詞、形容詞、形容動詞等詞彙的一種變形形式，也稱為“連体形”。 具體來說，連體形指的是動詞、形容詞、形容動詞等詞彙在句子中作為修飾語時的基本形式，用來修飾名詞或代詞。在日語的句子中，一般是用連體形來描述和說明名詞或代詞的性質、狀態或特徵。
-
-- **假定形**是動詞、形容詞、形容動詞等詞彙的一種變形形式，也稱為“仮定形”。 具體來說，假定形指的是動詞、形容詞、形容動詞等詞彙在句子中作為假設、條件、推測等時的基本形式，表示假定的情況。在日語的句子中，假定形常常和助詞“ば”一起使用，表示假設條件。
-
-- **命令形**指的是動詞、形容詞等詞彙在表達祈使、命令、勸誘等時的一種變形形式。在日語中，命令形常常用於表示直接命令或者委婉勸誘等情況。
-
-:yellow_square:**種類(按照型態及變化規則)**
-
-![](imgs/verb_catogorize_2.JPG)
-
-|||
-|--|--|
-|五段動詞|![](imgs/verb_5.JPG)|
-|上一段動詞/下一段動詞|![](imgs/verb_updown.JPG)|
-|カ行/サ行變格動詞|![](imgs/verb_saka.JPG)|
+## [動詞變化](verb_variations.md)
 
 
 ## 五段動詞
@@ -95,28 +77,106 @@ Eng: "Sometimes, to lose is to win."
 |形態|功用|中文|
 |--|--|--|
 |未然形 + ない|表示否定|不、沒有|
+
+<details><summary markdown="span">Examples</summary>
+
+**私は`書かない`**
+
+Eng: "I don't write."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 私は | wa-ta-shi-wa | Subject | I |
+| 書かない | ka-ka-na-i | Predicate | negative present tense of the verb 書く (ka-ku, "to write") |
+
+</summary></details>
+
+
+|形態|功用|中文|
+|--|--|--|
 |未然形 + う|表示意志或推量|吧|
+
+<details><summary markdown="span">Examples</summary>
+
+**字を`書こう`**
+
+Eng: "Let's write characters/letters."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 字を | ji-o | Object | characters/letters |
+| 書こう | ka-kou | Predicate | volitional form of the verb 書く (ka-ku, "to write") indicating a suggestion to do something |
+
+</summary></details>
+
+|形態|功用|中文|
+|--|--|--|
 |未然形 + せる/ねる|表示被動、可能、自發、使役|能、讓、被|
+
+<details><summary markdown="span">Examples</summary>
+
+**妹を`泣かせる`**
+
+Eng: "Make my younger sister cry."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 妹を | i-mou-to-o | Object | younger sister |
+| 泣かせる | na-ka-se-ru | Predicate | causative form of the verb 泣く (na-ku, "to cry") indicating an action to make someone cry |
+
+**駅まで五分もあれば`行かれる`**
+
+Eng: "If there are even five extra minutes, you can go to the station."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 駅まで | e-ki-ma-de | Object | to the station |
+| 五分も | go-fun-mo | Adverb | even five minutes |
+| あれば | a-re-ba | Conjunction | if |
+| 行かれる | i-ka-reru | Predicate | potential passive form of the verb 行く (i-ku, "to go") indicating the ability to go |
+
+</summary></details>
+
 
 |形態|功用|
 |--|--|
 |連用形 + 用言|構成連用法|
+
+|形態|功用|
+|--|--|
 |連用形 + 、|表示句子暫時停頓|
+
+|形態|功用|
+|--|--|
 |連用形 + 接續助詞/助動詞|-|
 
 |形態|功用|
 |--|--|
 |終止形 + 。|表示句子結束|
+
+|形態|功用|
+|--|--|
 |終止形 + 接續助詞 `*1`|構成接續式|
-|終止形 + 傳聞/推量助動詞 `*2`|-|
-|終止形 + 終助詞|-|
 
 - `*1`: が、けど、から、と
+
+|形態|功用|
+|--|--|
+|終止形 + 傳聞/推量助動詞 `*2`|-|
+
 - `*2`:　そうだ、だろう、らしい
 
 |形態|功用|
 |--|--|
+|終止形 + 終助詞|-|
+
+
+|形態|功用|
+|--|--|
 |連體形 + 體言/形式名詞|作連體修飾語用|
+
+|形態|功用|
+|--|--|
 |連體形 + 助詞(ので、のに、だけ、ほど..)|-|
 
 |形態|功用|中文|
