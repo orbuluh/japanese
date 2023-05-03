@@ -99,81 +99,9 @@
 
 </summary></details>
 
-## [あげます](https://youtu.be/neL6eLJNj0A)
-
-<details><summary markdown="span">Notes</summary>
-
-- 在日文中有很多種動詞，其中表達「送出」、「贈予」之意的動詞稱為「じゅうじゅう動詞」，也就是指東西來回送的動作所使用的動詞。
-
-![](imgs/%E3%81%82%E3%81%92%E3%81%BE%E3%81%99.JPG)
-
-
-|A給B東西| 施惠者(A) | は | 受惠者(B) | に |　東西(名詞) | を |あげます。|
-|--|--|--|--|--|--|--|--|
-|我給佐藤小姐一束花|私|は|佐藤さん|に|花|を|あげました。|
-|佐藤小姐給鈴木小姐一束花|佐藤さん|は|鈴木さん|に|花|を|あげました。|
-
-- は 有時候會改用「が」，但重點在於「誰」給予，則前面使用「が」。
-- 「に」表示動作對象的對方。
-- 「を」表示動作的作用對象。
-- 當 我給別人 或 別人給別人 的時候，可以使用「あげます」、「あげました」。
-
-|A給B東西| 施惠者(A) | は | 受惠者(B) | に |　東西(名詞) | を |あげます。|
-|--|--|--|--|--|--|--|--|
-|:no_entry_sign:|佐藤さん|は|私|に|本|を|あげました。|
-|:no_entry_sign:|佐藤さん|は|私の兄|本|花|を|あげました。|
-
-
-- 「佐藤/小姐先生給我一本書」這樣的說法不太適合。使用動詞「あげます」是表示「請收下」的動作，從下面給上面的感覺。所以如果把自己放在動詞前面，就好像是在看低佐藤先生一樣。在謙虛的日本文化中，這樣的說法不太適合。
-- 受惠者這邊也不適合使用「私」。那該怎麼辦呢？不能使用「あげました」，那就得用另外一個動詞，那就是「くれます」。
-- 另外，施惠者如果是自己的家人、兄弟姊妹、父母、兒子女兒等，同樣要使用「くれます」。
-
-|A給B東西| 施惠者(別人) | は | 受惠者(我) | に |　東西(名詞) | を |くれます。|
-|--|--|--|--|--|--|--|--|
-|:heavy_check_mark:|佐藤さん|は|私|に|本|を|くれました。|
-|:heavy_check_mark:|佐藤さん|は|私の兄|に|本|を|くれました。|
-
-
-[例文](https://youtu.be/neL6eLJNj0A?t=353)
-
-私は母にカーネーションをあげます。
-
-- 我要給媽媽康乃馨・
-
-娘は祖母に絵をあげました。
-
-- 女兒把圖畫給了奶奶
-
-父の日にどんなプレゼントをあげたいですか。
-
-- 父親節想要給什麼樣的禮物
-
-昨日宿馴をしなかったから、今日はお菓子をあげません。
-
-- 因為昨天沒有寫作業，今天不給點心
-
-
-[会話](https://youtu.be/neL6eLJNj0A?t=382)
-
-A: バレンタインデーに彼女に何をあげますか。
-情人節會給女朋友什麼?
-
-B: え? 日本では女性が男性にチョコをあげますから、私は彼女に何もあげませんよ。
-欸?在日本是女生要給男生巧克力，所以我什麼也不會給我女朋友喔。
-
-A: そうですか。ちょっと彼女がかわいそうですね。
-是這樣啊。女朋友有點可憐耶。
-
-B: でも、3月14日のホワイトデーは男性が女性にプレゼントをあげます。私はもうプレゼントを買いました。
-但是，3月14日的白色情人節是男生要給女生禮物。我已經把禮物買好了。
-
-
-</summary></details>
-
 
 
 ## [ください](https://youtu.be/esYAg50QUJI)
-## [くれます](https://youtu.be/Rz7R8YA3FPA)
 ## [もう・まだ](https://youtu.be/6l7ZIcleKoE)
 ## [もらいます](https://youtu.be/3qSNQQKTWmQ)
 ## [やります](https://youtu.be/K94H0QG26Ao)
@@ -181,36 +109,8 @@ B: でも、3月14日のホワイトデーは男性が女性にプレゼント�
 ## [～あとで](https://youtu.be/iPvPSYS3AKE)
 
 ## [～ます・～ません（動詞肯定・否定）](https://youtu.be/cygGNONmB9U)
+
 ## [～です・～じゃありません（名詞肯定・否定）](https://youtu.be/3zRXvtDnev8)
-## [～いです・～くないです（い形容詞肯定・否定）](https://youtu.be/GByt-fO-sRA)
-## [～です・～じゃありません（な形容詞肯定・否定）](https://youtu.be/M2UYM1DlK_I)
-
-## [～ました・～ませんでした（動詞過去）](https://youtu.be/VgIfyGDJSrE)
-## [～でした・～じゃありませんでした（名詞過去）](https://youtu.be/9FgAj3ONjUw)
-## [～かったです・～くなかったです（い形容詞過去）](https://youtu.be/NvlZJoSt5mg)
-## [～でした・～じゃありませんでした（な形容詞過去）](https://youtu.be/vGZwOFVsETc)
-
-
-
-## [～からです](https://youtu.be/M2ACwSXE_FI)
-## [～が 欲しいです・～たいです](https://youtu.be/IuCqb-0mVC4)
-## [～くします・～にします](https://youtu.be/q4JbhXZuZGY)
-## [～くなります・～になります](https://youtu.be/w2d2YiJU9UA)
-## [～ころ](https://youtu.be/FwSWiOrVntA)
-
-## [～たり～たり（動作並立＜一部＞）](https://youtu.be/g1lb4vnh4yo)
-## [～ています（現在進行）（目前状態）](https://youtu.be/9BWX8AERuCQ)
-
-## [～てから](https://youtu.be/GSSeKB1pb14)
-## [～てください・～ないでください](https://youtu.be/s4aJunA1Olk)
-
-
-## [～でしょう](https://youtu.be/Q8KXlJ-qzZA)
-
-
-
-
-
 
 <details><summary markdown="span">Notes</summary>
 
@@ -242,6 +142,33 @@ B: でも、3月14日のホワイトデーは男性が女性にプレゼント�
 - そうですか どうぞよろしく
 
 </summary></details>
+
+
+## [～いです・～くないです（い形容詞肯定・否定）](https://youtu.be/GByt-fO-sRA)
+## [～です・～じゃありません（な形容詞肯定・否定）](https://youtu.be/M2UYM1DlK_I)
+
+## [～ました・～ませんでした（動詞過去）](https://youtu.be/VgIfyGDJSrE)
+## [～でした・～じゃありませんでした（名詞過去）](https://youtu.be/9FgAj3ONjUw)
+## [～かったです・～くなかったです（い形容詞過去）](https://youtu.be/NvlZJoSt5mg)
+## [～でした・～じゃありませんでした（な形容詞過去）](https://youtu.be/vGZwOFVsETc)
+
+
+
+## [～からです](https://youtu.be/M2ACwSXE_FI)
+## [～が 欲しいです・～たいです](https://youtu.be/IuCqb-0mVC4)
+## [～くします・～にします](https://youtu.be/q4JbhXZuZGY)
+## [～くなります・～になります](https://youtu.be/w2d2YiJU9UA)
+## [～ころ](https://youtu.be/FwSWiOrVntA)
+
+## [～たり～たり（動作並立＜一部＞）](https://youtu.be/g1lb4vnh4yo)
+## [～ています（現在進行）（目前状態）](https://youtu.be/9BWX8AERuCQ)
+
+## [～てから](https://youtu.be/GSSeKB1pb14)
+## [～てください・～ないでください](https://youtu.be/s4aJunA1Olk)
+
+
+## [～でしょう](https://youtu.be/Q8KXlJ-qzZA)
+
 
 ## [～という（名称導入）](https://youtu.be/4ddcTf2CFf8)
 ## [～とき](https://youtu.be/9MhRk-DsycA)

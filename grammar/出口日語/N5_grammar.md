@@ -1,5 +1,6 @@
 # [Ｎ５文法一覧](https://www.youtube.com/playlist?list=PLynCeSdpMqxD4OJHjNB3QkmfzfD7B_s67)
 
+## [Ｎ５文法 - 動詞類](N5_grammar_verbs.md)
 ## [Ｎ５文法 - 助詞類](N5_grammar_particles.md)
 ## [Ｎ５文法 - 句型類](N5_grammar_sentence.md)
 
@@ -9,24 +10,7 @@
 ## [動詞・形容詞・名詞の並述](https://youtu.be/J80cLZHYUuc)
 
 
-## [動詞「普通形」](https://youtu.be/R5HI0jxURz0)
-## [辞書形](https://youtu.be/VXTA-hsnJEY)
-## [た形](https://youtu.be/0SSUlNir4X8)
-## [て形](https://youtu.be/3YdwZ_xRB3g)
-## [方法手段の「動詞て形」](https://youtu.be/uq4tZjiFRS4)
-## [動作順序「動詞て形」](https://youtu.be/7AGztuenMYY)
-## [附帶状況「動詞て形」](https://youtu.be/rG1EgtKxFQQ)
-## [ない形](https://youtu.be/VtZa9KbrpM0)
-## [なかった形](https://youtu.be/i8796RPeBtQ)
-## [ます形](https://youtu.be/AsEvNl4Cad0)
-
-
-
 ## [位置表現](https://youtu.be/VhGUps4dn3Y)
-
-## [自動詞・他動詞](https://youtu.be/RCbHfU5L4Wg)
-## [自動詞て形+います・他動詞て形+あります](https://youtu.be/pNEGlpxa7ys)
-
 
 ## [普通形＋名詞（連体修飾）](https://youtu.be/fuNoYEBG-Bw)
 ## [名詞「普通形」](https://youtu.be/dlqTPC91x1E)
