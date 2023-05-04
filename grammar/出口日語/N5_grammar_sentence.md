@@ -101,7 +101,8 @@
 
 
 
-## [ください](https://youtu.be/esYAg50QUJI)
+
+
 ## [もう・まだ](https://youtu.be/6l7ZIcleKoE)
 ## [もらいます](https://youtu.be/3qSNQQKTWmQ)
 ## [やります](https://youtu.be/K94H0QG26Ao)
@@ -151,7 +152,6 @@
 ## [～でした・～じゃありませんでした（名詞過去）](https://youtu.be/9FgAj3ONjUw)
 ## [～かったです・～くなかったです（い形容詞過去）](https://youtu.be/NvlZJoSt5mg)
 ## [～でした・～じゃありませんでした（な形容詞過去）](https://youtu.be/vGZwOFVsETc)
-
 
 
 ## [～からです](https://youtu.be/M2ACwSXE_FI)

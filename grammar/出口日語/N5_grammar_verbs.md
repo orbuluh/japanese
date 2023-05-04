@@ -249,3 +249,145 @@ Recap:
 </summary></details>
 
 
+
+## [ください](https://youtu.be/esYAg50QUJI)
+
+「ください」的意思是「請給我什麼」。因此，當想要某物時，可以說「名詞(A) を 數量詞 ください」。
+
+- 例如，當我想要一杯水時，可以說「水を一杯ください」。
+- 基本上，這裡的「A」通常放的是指物品，但也有可能放一些概念。
+  - 例如，「もっと自由をください」（請給我更多自由）。雖然自由不是一種看得到的東西，但也可以用這個概念來表示。
+
+- 如果在商店中使用「ください」，它代表我要買(且我會付錢)的意思。
+  - 例如，「じゃあ、このシャツをください」（請給我這件襯衫）等同於「じゃあ、このシャツを買います」（我要買這件襯衫）。
+
+- 在餐廳中使用「ください」，它代表我要點的意思。
+  - 可以使用「お願いします」或「注文します」來表達我要點的意思。例如，「アイスコーヒーをください」（我要點冰咖啡）。
+
+那麼，「ください」這個詞從何而來呢？
+
+- 在動詞中，「です」通常用於名詞，而「ます/ません/ました/ませんでした」則是動詞。但「ください」也是一個動詞。
+- 在日語中，有一個動詞「くれます」，用於當別人給我東西時。
+- 例如，當別人給我一杯水時，可以說「水をくれます」。
+- 當我用尊敬語對待上級，來表達「上輩分的人給我什麼」時，會使用「くださいます」。
+- 此外，「くださいます」還有一個命令形式，即「くださいませ」，是非常有禮貌的表達方式。
+  - 當「くださいませ」省略了語尾的「ませ」就變成「ください」，因此，當我禮貌地要求上級給我什麼時，會使用「ください」。
+- 此外，「ください」還有一種使用方式是用於拜託對方做某件事情。例如，「～くださいませんか」。
+- 使用拜託口吻時，會有給對方拒絕餘地的感覺。相比之下，「ください」（ませ）畢竟是命令型，比較沒有這方面的態度
+
+[例文](https://youtu.be/esYAg50QUJI?t=320)
+
+### **すみません、きれいなお皿を一枚ください。**
+
+Eng: "Excuse me, could I have one clean plate, please?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| すみません | su-mi-ma-sen | Expression | "Excuse me" or "I'm sorry" |
+| きれいな | ki-re-i-na | Adjective | "clean" or "neat" |
+| お皿 | o-sa-ra | Noun | "plate" or "dish" |
+| を | wo | Particle | marks the direct object of the verb |
+| 一枚 | i-chi-mai | Quantity Word | "one flat object" |
+| ください | ku-da-sai | Verb | polite imperative form of the verb くれる (ku-reru, "to give") in this case meaning "please give" |
+
+
+### **瓶ビールを2本ください。コップは4つお願いします。**
+
+Eng: "Two bottles of beer, please. Four glasses as well, please."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 瓶ビール | bin-bi-ru | Object | bottled beer |
+| を | o | Particle | marks the direct object of the sentence |
+| 2本 | ni-hon | Quantifier | two bottles |
+| ください | ku-da-sai | Verb | please give |
+| コップ | ko-pu | Subject | glass |
+| は | wa | Particle | marks the topic of the sentence |
+| 4つ | yo-tsu | Quantifier | four things |
+| お願いします | o-ne-gai-shi-masu | Expression | please (literally "I request") |
+
+### **領収書をください。**
+
+Eng: "Excuse me, may I have a receipt?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 領収書 | ryou-shuu-sho | Object | receipt |
+| を | o | Particle | marks the object of the sentence |
+| ください | ku-da-sai | Verb | polite request form of the verb くれる (ku-reru, "to give") |
+
+### **今考えています。もう少し時間をくださいませんか。**
+
+Eng: "I'm thinking now. Could you give me a little more time?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 今 | i-ma | Adverb | now |
+| 考えています | ka-nga-e-te-i-ma-su | Predicate | present progressive tense of the verb 考える (ka-nga-eru, "to think") and the polite auxiliary verb います (i-ma-su) |
+| もう少し | mo-u su-ko-shi | Adverb | a little more |
+| 時間 | ji-kan | Object | time |
+| を | o | Particle | marks the object of the sentence |
+| くださいませんか | ku-da-sa-i-ma-se-n-ka | Auxiliary verb | a polite form of the verb くれる (ku-re-ru, "to give") in negative form with the auxiliary verb ください (ku-da-sa-i) and the polite question particle か (ka) |
+
+[会話](https://youtu.be/esYAg50QUJI?t=352)
+
+### **すみません、それはどこのお酒ですか。**
+
+Eng: "Excuse me, where is that sake from?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| すみません | su-mi-ma-sen | Expression | "Excuse me" |
+| それは | so-re-wa | Pronoun + Topic marker | "that" + topic marker |
+| どこの | do-ko-no | Adjective + Particle | "where" + particle indicating possession |
+| お酒 | o-sa-ke | Noun | sake (Japanese rice wine) |
+| ですか | desu-ka | Ending particle | question marker |
+
+
+### **鹿児島のお酒です。とてもおいしいですよ。**
+
+Eng: "It's a drink from Kagoshima. It's very delicious."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 鹿児島 | ka-go-shi-ma | Subject | Kagoshima |
+| の | no | Particle | indicates possession |
+| お酒 | o-sa-ke | Subject | alcoholic beverage |
+| です | de-su | Predicate | polite copula |
+| とても | to-te-mo | Adverb | very |
+| おいしい | o-i-shi-i | Predicate | delicious |
+| です | de-su | Sentence ending | polite copula |
+
+
+### **いくらですか。**
+
+Eng: "How much is it?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| いくら | i-ku-ra | Noun | how much |
+| です | desu | Copula | to be (polite) |
+| か | ka | Particle | marks the sentence as a question |
+
+### **5800円です。**1
+
+Eng: "It's 5800 yen."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 5800 | go-sen-happyaku | Subject | 5800 |
+| 円 | en | Particle | marks the currency yen |
+| です | desu | Predicate | polite copula, indicating a statement or assertion |
+
+### **じゃあ、それをください。**
+
+Eng: "Then, please give me that."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| じゃあ | ja-a | Conjunction | an informal way of saying "then" or "well" |
+| それ | so-re | Object | "that" |
+| を | wo | Particle | marks the object of the sentence |
+| ください | ku-da-sai | Predicate | polite imperative form of the verb くれる (ku-reru, "to give") |
+
+
