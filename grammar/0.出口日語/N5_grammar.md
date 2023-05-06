@@ -4,16 +4,14 @@
 ## [Ｎ５文法 - 助詞類](N5_grammar_particles.md)
 ## [Ｎ５文法 - 句型類](N5_grammar_sentence.md)
 
-
-## [文体「丁寧体・普通体」](https://youtu.be/u5YluISdV9s)
-## [二種類の丁寧形否定表現](https://youtu.be/SUGleiQ4Z8s)
-## [動詞・形容詞・名詞の並述](https://youtu.be/J80cLZHYUuc)
-
+---
 
 ## [位置表現](https://youtu.be/VhGUps4dn3Y)
 
-## [普通形＋名詞（連体修飾）](https://youtu.be/fuNoYEBG-Bw)
 
+## [文体「丁寧体・普通体」](https://youtu.be/u5YluISdV9s)
+
+## [二種類の丁寧形否定表現](https://youtu.be/SUGleiQ4Z8s)
 
 ## [名詞「普通形」](https://youtu.be/dlqTPC91x1E)
 
@@ -178,13 +176,17 @@ Eng: "Oh I see. Good luck on your business trip."
 </summary></details>
 
 
+## [普通形＋名詞（連体修飾）](https://youtu.be/fuNoYEBG-Bw)
+
 
 ## [名詞代替「の」](https://youtu.be/y5cmsp1XBks)
 
-## [形容詞の副詞用法](https://youtu.be/neY8weBna98)
-## [形容詞の名詞接続](https://youtu.be/G-WeQQwGgyo)
+## [動詞・形容詞・名詞の並述](https://youtu.be/J80cLZHYUuc)
 ## [い形容詞「普通形」](https://youtu.be/rKQWoxJvzrE)
 ## [な形容詞「普通形」](https://youtu.be/ckd01Su3YNY)
+## [形容詞の副詞用法](https://youtu.be/neY8weBna98)
+## [形容詞の名詞接続](https://youtu.be/G-WeQQwGgyo)
+
 
 ## [副詞](https://youtu.be/4uuRpPKbxYM)
 ## [感応詞](https://youtu.be/yTM-G1xa63Q)
@@ -198,5 +200,173 @@ Eng: "Oh I see. Good luck on your business trip."
 
 ## [数字](https://youtu.be/3fqzAjezi2k)
 ## [数量詞](https://youtu.be/_CBGGYQ-M40)
+
 ## [時間表現](https://youtu.be/QRyu_Yud0gs)
+
+<details><summary markdown="span">Examples</summary>
+
+日語中文數字的發音，一般使用自古以來的日本念法或從中國轉來的數字念法。由於現代社會的共同使用，這兩種念法的部分會產生特別之處。
+
+- [中文轉來的數字發音](https://youtu.be/QRyu_Yud0gs?t=156)，是「1: いち、2: に、3: さん、4: し、5: ご、6: ろく、7: しち、8: はち、9: きゅう or く、10: じゅう」。
+- [日文傳統的數字發音](https://youtu.be/QRyu_Yud0gs?t=191)，是「1: ひ、2: ふ、3: み、4: よ、5: いつ、6: む、7: なな、8: や、9: ここの、10: とお」。
+
+![](imgs/number_chi_jp.JPG)
+
+
+基本上跟隨中國傳來的數字發音的有...
+
+![](imgs/chi_time_num.JPG)
+
+- [月](https://youtu.be/QRyu_Yud0gs?t=30): 基本上跟隨中國傳來的數字發音
+  - 特別注意: 4 (しがつ) [不念よ], 7（しちがつ）[不念なな], 9（くがつ）[不念きゅう]
+
+- [小時](https://youtu.be/QRyu_Yud0gs?t=577)
+- [分](https://youtu.be/QRyu_Yud0gs?t=662)
+  - 同數字規則，後面是は行1 6 8 10會有促音變化
+
+1-10 日比較接近古音
+
+- [幾日](https://youtu.be/QRyu_Yud0gs?t=335)
+- 大致上 1-10「日」的表現法跟日本古來音相同，但1號的發音卻與眾不同。
+  - 這是因為源自日語的關係。月初的日語念法為「つきたち（月立）」，其中「たち」意為開始。
+  - 例如「立冬」即指冬季的開始。
+  - 而一個月的開始則被稱為「ついたち」，由「月立」轉化而來。
+  - 因此，一號的發音不是從數字而來，而是源自「一個月的開始」的意思，讀作「ついたち」。
+  - 2-10日大致上參照古音。 2: ふつか、3: みっか、4: よっか、5: いつか、6: むいか、7: なのか、8: ようか(8與古音比較不同)、9: ここのか、10: とおか。
+- 11 之後回到中國傳來的數字規則
+
+![](imgs/day.JPG)
+
+
+- [星期/曜日](https://youtu.be/QRyu_Yud0gs?t=470)
+![](imgs/weekday.JPG)
+
+
+[例文](https://youtu.be/QRyu_Yud0gs?t=794)
+
+### **今日は2020年3月13日、金曜日です。**
+
+Eng: "Today is Friday, March 13, 2020."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 今日 | kyoo | Subject | today |
+| は | wa | Particle | marks the subject of the sentence |
+| 2020年3月13日 | nii-sen-ni-jyuu-nen san-gatsu juu-san-nichi | Subject | March 13, 2020 |
+| 、| 、| Particle | separates the date from the day of the week |
+| 金曜日 | kin-yoo-bi | Predicate | Friday |
+| です | desu | Copula | to be (polite) |
+
+### **東京は夜の7時です。ニューヨークは今何時ですか。**
+
+Eng: "It's 7 PM in Tokyo. What time is it now in New York?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 東京 | tou-kyou | Subject | Tokyo |
+| は | wa | Particle | topic marker particle |
+| 夜 | yoru | Noun | night |
+| の | no | Particle | possessive particle |
+| 7時 | shichi-ji | Noun | 7 o'clock |
+| です | desu | Verb | to be |
+| ニューヨーク | nyuu-yooku | Subject | New York |
+| は | wa | Particle | topic marker particle |
+| 今 | ima | Adverb | now |
+| 何時 | nan-ji | Noun | what time |
+| ですか | desu ka | Verb | to be (question form) |
+
+### **私は毎朝8時に起きます。**
+
+Eng: "I wake up at 8 o'clock every morning."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 私 | wa-ta-shi | Subject | I |
+| は | wa | Particle | topic particle |
+| 毎朝 | mai-asa | Noun | every morning |
+| 8時 | ha-ji | Noun | 8 o'clock |
+| に | ni | Particle | marks the time when the action occurs |
+| 起きます | o-ki-masu | Predicate | present tense of the verb 起きる (o-ki-ru, "to wake up") |
+
+### **学校の授業は9時半から16時50分までです。**
+
+Eng: "School classes are from 9:30 to 16:50."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 学校 | ga-kou | Subject | school |
+| の | no | Particle | indicates possession |
+| 授業 | ju-gyou | Object | class/lesson |
+| は | wa | Particle | marks the topic of the sentence |
+| 9時半 | ku-ji-han | Object | 9:30 |
+| から | kara | Particle | indicates starting point |
+| 16時50分 | ju-roku-ji-go-juppun | Object | 16:50 |
+| まで | ma-de | Particle | indicates end point |
+| です | desu | Copula | to be verb indicating politeness |
+
+
+
+[会話](https://youtu.be/QRyu_Yud0gs?t=828)
+
+### **明日は何時に来ましょうか。**
+
+Eng: "What time shall we come tomorrow?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 明日 | ashita | Noun | tomorrow |
+| は | wa | Particle | topic marker |
+| 何時 | nan-ji | Noun | what time |
+| に | ni | Particle | indicates time |
+| 来ましょうか | ki-ma-shou-ka | Predicate | polite expression for "shall we come" (stem of the verb 来る (ku-ru, "to come") + auxiliary verb ましょう (ma-shou) for suggestion or invitation + question particle か (ka)) |
+
+### **発表会は10時ですから、発表会が始まる前に**
+
+Eng: "The presentation is at 10 o'clock, so before the presentation starts"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 発表会 | hap-pyou-kai | Subject | presentation, announcement meeting |
+| は | wa | Particle | marks the topic of the sentence |
+| 10時 | juu-ji | Noun | 10 o'clock |
+| ですから | desu-kara | Conjunction | because, so |
+| 発表会が始まる | hap-pyou-kai ga ha-ji-ma-ru | Predicate | the presentation starts |
+| 前に | mae-ni | Adverb | before |
+
+### **来てください。**
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 来て | ki-te | Predicate | the te-form of the verb 来る (ku-ru, "to come") |
+| ください | ku-da-sai | Suffix | a request, similar to "please" in English |
+
+### **わかりました。じゃ、10時10分前にここへ来ますね。**
+
+Eng: "Understood. I'll come here by 10:10 then."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| わかりました | wa-ka-ri-ma-shi-ta | Predicate | past tense of the verb 分かる (wa-ka-ru, "to understand") |
+| じゃ | ja | Particle | a contracted form of では (de-wa), meaning "then" or "in that case" |
+| 10時10分前に | ju-u-ji-tou-juu-fun-mae-ni | Adverbial phrase | "before 10:10" |
+| ここへ | ko-ko-e | Particle | "here" (to this place) |
+| 来ます | ki-ma-su | Predicate | future tense of the verb 来る (ku-ru, "to come") |
+| ね | ne | Particle | a sentence-ending particle used to seek agreement or confirmation |
+
+
+### **はい。お願いします。**
+
+Eng: "Yes. Please."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| はい | ha-i | Particle | an affirmative response, "yes" |
+| お願いします | o-ne-gai-shi-masu | Predicate | a polite expression of request, "please" |
+
+</summary></details>
+
+
+
+
+
 ## [頻度・程度・量の表現](https://youtu.be/x32zi7cGVQg)
