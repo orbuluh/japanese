@@ -15,6 +15,8 @@
 
 ## [名詞「普通形」](https://youtu.be/dlqTPC91x1E)
 
+<details><summary markdown="span">Examples</summary>
+
 - 普通型是指在日文中，隨著對方身份的不同，說話的方式也會相應改變。
 - 例如，當你第一次與陌生人或客戶交談，或在公司裡說話時，可能需要使用比較正式的說法，這就是丁寧型。
 - 當你和家人或朋友交談時，就不需要那麼正式的說法，這就是普通型。
@@ -116,8 +118,6 @@ Eng: "The contents of the lucky bag weren't what I wanted."
 | じゃなかった | ja-na-ka-tta | Predicate | negative past tense of the copula verb だ (da) to indicate "was not" |
 
 [会話](https://youtu.be/dlqTPC91x1E?t=589)
-
-<details><summary markdown="span">Examples</summary>
 
 ### **今度、出張でブラジルへ行くよ。**
 
