@@ -180,5 +180,162 @@
 ## [～ましょう](https://youtu.be/eYOl26g6ao4)
 
 ## [～ませんか](https://youtu.be/laC5NIRwMZA)
+
 ## [～中](https://youtu.be/FDrYbQBOEVw)
 
+<details><summary markdown="span">Notes</summary>
+
+「中」這個詞有兩種念法：一個是「ちゅう」，另一個是「じゅう」。 有四種主要用法，依照用法念因不同。
+
+1. 表示正在進行中的意思，接在動詞的ます形後面，(去掉「ます」的部分)再加上「中」。這時一定要念成「ちゅう」。
+
+### **母親に電話をかけましたが、話し中でした。**
+
+Eng: "I called my mother but she was on the phone."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 母親 | ha-ha-o-ya | Object | mother |
+| に | ni | Particle | marks the indirect object |
+| 電話 | de-n-wa | Object | phone |
+| を | o | Particle | marks the direct object |
+| かけました | ka-ke-ma-shi-ta | Predicate | past tense of the verb かける (ka-keru, "to call") |
+| が | ga | Particle | but |
+| 話し中 | ha-na-shi-chu-u | Adjective | in the middle of a conversation |
+| でした | de-shi-ta | Predicate | past tense of the copula です (de-su) |
+
+
+### **この道は工事中ですから通ることができません**
+
+Eng: "You can't pass through this road because it's under construction."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| この | ko-no | Adjective | this |
+| 道 | mi-chi | Subject | road |
+| は | wa | Particle | marks the subject of the sentence |
+| 工事中 | kou-ji-chuu | Adjective | under construction |
+| ですから | de-su-ka-ra | Conjunction | because |
+| 通る | to-o-ru | Predicate | verb "to pass through" |
+| ことができません | ko-to-ga-de-ki-ma-se-n | Negative Potential Verb | can't do / not possible to do |
+
+2. 這個詞還可以表示全部、全體，這時要念成「じゅう」。
+
+### **今日は一日中雨が降っていました。**
+
+Eng: "It rained all day today."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 今日 | kyoo | Subject | today |
+| は | wa | Particle | topic marker |
+| 一日中 | ichi-nichi-juu | Adverbial phrase | all day |
+| 雨 | a-me | Subject | rain |
+| が | ga | Particle | marks the subject of the sentence |
+| 降っていました | fu-tte-i-ma-shi-ta | Predicate | past continuous tense of the verb 降る (fu-ru, "to rain") |
+
+### **世界中で新型コロナが流行している。**
+
+Eng: "The new coronavirus is spreading around the world."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 世界中 | se-ka-i-juu | Noun | all over the world |
+| で | de | Particle | marks the location where an action takes place |
+| 新型コロナ | shin-gata ko-ro-na | Noun | new coronavirus |
+| が | ga | Particle | marks the subject of the sentence |
+| 流行している | ryuu-ko-u-shi-te-i-ru | Verb | present continuous form of the verb 流行する (ryuu-ko-u-su-ru, "to spread") |
+
+
+3. 表示一個期間或期限，有時候要念「ちゅう」，有時候要念「じゅう」。但通常是念成「ちゅう」
+
+### **夏休み中、友達と北海道へ行きました。**
+
+Eng: "During summer vacation, I went to Hokkaido with my friends."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 夏休み中 | na-tsu-yas-u-mi-chu-u | Adverbial phrase | during summer vacation |
+| 友達 | to-mo-da-chi | Subject | friends |
+| と | to | Particle | with |
+| 北海道 | ho-kkai-do | Object | Hokkaido |
+| へ | e | Particle | to |
+| 行きました | i-ki-ma-shi-ta | Predicate | past tense of the verb 行く (i-ku, "to go") |
+
+3.1 如果用「じゅう」，則表示某個時間點之前或之內，比如「今日中」、「今夜中」、「明日中」、「今年中」等。
+
+### **希望者は今日中に申し込んでください**
+
+Eng: "Please apply today for those who are interested."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 希望者 | ki-bo-u-sha | Subject | those who are interested |
+| は | wa | Particle | topic marker |
+| 今日中に | kyoo-chuu-ni | Adverbial phrase | within today |
+| 申し込んで | mo-shi-ko-n-de | Predicate | present continuous form of the verb 申し込む (mo-shi-ko-mu, "to apply") |
+| ください | ku-da-sai | Auxiliary verb | please (polite command) |
+
+4. 表示範圍或裡面的時候,用到ちゅう。
+
+### **日本では100人中18人が高校卒業後に就職します。**
+
+Eng: "In Japan, 18 out of 100 people get a job after graduating from high school."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 日本 | ni-hon | Subject | Japan |
+| では | de-wa | Particle | indicates the topic of the sentence |
+| 100人中 | hya-ku-nin-chuu | Noun | "among 100 people" |
+| 18人が | juu-hachi-nin-ga | Subject | 18 people |
+| 高校卒業後に | kou-kou-sotsu-gyou-go-ni | Adverb | "after graduating from high school" |
+| 就職します | shuu-shoku-shi-masu | Predicate | "get a job" in polite form |
+
+
+### **植物は空気中の二酸化炭素を吸収します**
+
+Eng: "Plants absorb carbon dioxide from the air."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 植物 | shoku-butsu | Subject | plants |
+| は | wa | Particle | marks the subject of the sentence |
+| 空気中 | ku-ki-juu | Noun | in the air |
+| の | no | Particle | indicates possession |
+| 二酸化炭素 | ni-san-ka-tan-so | Noun | carbon dioxide |
+| を | wo | Particle | marks the direct object of the sentence |
+| 吸収します | kyu-shuu-shi-masu | Predicate | absorb(s) |
+
+4.1 但是呢。名詞の中 名詞後面還有一個の的話,這個是中要念なか。
+
+### **スープの中に何が入っていますか**
+
+Eng: "What's in the soup?"
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| スープ | su-pu | Subject | soup |
+| の | no | Particle | indicates possession or connection |
+| 中 | naka | Noun | inside |
+| に | ni | Particle | indicates location or direction |
+| 何 | na-ni | Pronoun | what |
+| が | ga | Particle | marks the subject of the sentence |
+| 入っています | hai-tte-i-ma-su | Predicate | present continuous form of the verb 入る (ha-iru, "to enter") + polite auxiliary verb います (i-ma-su) |
+
+4.2 名詞直接接中的時候,要念ちゅう。
+
+### **水中には魚がいます。**
+
+Eng: "There are fish in the water."
+
+| Word | Romaji | Role | Meaning |
+| --- | --- | --- | --- |
+| 水中 | sui-chuu | Noun | the water |
+| に | ni | Particle | indicates the location of the action |
+| は | wa | Particle | marks the topic of the sentence |
+| 魚 | sa-ka-na | Noun | fish |
+| が | ga | Particle | marks the subject of the sentence |
+| います | i-ma-su | Predicate | present tense of the verb いる (i-ru, "to be") |
+
+
+</summary></details>
