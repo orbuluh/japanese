@@ -212,12 +212,56 @@ Eng: "Oh I see. Good luck on your business trip."
 </summary></details>
 
 
-
-
-
 ## [な形容詞「普通形」](https://youtu.be/ckd01Su3YNY)
+
+<details><summary markdown="span">Notes</summary>
+
+||丁寧形|普通形|
+|--|--|--|
+|現在肯定|靜か`です`|靜か`だ`|
+|現在否定|靜か`じゃありません`|靜か`じゃない`|
+|過去肯定|靜か`でした`|靜か`だった`|
+|過去否定|靜か`じゃありませんでした`|靜か`じゃなかった`|
+
+
+- 像之前介紹的動詞和い形容詞一樣，普通型是一種坦白、親近的對話口氣，適用於與家人、朋友的會話中，無需客氣。
+- 普通形的現在肯定形[だ]的部分並不一定出現，如在疑問句中，可以直接去掉だ，例如「今週の土曜日は暇ですか？」可以寫成「今週の土曜日は暇？」而不必加上だ。
+
+- 除了與家人和朋友的對話之外，還有一些特定的文型需要使用普通形。例如
+
+**～とき　～的時候**
+
+- 「元気だった時、よく山に登りました」，表示「我健康的時候，常常去爬山」。
+
+**～でしょう？　～對不對**
+
+- 「中村さんは歌が`上手`でしょう？」表示「中村小姐很會唱歌對不對？」這時要使用「上手でしょう？」而不是加上だ。
+
+
+</summary></details>
+
+
 ## [形容詞の副詞用法](https://youtu.be/neY8weBna98)
+
 ## [形容詞の名詞接続](https://youtu.be/G-WeQQwGgyo)
+
+<details><summary markdown="span">Notes</summary>
+
+日文的形容詞有兩種：一種是い形容詞，另一種是な形容詞。
+
+い形容詞是以い結尾的形容詞，當修飾名詞時直接加在後面。
+
+- 例如：高い山（高的山）。
+
+而な形容詞的尾巴不固定，需要在後面加上な再接名詞。
+
+- 例如：静かな町（安靜的小鎮）。
+
+此外，在日語中，當名詞要修飾另一個名詞時，會使用の。但注意的是，の只用於名詞接名詞，而不用於形容詞接名詞的情況。
+
+- 例如：日本語の本（日文的書）。
+
+</summary></details>
 
 
 ## [副詞](https://youtu.be/4uuRpPKbxYM)
@@ -234,7 +278,7 @@ Eng: "Oh I see. Good luck on your business trip."
 
 ## [数字](https://youtu.be/3fqzAjezi2k)
 
-<details><summary markdown="span">Examples</summary>
+<details><summary markdown="span">Notes</summary>
 
 在日語中，每個數字有時候有多種發音，或是有促音變化等。
 
@@ -270,7 +314,7 @@ Eng: "Oh I see. Good luck on your business trip."
 
 ## [時間表現](https://youtu.be/QRyu_Yud0gs)
 
-<details><summary markdown="span">Examples</summary>
+<details><summary markdown="span">Notes</summary>
 
 日語中文數字的發音，一般使用自古以來的日本念法或從中國轉來的數字念法。由於現代社會的共同使用，這兩種念法的部分會產生特別之處。
 
