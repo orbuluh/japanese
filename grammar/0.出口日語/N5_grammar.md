@@ -241,8 +241,6 @@ Eng: "Oh I see. Good luck on your business trip."
 </summary></details>
 
 
-## [形容詞の副詞用法](https://youtu.be/neY8weBna98)
-
 ## [形容詞の名詞接続](https://youtu.be/G-WeQQwGgyo)
 
 <details><summary markdown="span">Notes</summary>
@@ -262,6 +260,42 @@ Eng: "Oh I see. Good luck on your business trip."
 - 例如：日本語の本（日文的書）。
 
 </summary></details>
+
+
+## [形容詞の副詞用法](https://youtu.be/neY8weBna98)
+
+<details><summary markdown="span">Notes</summary>
+
+||A|B|
+|--|--|--|
+|い形容詞|～く|動詞|
+|な形容詞|～に|い形容詞|
+|　　　　|　　|な形容詞|
+
+
+副詞的用法包括修飾動詞、い形容詞和な形容詞等。這些形容詞本身可以像副詞一樣使用。例如：
+
+`ゆっくり食事します`（慢慢地用餐）
+- 在這個例子中，「ゆっくり」是一個副詞，表示慢慢地。這是標準的副詞使用方法。
+
+
+除了副詞之外，也可以使用い形容詞來修飾後面的部分。例如：
+
+`「楽しく食事します」`（愉快地用餐）
+
+- 「楽しく」是用來修飾動詞「食事します」的い形容詞形式。
+- 楽しい變化為楽しく，然後與動詞結合。
+
+
+`「静かに食事します」`（安靜地用餐）
+
+- 「静かに」表示安靜地用餐，也是修飾動詞「食事します」的な形容詞形式。
+- 静かな變化為静かに，然後與動詞結合。
+
+</summary></details>
+
+
+
 
 
 ## [副詞](https://youtu.be/4uuRpPKbxYM)
