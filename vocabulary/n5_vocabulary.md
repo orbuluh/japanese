@@ -1,7 +1,5 @@
 # N5 vocabulary
 
-
-
 ## **私の最初の務めは資格のない志願者をふるいにかけることだった。**
 
 - Sentence Category: Statement Sentence
@@ -418,7 +416,6 @@
     - 美しい (utsukushii) - "beautiful"
     - と思った (to omotta) - "thought that"
 
-
 ## **このミルクは少し古くなってしまいました。**
 
 - Sentence category: Statement
@@ -431,19 +428,15 @@
     - 古くなってしまいました (fukunatte shimaimashita) - "became old/has gone bad" (polite past tense)
 
 
-## **夜が明けるまで、こうしてさよならを言っていた。**
+## **夜が明けるまで、こうしてさよならを言っていたい。**
 
-- Sentence category: Statement
-- English translation: I said goodbye like this until the morning broke.
-- Breakdown:
-    - 夜 (yoru) - "night"
-    - が (ga) - subject marker
-    - 明ける (akeru) - "breaks/dawns" (intransitive verb indicating the beginning of a new day)
-    - まで (made) - particle indicating a time limit (in this case, "until")
-    - こうして (koushite) - "like this"
-    - さよなら (sayonara) - "goodbye"
-    - を (wo) - object marker
-    - 言っていた (itteita) - "was saying" (continuous past tense)
+- Sentence Category: Expressing a Desire
+- English Translation: "I want to say goodbye like this until dawn breaks."
+- Word Breakdown:
+    - 夜が明けるまで (yo-ga-a-ke-ru-ma-de) - until dawn breaks
+    - こうして (ko-u-shi-te) - like this
+    - さよならを (sa-yo-na-ra-wo) - goodbye + object particle "wo"
+    - 言っていたい (i-tte-i-ta-i) - want to say (present continuous form of the verb "to say" in a polite expression + potential form "tai" to indicate desire)
 
 ## **サンドイッチは要りません。**
 
@@ -654,3 +647,71 @@
     - 雨が降ろうと (a-me-ga-fu-ro-u-to) - Whether it rains (lit. even if it rains)
     - 晴れようと (ha-re-yo-u-to) - or shines (lit. even if it clears up)
     - 関係がない (kan-kei-ga-na-i) - doesn't matter (lit. there is no relation)
+
+## **外へ出たい。**
+
+- Sentence Category: Expressing Desire/Wish
+- English Translation: "I want to go outside."
+- Word Breakdown:
+    - 外へ (so-to-e) - outside + direction particle "e"
+    - 出たい (de-ta-i) - want to go out (present tense of the verb "to go out" in a polite expression)
+
+## **冗談はともかく、君の頭脳は医者に見せるべきだ。**
+
+- Sentence Category: Making a Suggestion
+- English Translation: "Jokes aside, you should show your brain to a doctor."
+- Word Breakdown:
+    - 冗談はともかく (jo-kan-wa-to-mo-ka-ku) - Jokes aside
+    - 君の (ki-mi-no) - your
+    - 頭脳は (zu-nou-wa) - brain + topic marker particle "wa"
+    - 医者に (i-sha-ni) - to a doctor
+    - 見せるべきだ (mi-se-ru-be-ki-da) - should show (present tense of the verb "to show" in a polite expression + potential form "beki" to indicate "should" or "ought to")
+
+## **彼は勝って見せると言ったが確かに勝った。**
+
+- Sentence Category: Stating a Fact
+- English Translation: "He said he would win and he certainly did."
+- Word Breakdown:
+    - 彼は (ka-re-wa) - he + topic marker particle "wa"
+    - 勝って見せると (ka-tte-mi-se-ru-to) - would win and show
+    - 言ったが (i-tta-ga) - said but
+    - 確かに (ta-shi-ka-ni) - certainly
+    - 勝った (ka-tta) - won (past tense of the verb "to win")
+
+## **彼は申し分なくよく働いている。**
+
+- Sentence Category: Stating a Fact
+- English Translation: "He is working well without any flaws."
+- Word Breakdown:
+    - 彼は (ka-re-wa) - he + topic marker particle "wa"
+    - 申し分なく (mo-u-shi-bu-n-na-ku) - without any flaws
+    - よく (yo-ku) - well
+    - 働いている (ha-ta-ra-i-te-i-ru) - is working (present continuous form of the verb "to work" in a polite expression)
+
+
+## **彼は申し分なくよく働いている。**
+
+- Sentence Category: Stating a Fact
+- English Translation: "He is working well without any flaws."
+- Word Breakdown:
+    - 彼は (ka-re-wa) - he + topic marker particle "wa"
+    - 申し分なく (mo-u-shi-bu-n-na-ku) - without any flaws
+    - よく (yo-ku) - well
+    - 働いている (ha-ta-ra-i-te-i-ru) - is working (present continuous form of the verb "to work" in a polite expression)
+
+
+## **試合が始まれば、彼は初めから飛ばしていくだろうし、ルチアーノは簡単に叩きのめされてしまうだろう。**
+
+- Sentence Category: Speculation
+- English Translation: "If the match starts, he will go all out from the beginning, and Luciano will probably be easily beaten."
+- Word Breakdown:
+    - 試合が (shi-ai-ga) - match + subject particle "ga"
+    - 始まれば (ha-ja-ma-re-ba) - if it starts (conditional form of the verb "to start")
+    - 彼は (ka-re-wa) - he + topic marker particle "wa"
+    - 初めから (ha-ji-me-ka-ra) - from the beginning
+    - 飛ばしていく (to-ba-shi-te-i-ku) - go all out (present continuous form of the verb "to fly" in a colloquial expression + "te" form + "iku" to indicate the speaker's perspective of a continuing action)
+    - だろうし (da-ro-u-shi) - probably + conjunction particle "shi"
+    - ルチアーノは (ru-chi-a-no-wa) - Luciano + topic marker particle "wa"
+    - 簡単に (kan-tan-ni) - easily
+    - 叩きのめされてしまう (ta-ki-no-me-sa-re-te-shi-mau) - be beaten badly (passive form of the verb "to beat" + "nomi" auxiliary verb + "shimau" auxiliary verb to indicate an unfortunate or regrettable result)
+    - だろう (da-ro-u) - probably
