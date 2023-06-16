@@ -252,6 +252,9 @@ Recap:
 
 ## [ください](https://youtu.be/esYAg50QUJI)
 
+<details><summary markdown="span">Examples</summary>
+
+
 「ください」的意思是「請給我什麼」。因此，當想要某物時，可以說「名詞(A) を 數量詞 ください」。
 
 - 例如，當我想要一杯水時，可以說「水を一杯ください」。
@@ -391,3 +394,4 @@ Eng: "Then, please give me that."
 | ください | ku-da-sai | Predicate | polite imperative form of the verb くれる (ku-reru, "to give") |
 
 
+</summary></details>
