@@ -100,8 +100,38 @@
 </summary></details>
 
 
+## [～です・～じゃありません（名詞肯定・否定）](https://youtu.be/3zRXvtDnev8)
 
+<details><summary markdown="span">Notes</summary>
 
+丁寧體 (禮貌體)
+
+> - 名詞 ... です        => 是XX
+> - 名詞 ...じゃありません => 不是XX
+> - 名詞 ...ではありません => 不是XX
+>   - (...では 唸快速 就是縮成 じゃ  一般的日本人 常常用じゃ)
+
+普通體
+
+> - 名詞 ... だ    　=> 是XX
+> - 名詞 ...じゃない => 不是XX
+
+[例文](https://youtu.be/3zRXvtDnev8?t=301)
+
+- 私は教師です
+- 佐藤さんは会社員です
+- 鈴木さんは学生じゃありません 社会人です
+- 黃さんは留学生です 林さんも留学生です
+
+[会話](https://youtu.be/3zRXvtDnev8?t=329)
+
+- 初めまして 私は高橋です 筑波大学の学生です
+- 私は陳です どうぞよろしくお願いします
+- 陳さんは学生ですか
+- いいえ 私は松岡商事の社員です
+- そうですか どうぞよろしく
+
+</summary></details>
 
 ## [もう・まだ](https://youtu.be/6l7ZIcleKoE)
 
@@ -149,85 +179,6 @@ B：まだ9時ですよ。もう少し遊びましょう。
 - 對於A來說，九點已經是該回家的時間使用「もう」，但對B來說，還沒有到該回家的時間，因此使用「まだ」。
 
 </summary></details>
-
-
-
-## [もらいます](https://youtu.be/3qSNQQKTWmQ)
-## [やります](https://youtu.be/K94H0QG26Ao)
-
-## [～あとで](https://youtu.be/iPvPSYS3AKE)
-
-## [～ます・～ません（動詞肯定・否定）](https://youtu.be/cygGNONmB9U)
-
-## [～です・～じゃありません（名詞肯定・否定）](https://youtu.be/3zRXvtDnev8)
-
-<details><summary markdown="span">Notes</summary>
-
-丁寧體 (禮貌體)
-
-> - 名詞 ... です        => 是XX
-> - 名詞 ...じゃありません => 不是XX
-> - 名詞 ...ではありません => 不是XX
->   - (...では 唸快速 就是縮成 じゃ  一般的日本人 常常用じゃ)
-
-普通體
-
-> - 名詞 ... だ    　=> 是XX
-> - 名詞 ...じゃない => 不是XX
-
-[例文](https://youtu.be/3zRXvtDnev8?t=301)
-
-- 私は教師です
-- 佐藤さんは会社員です
-- 鈴木さんは学生じゃありません 社会人です
-- 黃さんは留学生です 林さんも留学生です
-
-[会話](https://youtu.be/3zRXvtDnev8?t=329)
-
-- 初めまして 私は高橋です 筑波大学の学生です
-- 私は陳です どうぞよろしくお願いします
-- 陳さんは学生ですか
-- いいえ 私は松岡商事の社員です
-- そうですか どうぞよろしく
-
-</summary></details>
-
-
-## [～いです・～くないです（い形容詞肯定・否定）](https://youtu.be/GByt-fO-sRA)
-## [～です・～じゃありません（な形容詞肯定・否定）](https://youtu.be/M2UYM1DlK_I)
-
-## [～ました・～ませんでした（動詞過去）](https://youtu.be/VgIfyGDJSrE)
-## [～でした・～じゃありませんでした（名詞過去）](https://youtu.be/9FgAj3ONjUw)
-## [～かったです・～くなかったです（い形容詞過去）](https://youtu.be/NvlZJoSt5mg)
-## [～でした・～じゃありませんでした（な形容詞過去）](https://youtu.be/vGZwOFVsETc)
-
-
-## [～からです](https://youtu.be/M2ACwSXE_FI)
-## [～が 欲しいです・～たいです](https://youtu.be/IuCqb-0mVC4)
-## [～くします・～にします](https://youtu.be/q4JbhXZuZGY)
-## [～くなります・～になります](https://youtu.be/w2d2YiJU9UA)
-## [～ころ](https://youtu.be/FwSWiOrVntA)
-
-## [～たり～たり（動作並立＜一部＞）](https://youtu.be/g1lb4vnh4yo)
-## [～ています（現在進行）（目前状態）](https://youtu.be/9BWX8AERuCQ)
-
-## [～てから](https://youtu.be/GSSeKB1pb14)
-## [～てください・～ないでください](https://youtu.be/s4aJunA1Olk)
-
-
-## [～でしょう](https://youtu.be/Q8KXlJ-qzZA)
-
-
-## [～という（名称導入）](https://youtu.be/4ddcTf2CFf8)
-## [～とき](https://youtu.be/9MhRk-DsycA)
-## [～ないで（附帯状況）](https://youtu.be/tKPNE9CJ9LM)
-## [～に…が あります（います）](https://youtu.be/Whuzgn3l-oo)
-## [～は…に あります（います）](https://youtu.be/_huhMhP9DgY)
-## [～まえに](https://youtu.be/_b61ETBoZvo)
-
-## [～ましょう](https://youtu.be/eYOl26g6ao4)
-
-## [～ませんか](https://youtu.be/laC5NIRwMZA)
 
 ## [～中](https://youtu.be/FDrYbQBOEVw)
 
@@ -387,3 +338,37 @@ Eng: "There are fish in the water."
 
 
 </summary></details>
+
+
+
+
+
+
+## [もらいます](https://youtu.be/3qSNQQKTWmQ)
+## [やります](https://youtu.be/K94H0QG26Ao)
+## [～あとで](https://youtu.be/iPvPSYS3AKE)
+## [～ます・～ません（動詞肯定・否定）](https://youtu.be/cygGNONmB9U)
+## [～いです・～くないです（い形容詞肯定・否定）](https://youtu.be/GByt-fO-sRA)
+## [～です・～じゃありません（な形容詞肯定・否定）](https://youtu.be/M2UYM1DlK_I)
+## [～ました・～ませんでした（動詞過去）](https://youtu.be/VgIfyGDJSrE)
+## [～でした・～じゃありませんでした（名詞過去）](https://youtu.be/9FgAj3ONjUw)
+## [～かったです・～くなかったです（い形容詞過去）](https://youtu.be/NvlZJoSt5mg)
+## [～でした・～じゃありませんでした（な形容詞過去）](https://youtu.be/vGZwOFVsETc)
+## [～からです](https://youtu.be/M2ACwSXE_FI)
+## [～が 欲しいです・～たいです](https://youtu.be/IuCqb-0mVC4)
+## [～くします・～にします](https://youtu.be/q4JbhXZuZGY)
+## [～くなります・～になります](https://youtu.be/w2d2YiJU9UA)
+## [～ころ](https://youtu.be/FwSWiOrVntA)
+## [～たり～たり（動作並立＜一部＞）](https://youtu.be/g1lb4vnh4yo)
+## [～ています（現在進行）（目前状態）](https://youtu.be/9BWX8AERuCQ)
+## [～てから](https://youtu.be/GSSeKB1pb14)
+## [～てください・～ないでください](https://youtu.be/s4aJunA1Olk)
+## [～でしょう](https://youtu.be/Q8KXlJ-qzZA)
+## [～という（名称導入）](https://youtu.be/4ddcTf2CFf8)
+## [～とき](https://youtu.be/9MhRk-DsycA)
+## [～ないで（附帯状況）](https://youtu.be/tKPNE9CJ9LM)
+## [～に…が あります（います）](https://youtu.be/Whuzgn3l-oo)
+## [～は…に あります（います）](https://youtu.be/_huhMhP9DgY)
+## [～まえに](https://youtu.be/_b61ETBoZvo)
+## [～ましょう](https://youtu.be/eYOl26g6ao4)
+## [～ませんか](https://youtu.be/laC5NIRwMZA)
