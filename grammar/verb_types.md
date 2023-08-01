@@ -1,6 +1,5 @@
 # 動詞種類(按照型態及變化規則)
 
-
 - 在日語中，動詞需要變形才能表達特定的意思。在討論變形之前，我們必須了解日語動詞分類的基礎規則，因為不同類型的動詞會有不同的變形方式。
 - 首先，我們要考慮一個問題：在漢語中，僅憑單詞的形態或發音，我們能否判斷它是否是一個動詞？
   - 答案是否定的。同樣的道理適用於英語。
@@ -9,6 +8,51 @@
 - 日語動詞可以細分為四類，分別是五段動詞、一段動詞、サ變動詞和カ變動詞。
 - - (這個排列的方式是通過動詞數量的多少來排列的 也就是說五段動詞在日語當中是最多的  サ變動詞在日語當中是最少的)
   - 這四種類型的動詞可以通過觀察詞型來判斷它是否屬於某一類別。
+
+
+## Big picture
+
+
+```mermaid
+---
+title: Verb variation graph
+---
+
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart TD
+  n1["NOT end with る"]
+  n2["くる ?"]
+  n3["～する ?"]
+  n4["XYる where [Y is not ...i sound and ...not u sound (X could be empty)]"]
+  n5["XYる where [X not empty and Y is ...i or ...u sound"]
+  n6["XYる where [X is empty and Y is ...i or ...u sound"]
+  n7["(X)Y on top of kanji?
+  要る[iru]、切る[kiru]、知る[shiru]、減る[heru]、競る[seru]。]"]
+  ka["カ變動詞"]
+  sa["サ變動詞"]
+  one["一段動詞"]
+  five["五段動詞"]
+  special["居る[iru]、見る[miru]、似る[niru]、経る[heru]、寝る[neru]。"]
+
+
+  n1 -- O --> five
+  n1 -- X --> n2
+  n2 -- O --> ka
+  n2 -- X --> n3
+  n3 -- O --> sa
+  n3 -- X --> n4
+  n4 -- O --> five
+  n4 -- X --> n5
+  n5 -- O --> n7
+  n7 -- X --> one
+  n7 -- O --> five
+  n5 -- X --> n6
+  n6 -- most of is --> five
+  n6 -. exceptions .-> special -- is --> one
+
+```
+
+
 
 
 ## 動詞種類的基礎規則
