@@ -10,12 +10,23 @@
   - 這四種類型的動詞可以通過觀察詞型來判斷它是否屬於某一類別。
 
 
-## Big picture
+![](imgs/verb_catogorize_2.JPG)
+
+> 不同類別的動詞 針對不同的動詞變化 有不一樣的變化形式
+
+|||
+|--|--|
+|カ行/サ行變格動詞 (Type 3)|![](imgs/verb_saka.JPG)|
+|上一段動詞/下一段動詞 (Type 2)|![](imgs/verb_updown.JPG)|
+|五段動詞 (Type 1)|![](imgs/verb_5.JPG)|
+
+
+## 判斷動詞類別
 
 
 ```mermaid
 ---
-title: Verb variation graph
+title: Verb type graph
 ---
 
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
@@ -23,41 +34,43 @@ flowchart TD
   n1["NOT end with る"]
   n2["くる ?"]
   n3["～する ?"]
-  n4["XYる where [Y is not ...i sound and ...not u sound (X could be empty)]"]
-  n5["XYる where [X not empty and Y is ...i or ...u sound"]
-  n6["XYる where [X is empty and Y is ...i or ...u sound"]
-  n7["(X)Y on top of kanji?
-  要る[iru]、切る[kiru]、知る[shiru]、減る[heru]、競る[seru]。]"]
-  ka["カ變動詞"]
-  sa["サ變動詞"]
-  one["一段動詞"]
-  five["五段動詞"]
-  special["居る[iru]、見る[miru]、似る[niru]、経る[heru]、寝る[neru]。"]
+  n8["以[-iru] or [-eru] 結尾"]
+  n4["單假音 + 以る結尾"]
+  n5["雙假音 + 以る結尾"]
+  n6["る前假音為Kanji一部分?"]
+  n7["all remain cases: (>2假音 + 以る結尾)"]
+
+  ka((("カ變動詞")))
+  sa((("サ變動詞")))
+  one((("一段動詞")))
+  five((("五段動詞")))
 
 
-  n1 -- O --> five
-  n1 -- X --> n2
-  n2 -- O --> ka
-  n2 -- X --> n3
-  n3 -- O --> sa
-  n3 -- X --> n4
-  n4 -- O --> five
-  n4 -- X --> n5
-  n5 -- O --> n7
-  n7 -- X --> one
-  n7 -- O --> five
-  n5 -- X --> n6
-  n6 -- most of is --> five
-  n6 -. exceptions .-> special -- is --> one
-
+  n1 -- Y --> five
+  n1 -- N --> n2
+  n2 -- Y --> ka
+  n2 -- N --> n3
+  n3 -- Y --> sa
+  n3 -- N --> n8
+  n8 -- Y --> n4
+  n4 -. *1: Y, normally is .-> five
+  n4 -. *2: N, exceptions .-> one
+  n4 -- N --> n5
+  n5 -- N --> n7
+  n5 -- Y --> n6
+  n6 -. *3: Y .-> five
+  n6 -. *4: N .-> one
+  n7 --> one
+  n8 -- N --> five
 ```
 
+- [*1]: 要る[iru] 知る[kiru] 切る[shiru] 減る[heru] 競る[heru]
+- [*2]: 居る[iru] 見る[miru] 似る[niru] 経る[heru] 寝る[neru]。
+- [*3]: 帰る[kaeru] 焦る[aseru] 走る[hashiru] 陥る[ochiiru]。
+- [*4]: 変える[kaeru] 褪える[aseru]
 
 
-
-## 動詞種類的基礎規則
-
-<details><summary markdown="span">Examples</summary>
+### 動詞種類的基礎規則
 
 - :tokyo_tower:**カ變動詞**：在日語中，屬於カ變動詞的動詞只有一個，就是「くる」（表示來的意思）。
 - :tokyo_tower:**サ變動詞**：サ變動詞包括"一個"及"很多個"。只要記住帶有「する」的全部都是サ變動詞就可以了。
@@ -73,12 +86,9 @@ flowchart TD
 - :tokyo_tower:**五段動詞**：要判斷一個動詞是否是五段動詞，其實非常簡單。除了上述三種（カ變、サ變、一段）之外，剩下的全部都是五段動詞。
   - 五段動詞是日語中數量最多的動詞。
 
-</summary></details>
 
+### 動詞種類的特殊規則
 
-## 動詞種類的特殊規則
-
-<details><summary markdown="span">Examples</summary>
 
 在判斷日語動詞是一段動詞還是五段動詞時，我們需要注意兩條特殊規則：
 
@@ -97,14 +107,3 @@ flowchart TD
 
 - 同理: 走る[`hashi`ru]和陥る[`ochii`ru]均是五段動詞，因為假名在漢字上方。
 - 漢字在日語中具有重要地位，幫助我們區分五段和一段動詞。如果沒有漢字，兩者的假名可能完全相同，讓我們無法區分。
-
-</summary></details>
-
-
-![](imgs/verb_catogorize_2.JPG)
-
-|||
-|--|--|
-|カ行/サ行變格動詞 (Type 3)|![](imgs/verb_saka.JPG)|
-|上一段動詞/下一段動詞 (Type 2)|![](imgs/verb_updown.JPG)|
-|五段動詞 (Type 1)|![](imgs/verb_5.JPG)|
