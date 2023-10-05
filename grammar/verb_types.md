@@ -31,37 +31,35 @@ title: Verb type graph
 
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TD
-  n1["NOT end with る"]
-  n2["くる ?"]
-  n3["～する ?"]
-  n8["以[-iru] or [-eru] 結尾"]
-  n4["單假音 + 以る結尾"]
-  n5["雙假音 + 以る結尾"]
-  n6["る前假音為Kanji一部分?"]
-  n7["all remain cases: (>2假音 + 以る結尾)"]
+  n1[("NOT end with る")]
+  n2[("くる ?")]
+  n3[("～する ?")]
+  n8[("[-iru] or [-eru] 結尾")]
+  n9[("[-Xru] and X not [i] nor [e]")]
+  n4[["單音 + る結尾"]]
+  n5[["雙音 + る結尾"]]
+  n6["る前音為Kanji一部分?"]
+  n7[[">2假音 + 以る結尾"]]
 
-  ka((("カ變動詞")))
-  sa((("サ變動詞")))
-  one((("一段動詞")))
-  five((("五段動詞")))
+  ka((("カ變動詞\nirregular\nType 3")))
+  sa((("サ變動詞\nirregular\nType 3")))
+  one((("一段動詞\nru-verb\nType 2")))
+  five((("五段動詞\nu-verb\nType 1")))
 
 
-  n1 -- Y --> five
-  n1 -- N --> n2
-  n2 -- Y --> ka
-  n2 -- N --> n3
-  n3 -- Y --> sa
-  n3 -- N --> n8
-  n8 -- Y --> n4
-  n4 -. *1: Y, normally is .-> five
-  n4 -. *2: N, exceptions .-> one
-  n4 -- N --> n5
-  n5 -- N --> n7
-  n5 -- Y --> n6
-  n6 -. *3: Y .-> five
-  n6 -. *4: N .-> one
+  n1 --> five
+  n2 --> ka
+  n3 -- Yes --> sa
+  n8 --> n4
+  n4 -. *1: normally .-> five
+  n4 -. *2: exceptions .-> one
+  n8 --> n5
+  n8 --> n7
+  n5 --> n6
+  n6 -. *3: Yes .-> five
+  n6 -. *4: No .-> one
   n7 --> one
-  n8 -- N --> five
+  n9 --> five
 ```
 
 - [*1]: 要る[iru] 知る[kiru] 切る[shiru] 減る[heru] 競る[heru]
